@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="theme-color" content="#494f5c">
+	<meta name="msapplication-TileColor" content="#494f5c">
+
+<meta itemprop="name" content="使用 VirtualBox 启动已有的 Boot Camp">
+<meta itemprop="description" content="前言 由于又想入一下 Mac 和 Swift 的坑，这几天在配置 Mac，但是当前写的项目又大部分基于 Win 的组件，而且 Windows 有很多不可或缺的软件和功能，所以想着要么新创建">
+
+
+
+<meta itemprop="wordCount" content="1849">
+
+
+
+<meta itemprop="keywords" content="tech,virtualbox,bootcamp," />
+<meta property="og:title" content="使用 VirtualBox 启动已有的 Boot Camp" />
+<meta property="og:description" content="前言 由于又想入一下 Mac 和 Swift 的坑，这几天在配置 Mac，但是当前写的项目又大部分基于 Win 的组件，而且 Windows 有很多不可或缺的软件和功能，所以想着要么新创建" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ladit.me/posts/using-virtualbox-to-run-boot-camp/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="使用 VirtualBox 启动已有的 Boot Camp"/>
+<meta name="twitter:description" content="前言 由于又想入一下 Mac 和 Swift 的坑，这几天在配置 Mac，但是当前写的项目又大部分基于 Win 的组件，而且 Windows 有很多不可或缺的软件和功能，所以想着要么新创建"/>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<title>使用 VirtualBox 启动已有的 Boot Camp</title>
+	<link rel="stylesheet" href="https://ladit.me/css/style.min.568c54a56780af2a70c45272522247710b69dbfc080b315211fb98381e3796f8.css" integrity="sha256-VoxUpWeArypwxFJyUiJHcQtp2/wICzFSEfuYOB43lvg=">
+	
+</head>
+
+<body id="page">
+	
+	<header id="site-header" class="animated slideInUp faster">
+		<div class="hdr-wrapper section-inner">
+			<div class="hdr-left">
+				<div class="site-branding">
+					<a href="https://ladit.me">孤岛</a>
+				</div>
+				<nav class="site-nav hide-in-mobile">
+					
+				<a href="https://ladit.me/posts/">文章</a>
+				<a href="https://ladit.me/about/">关于</a>
+
+				</nav>
+			</div>
+			<div class="hdr-right hdr-icons">
+				<button id="toc-btn" class="hdr-btn desktop-only-ib" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-list"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3" y2="6"></line><line x1="3" y1="12" x2="3" y2="12"></line><line x1="3" y1="18" x2="3" y2="18"></line></svg></button><span class="hdr-social hide-in-mobile"><a href="mailto:i@ladit.me" target="_blank" rel="noopener me" title="Email"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg></a><a href="https://github.com/ladit" target="_blank" rel="noopener me" title="Github"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a></span><button id="menu-btn" class="hdr-btn" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button>
+			</div>
+		</div>
+	</header>
+	<div id="mobile-menu" class="animated fast">
+		<ul>
+			<li><a href="https://ladit.me/posts/">文章</a></li>
+			<li><a href="https://ladit.me/about/">关于</a></li>
+		</ul>
+	</div>
+
+
+	<main class="site-main section-inner animated fadeIn faster">
+		<article class="thin">
+			<header class="post-header">
+				<div class="post-meta"><span>Jan 1, 0001</span></div>
+				<h1>使用 VirtualBox 启动已有的 Boot Camp</h1>
+			</header>
+			<div class="content">
+				
+
+<h2 id="前言">前言<a href="#前言" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>由于又想入一下 Mac 和 Swift 的坑，这几天在配置 Mac，但是当前写的项目又大部分基于 Win 的组件，而且 Windows 有很多不可或缺的软件和功能，所以想着要么新创建一个 Windows 的虚拟机，要么把现在有的 Boot Camp 用某种方式在 Mac 下启动。</p>
+
+<p>新创建虚拟机有三个选择：Parallels Desktop、VMware Fusion、VirtualBox，前两者价格昂贵，安装包巨大，并且声称有强大的功能，后者免费小巧。迫于穷，我只能选择 VirtualBox，VirtualBox 建议的 Windows 10 虚拟机分配硬盘大小为 35G，网上查了一下 Windows 10 全新安装后的占用也在 20G 左右，但是我 Mac 下的剩余容量不够——我之前把大部分的硬盘在创建 Boot Camp 的时候分配给了 Boot Camp——并且使用到现在 Mac 和 Boot Camp 都剩余不多，我用了 Camptune X 把 Boot Camp  的容量重新分配了 20G 到  Mac，然后发现 Mac 的剩余容量是 37G。。</p>
+
+<p>因此我只能放弃新创建虚拟机，寻找方法把现在有的 Boot Camp 用某种方式在 Mac 下启动。Parallels Desktop 和 VMware Fusion 的特性里都有提到可以把现有的 Boot Camp 分区在 Mac 下直接启动，VirtualBox 似乎在官方说明里没有提到这点，Parallels Desktop 贵又坑，直接放弃，似乎 VMware Fusion 是不错的替代，我尝试了一下，十分无语：VMware Fusion 一直提示我没找到这台 Mac 上的 Boot Camp 分区，我直到后来用  <code>diskutil list</code> 发现我的 Boot Camp 分区的 Name 是我创建的时候改过的 <code>Windows</code>，不是默认的 <code>BOOTCAMP</code>，从而导致找不到 Boot Camp 分区。。
+那么，只能用 VirtualBox 来启动 Boot Camp 了，VirtualBox 并没有明显的文档说支持 Boot Camp，我本来并不抱希望，但是网上找了一下有人这么做，我就跟着尝试了一下，并且做了一些改进，最后凑合能用了。</p>
+
+<h2 id="环境准备">环境准备<a href="#环境准备" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<ul>
+<li>Boot Camp 安装的 Windows 10 x64；</li>
+<li>VirtualBox 5.1.26 （我安装的是 <code>VirtualBox-5.1.26-117224-OSX</code>）；</li>
+<li>VirtualBox 对应版本的拓展包 （ <code>Oracle_VM_VirtualBox_Extension_Pack-5.1.26-117224.vbox-extpack</code> ），原作者说并不确定拓展包是否需要，我觉得应该是不需要，但装了可以在宿主机和虚拟机之间共享粘贴板、共享文件夹等，建议安装；</li>
+<li><a href="https://developer.apple.com/library/mac/documentation/Security/Conceptual/System_Integrity_Protection_Guide/ConfiguringSystemIntegrityProtection/ConfiguringSystemIntegrityProtection.html">关闭 SIP</a>，原作者说在 El Capitan (OS X 10.11) 上必须关闭 SIP 才能正常使用，更高的系统应该也是一样。</li>
+</ul>
+
+<h2 id="设置磁盘权限">设置磁盘权限<a href="#设置磁盘权限" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>首先，在终端运行  <code>diskutil list</code> 以列出系统中挂载的磁盘，记住 <code>Name</code> 为 <code>EFI</code> 和 <code>BOOTCAMP</code> 的磁盘号， <code>BOOTCAMP</code> 磁盘可能在创建 Boot Camp 分区的时候命名成不同名字，注意 <code>Type</code> 是 <code>Microsoft Basic Data</code> 的磁盘。 例如，我的 <code>EFI</code> 和 <code>BOOTCAMP</code> 的磁盘号是1和4。</p>
+
+<p>运行以下命令来取消挂载 Boot Camp 磁盘，设置磁盘权限以使 VirtualBox 可读写它们。其中 <code>BOOTCAMP</code> 可能不同，注意上面的列表中的名字。*每次重启都需要重新运行以下命令*：</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">diskutil unmount /Volumes/BOOTCAMP
+
+sudo chmod <span class="m">777</span> /dev/disk0s1 &lt;--- EFI 磁盘的磁盘号
+
+sudo chmod <span class="m">777</span> /dev/disk0s4 &lt;--- BOOTCAMP 磁盘的磁盘号</code></pre></div>
+<p><em><code>chmod 777</code> 是不被推荐的权限设置方式，可参考 Linux 的文件权限设置，使磁盘可被 VirtualBox 读写。</em></p>
+
+<h2 id="创建虚拟机镜像">创建虚拟机镜像<a href="#创建虚拟机镜像" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>运行以下命令来创建 VirtualBox 的虚拟机镜像。用 <code>EFI</code> 和 <code>BOOTCAMP</code> 磁盘的磁盘号替换 <code>1,4</code>，用你的 macOS 用户名替换 <code>your_username_here</code>。</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">sudo VBoxManage internalcommands createrawvmdk -rawdisk /dev/disk0 -filename windows10.vmdk -partitions <span class="m">1</span>,4
+
+sudo chown your_username_here *.vmdk</code></pre></div>
+<h2 id="virtualbox-设置">VirtualBox 设置<a href="#virtualbox-设置" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<ol>
+<li>打开 VirtualBox，新建一个虚拟机；</li>
+<li>名称输入 <code>Windows10</code> 将自动选择 Windows 10 x64 版本；</li>
+<li>分配内存建议选择 4G；</li>
+<li>选择使用已有的虚拟硬盘文件，位置在 <code>你的个人文件夹/windows10.vmdk</code>；</li>
+<li>进入刚创建好的虚拟机的设置-系统-主板-拓展特性-启用 I/O APIC、启用 EFI，选中；</li>
+<li>虚拟机的设置-系统-处理器-处理器数量，设置为和你的 Mac 的 CPU 核心数相同，设置-系统-处理器-拓展特性-启用 PAE/NX，选中；</li>
+<li>设置-显示-屏幕-硬件加速-启用 3D 和 2D 加速，选中设置-显示-屏幕-显存大小，设置为 256MB，必须要选中一次 3D 加速才可以设置成 256MB，否则最大只有 128MB。也可以选中高清 HiDPI 支持，但我测试此项会和 3D 加速冲突，使虚拟机屏幕闪烁，只能选择其一。高清 HiDPI 支持可以更加清晰，但更卡， 3D 加速清晰度和分辨率较低，启动时载入更慢，但相对卡顿小，我建议选择启用 3D 加速；</li>
+<li>设置-存储-属性-使用主机输入输出(I/O)缓存，选中。确认控制器是否 SATA，经测试 NVMe 将导致启动失败。</li>
+</ol>
+
+<h2 id="启动虚拟机">启动虚拟机<a href="#启动虚拟机" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>等待进入系统后，多尝试几次调节右下角显示器设置-自动调节显示器尺寸选项、虚拟显示屏1的分辨率，达到最好的显示效果，还可以配合 Moom 调整窗口大小。</p>
+
+<p>VirtualBox 似乎不能正常关闭虚拟机，可以直接用 Windows 的关机。</p>
+
+<p><strong>虚拟机启动 Windows 后需要重新激活。</strong></p>
+
+<p><strong>Enjoy!</strong></p>
+
+<h2 id="恢复挂载-boot-camp-分区">恢复挂载 Boot Camp 分区<a href="#恢复挂载-boot-camp-分区" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>使用系统自带的 磁盘工具.app 可以方便地装载/卸载 Windows 分区，卸载时虚拟机才可以启动，装载时才可以在 Finder 浏览文件和利用 Boot Camp 启动 Windows。</p>
+
+<p>参考链接：<a href="http://danielphil.github.io/windows/virtualbox/osx/2015/08/25/virtualbox-boot-camp.html">http://danielphil.github.io/windows/virtualbox/osx/2015/08/25/virtualbox-boot-camp.html</a></p>
+
+			</div>
+			<hr class="post-end">
+			<footer class="post-info">
+				<p>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://ladit.me/tags/tech">tech</a></span><span class="tag"><a href="https://ladit.me/tags/virtualbox">virtualbox</a></span><span class="tag"><a href="https://ladit.me/tags/bootcamp">bootcamp</a></span>
+				</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg></p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>0001-01-01 08:00 &#43;0800</p>
+			</footer>
+		</article>
+		<aside id="toc">
+			<div class="toc-title"></div>
+			<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#前言">前言</a></li>
+<li><a href="#环境准备">环境准备</a></li>
+<li><a href="#设置磁盘权限">设置磁盘权限</a></li>
+<li><a href="#创建虚拟机镜像">创建虚拟机镜像</a></li>
+<li><a href="#virtualbox-设置">VirtualBox 设置</a></li>
+<li><a href="#启动虚拟机">启动虚拟机</a></li>
+<li><a href="#恢复挂载-boot-camp-分区">恢复挂载 Boot Camp 分区</a></li>
+</ul></li>
+</ul>
+</nav>
+		</aside>
+		<div class="post-nav thin">
+			<a class="next-post" href="https://ladit.me/posts/ipod-shuffle-opening/">
+				<span class="post-nav-label"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-left"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>&nbsp;</span><br><span>iPod shuffle 开箱</span>
+			</a>
+			<a class="prev-post" href="https://ladit.me/posts/feelings-on-xiakan-update/">
+				<span class="post-nav-label">&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span><br><span>嘻咦啊看更新有感</span>
+			</a>
+		</div>
+		<div id="comments" class="thin">
+<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "ladit" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+	</main>
+
+	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+		<p>&copy; 2019 <a href="https://ladit.me">Ladit</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+		<p>
+			Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a> &#183; <a href="https://ladit.me/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
+		</p>
+	</footer>
+
+
+	<script src="https://ladit.me/js/main.min.35ccbf1cdceb91e4c64c06b5d009d6e2977fafe56beda7762febd4e67528d2ac.js" integrity="sha256-Ncy/HNzrkeTGTAa10AnW4pd/r+Vr7ad2L+vU5nUo0qw="></script>
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-143732051-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+</body>
+
+</html>

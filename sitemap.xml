@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ladit.me/posts/20190711-chrome-extensions-sharing/</loc>
+    <lastmod>2019-07-11T18:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/</loc>
+    <lastmod>2019-07-11T18:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/</loc>
+    <lastmod>2019-07-11T18:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/chrome/</loc>
+    <lastmod>2019-07-11T18:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/share/</loc>
+    <lastmod>2019-07-11T18:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/tech/</loc>
+    <lastmod>2019-07-11T18:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/</loc>
+    <lastmod>2019-07-11T18:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/docker/</loc>
+    <lastmod>2019-07-11T11:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/hackintosh/</loc>
+    <lastmod>2019-07-11T11:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/homestead/</loc>
+    <lastmod>2019-07-11T11:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/itx/</loc>
+    <lastmod>2019-07-11T11:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/mac/</loc>
+    <lastmod>2019-07-11T11:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/macos-docker-vagrant-development-environment/</loc>
+    <lastmod>2019-07-11T11:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/pc/</loc>
+    <lastmod>2019-07-11T11:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/swoole/</loc>
+    <lastmod>2019-07-11T11:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/things/</loc>
+    <lastmod>2019-07-11T11:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/vagrant/</loc>
+    <lastmod>2019-07-11T11:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/xhyve/</loc>
+    <lastmod>2019-07-11T11:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/my-itx-hackintosh-and-pc-buying-build-installation-experience/</loc>
+    <lastmod>2019-07-11T11:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/mac-app-auto-backup/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/opencppcoverage-usage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/algorithm/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/apple/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/assignment/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/backtracking/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/backup/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/bootcamp/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/code-coverage/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/college/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/cpp/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/crontab/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/dfs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/ipod/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/ipod-shuffle-opening/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/life/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/music/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/restful-api/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/shell/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/sudoku/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/token/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/tags/virtualbox/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/using-virtualbox-to-run-boot-camp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/feelings-on-xiakan-update/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/20150926/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/use-dfs-and-backtracking-algorithm-to-generate-sudoku/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/fragment/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/moving-forward-2017/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/simple-token-design/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/final-chapter-of-software-engineering-lesson/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/reset-windows-10-quick-access/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ladit.me/posts/easonchen-shalong/</loc>
+  </url>
+  
+</urlset>

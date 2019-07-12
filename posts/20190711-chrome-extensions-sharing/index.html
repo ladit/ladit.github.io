@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="theme-color" content="#494f5c">
+	<meta name="msapplication-TileColor" content="#494f5c">
+
+<meta itemprop="name" content="Chrome 拓展分享">
+<meta itemprop="description" content="更新于 2019-07-11。 以下分享一些我使用的 Chrome 拓展。 better-onetab 拯救你挤得满满的 tab 列表和内存，OneTab 的功能增强版，还在持续迭代开发中，有一些">
+
+
+<meta itemprop="datePublished" content="2019-07-11T18:00:00&#43;08:00" />
+<meta itemprop="dateModified" content="2019-07-11T18:00:00&#43;08:00" />
+<meta itemprop="wordCount" content="2611">
+
+
+
+<meta itemprop="keywords" content="tech,share,chrome," />
+<meta property="og:title" content="Chrome 拓展分享" />
+<meta property="og:description" content="更新于 2019-07-11。 以下分享一些我使用的 Chrome 拓展。 better-onetab 拯救你挤得满满的 tab 列表和内存，OneTab 的功能增强版，还在持续迭代开发中，有一些" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ladit.me/posts/20190711-chrome-extensions-sharing/" />
+<meta property="article:published_time" content="2019-07-11T18:00:00&#43;08:00"/>
+<meta property="article:modified_time" content="2019-07-11T18:00:00&#43;08:00"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Chrome 拓展分享"/>
+<meta name="twitter:description" content="更新于 2019-07-11。 以下分享一些我使用的 Chrome 拓展。 better-onetab 拯救你挤得满满的 tab 列表和内存，OneTab 的功能增强版，还在持续迭代开发中，有一些"/>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<title>Chrome 拓展分享</title>
+	<link rel="stylesheet" href="https://ladit.me/css/style.min.568c54a56780af2a70c45272522247710b69dbfc080b315211fb98381e3796f8.css" integrity="sha256-VoxUpWeArypwxFJyUiJHcQtp2/wICzFSEfuYOB43lvg=">
+	
+</head>
+
+<body id="page">
+	
+	<header id="site-header" class="animated slideInUp faster">
+		<div class="hdr-wrapper section-inner">
+			<div class="hdr-left">
+				<div class="site-branding">
+					<a href="https://ladit.me">孤岛</a>
+				</div>
+				<nav class="site-nav hide-in-mobile">
+					
+				<a href="https://ladit.me/posts/">文章</a>
+				<a href="https://ladit.me/about/">关于</a>
+
+				</nav>
+			</div>
+			<div class="hdr-right hdr-icons">
+				<button id="toc-btn" class="hdr-btn desktop-only-ib" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-list"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3" y2="6"></line><line x1="3" y1="12" x2="3" y2="12"></line><line x1="3" y1="18" x2="3" y2="18"></line></svg></button><span class="hdr-social hide-in-mobile"><a href="mailto:i@ladit.me" target="_blank" rel="noopener me" title="Email"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg></a><a href="https://github.com/ladit" target="_blank" rel="noopener me" title="Github"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a></span><button id="menu-btn" class="hdr-btn" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button>
+			</div>
+		</div>
+	</header>
+	<div id="mobile-menu" class="animated fast">
+		<ul>
+			<li><a href="https://ladit.me/posts/">文章</a></li>
+			<li><a href="https://ladit.me/about/">关于</a></li>
+		</ul>
+	</div>
+
+
+	<main class="site-main section-inner animated fadeIn faster">
+		<article class="thin">
+			<header class="post-header">
+				<div class="post-meta"><span>Jul 11, 2019</span></div>
+				<h1>Chrome 拓展分享</h1>
+			</header>
+			<div class="content">
+				
+
+<p>更新于 2019-07-11。</p>
+
+<p>以下分享一些我使用的 Chrome 拓展。</p>
+
+<h2 id="better-onetab-https-chrome-google-com-webstore-detail-better-onetab-eookhngofldnbnidjlbkeecljkfpmfpg"><a href="https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg">better-onetab</a><a href="#better-onetab-https-chrome-google-com-webstore-detail-better-onetab-eookhngofldnbnidjlbkeecljkfpmfpg" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>拯救你挤得满满的 tab 列表和内存，OneTab 的功能增强版，<del>还在持续迭代开发中，有一些不舒服的地方但是已经挺好用的了</del>。更新迟滞但值得一用。我将这个工具作为书签和 tab 列表的一个缓存，既可以用来排序和筛选你打开的那么多 tab 中想要的那些，暂存剩下的，也可以对那些食之无味弃之可惜的网址先做缓存，后续再决定要不要放进书签/知识管理工具。</p>
+
+<p>主要可以使用这几种方式来暂存：</p>
+
+<ul>
+<li>存储当前 tab</li>
+<li>当前 tab 左边、右边的 tab</li>
+<li>当前窗口的 tab</li>
+<li>所有窗口的 tab</li>
+</ul>
+
+<h2 id="cookies获取助手-https-chrome-google-com-webstore-detail-cookies-get-assistant-ljjpkibacifkfolehlgaolibbnlapkme"><a href="https://chrome.google.com/webstore/detail/cookies-get-assistant/ljjpkibacifkfolehlgaolibbnlapkme">Cookies获取助手</a><a href="#cookies获取助手-https-chrome-google-com-webstore-detail-cookies-get-assistant-ljjpkibacifkfolehlgaolibbnlapkme" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>配合 <a href="http://qiandao.today">http://qiandao.today</a> （各种网站自动签到）使用的 cookie 获取工具。</p>
+
+<h2 id="enhanced-steam-https-chrome-google-com-webstore-detail-enhanced-steam-okadibdjfemgnhjiembecghcbfknbfhg"><a href="https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg">Enhanced Steam</a><a href="#enhanced-steam-https-chrome-google-com-webstore-detail-enhanced-steam-okadibdjfemgnhjiembecghcbfknbfhg" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>Steam web 增强，买的少就上的少，上的少这个拓展就用得少。</p>
+
+<h2 id="enpass-password-manager-https-chrome-google-com-webstore-detail-enpass-password-manager-kmcfomidfpdkfieipokbalgegidffkal"><a href="https://chrome.google.com/webstore/detail/enpass-password-manager/kmcfomidfpdkfieipokbalgegidffkal">Enpass Password Manager</a><a href="#enpass-password-manager-https-chrome-google-com-webstore-detail-enpass-password-manager-kmcfomidfpdkfieipokbalgegidffkal" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>配合 Enpass 的自动密码填充拓展。</p>
+
+<h2 id="google-keep-chrome-扩展程序-https-chrome-google-com-webstore-detail-google-keep-chrome-extens-lpcaedmchfhocbbapmcbpinfpgnhiddi"><a href="https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi">Google Keep Chrome 扩展程序</a><a href="#google-keep-chrome-扩展程序-https-chrome-google-com-webstore-detail-google-keep-chrome-extens-lpcaedmchfhocbbapmcbpinfpgnhiddi" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>Google 出品的快捷跳转到 Google Keep 和新建 Keep 的工具。</p>
+
+<h2 id="history-master-https-chrome-google-com-webstore-detail-history-master-mkfgjjeggnmkbobjmelbjhdchcoadnin"><a href="https://chrome.google.com/webstore/detail/history-master/mkfgjjeggnmkbobjmelbjhdchcoadnin">History Master</a><a href="#history-master-https-chrome-google-com-webstore-detail-history-master-mkfgjjeggnmkbobjmelbjhdchcoadnin" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>可视化你的浏览历史，掌握你的浏览习惯。</p>
+
+<h2 id="https-everywhere-https-chrome-google-com-webstore-detail-https-everywhere-gcbommkclmclpchllfjekcdonpmejbdp"><a href="https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp">HTTPS Everywhere</a><a href="#https-everywhere-https-chrome-google-com-webstore-detail-https-everywhere-gcbommkclmclpchllfjekcdonpmejbdp" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>对一切支持 https 却没有使用 https/自动跳转的资源，使用 https 来访问。可能导致一些 bug，例如某些网站 / 资源可以通过 https 访问，但事实上无法加载，丢失样式的状况可能是这个拓展导致的。</p>
+
+<h2 id="markdown-preview-plus-https-chrome-google-com-webstore-detail-markdown-preview-plus-febilkbfcbhebfnokafefeacimjdckgl"><a href="https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl">Markdown Preview Plus</a><a href="#markdown-preview-plus-https-chrome-google-com-webstore-detail-markdown-preview-plus-febilkbfcbhebfnokafefeacimjdckgl" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>格式化 Chrome 中打开的本地 Markdown 等文本文件，可以配合 Chrome 的导出 pdf 功能。推荐使用这个样式 <a href="https://github.com/zhangjikai/markdown-css/blob/master/markdown.min.css">https://github.com/zhangjikai/markdown-css/blob/master/markdown.min.css</a> 。</p>
+
+<h2 id="momentum-https-chrome-google-com-webstore-detail-momentum-laookkfknpbbblfpciffpaejjkokdgca"><a href="https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca">Momentum</a><a href="#momentum-https-chrome-google-com-webstore-detail-momentum-laookkfknpbbblfpciffpaejjkokdgca" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p><img src="https://ladit-me-1251731554.cosgz.myqcloud.com/2016/03/3208928786.png" alt="Momentum.png" /></p>
+
+<p>Momentum 好像最初是在知乎上看到的吧，用优雅、美观、赏心悦目、轻量便携来形容它再适合不过。这款新标签页拓展每日自动更换壁纸，附带可自定义显示的 To-Do、天气、名言、快速访问、搜索、时间等插件。</p>
+
+<h2 id="pdf-viewer-https-chrome-google-com-webstore-detail-pdf-viewer-oemmndcbldboiebfnladdacbdfmadadm"><a href="https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm">PDF Viewer</a><a href="#pdf-viewer-https-chrome-google-com-webstore-detail-pdf-viewer-oemmndcbldboiebfnladdacbdfmadadm" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>替代 Chrome 默认的 pdf 预览功能，提供 toc 跳转、旋转、查看属性等增强功能，效能很高，但 Chrome 默认的其实也够用。</p>
+
+<h2 id="proxy-switchyomega-https-chrome-google-com-webstore-detail-proxy-switchyomega-padekgcemlokbadohgkifijomclgjgif"><a href="https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif">Proxy SwitchyOmega</a><a href="#proxy-switchyomega-https-chrome-google-com-webstore-detail-proxy-switchyomega-padekgcemlokbadohgkifijomclgjgif" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>Proxy SwitchyOmega 原来叫 SwitchySharp ，在 Chrome 中管理你的网络连接。快速添加代理规则（支持通配符与正则等）是不可替代的功能，多种代理设置使 burp 代理和普通代理/直连切换更简便。我从 Goagent 时代开始使用它，可通过不同的代理和规则设置，达到较理想的上网体验。支持全局、PAC 或自动切换的 HTTP、HTTPS、SOCKS4、SOCKS5 代理。某个版本开始支持规则在线同步，这样一来所有的设备中的 Chrome 只要安装了这款拓展并登录 Google 账号便可享受一致的网络体验。</p>
+
+<h2 id="simpleundoclose-https-chrome-google-com-webstore-detail-simpleundoclose-emhohdghchmjepmigjojkehidlielknj"><a href="https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj">SimpleUndoClose</a><a href="#simpleundoclose-https-chrome-google-com-webstore-detail-simpleundoclose-emhohdghchmjepmigjojkehidlielknj" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p><img src="https://ladit-me-1251731554.cosgz.myqcloud.com/2016/03/1329613859.png" alt="SimpleUndoClose.png" /></p>
+
+<p>SimpleUndoClose 在哪里发现的已经不记得了。是一款简单便携的历史纪录保存/快速恢复的拓展，麻雀虽小五脏俱全，提供了丰富的自定义功能：保存标签数、宽度、行数等等。相比 Ctrl+H 调出 Chrome 的历史纪录并等待加载人性化得多。</p>
+
+<h2 id="stylus-https-chrome-google-com-webstore-detail-stylus-clngdbkpkpeebahjckkjfobafhncgmne"><a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">Stylus</a><a href="#stylus-https-chrome-google-com-webstore-detail-stylus-clngdbkpkpeebahjckkjfobafhncgmne" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>Stylus 是被爆出隐私问题的 Stylish 的替代品，支持自定义所有网页的 CSS 样式，解决了 Stylish 的中文支持的问题。</p>
+
+<p>在 Windows 10 以前微软系统的字体惨不忍睹，替代字体 + Mactype + Cleartype 似乎都很难解决这个问题。而 Chrome 网页中的字体又是由它自己决定的，因而卡饭（ <a href="http://bbs.kafan.cn/thread-1681393-1-1.html">http://bbs.kafan.cn/thread-1681393-1-1.html</a> ）有人以冬青黑体、思源黑体、XHei 等字体替换显示，以提高美感，而在 Windows 10 以后，似乎改观许多，可以考虑使用替代字体（<a href="https://www.zhihu.com/question/33886879">https://www.zhihu.com/question/33886879</a> 下 @Belleve 的答案）+ Mactype + Cleartype 的方案。在 Mac 下就不用替换了。</p>
+
+<p>除了<a href="https://userstyles.org/styles/100473/004-forcemyfonts-chinese-firefoxchromeie-catcat520">字体替换</a>这个场景，我还使用了 <a href="https://userstyles.org">https://userstyles.org</a> 上许多其他样式：</p>
+
+<ul>
+<li><a href="http://userstyles.org/styles/123858">Baidu Lite 百度轻</a></li>
+<li><a href="http://userstyles.org/styles/124770">Tieba - Maverick 2018 [百度贴吧]</a></li>
+<li><a href="http://userstyles.org/styles/140593">w3school 简约样式</a></li>
+<li><a href="http://userstyles.org/styles/135468">百度文库-屏蔽</a></li>
+<li><a href="http://userstyles.org/styles/130739">百度百科-屏蔽和优化</a></li>
+<li><a href="http://userstyles.org/styles/130901">百度知道-屏蔽与排版</a></li>
+<li><a href="http://userstyles.org/styles/132605">百度经验-屏蔽和优化</a></li>
+</ul>
+
+<p>事实上，我现在把这些样式都作为 js 脚本，利用 Tampermonkey 注入，并禁用了 Stylus。</p>
+
+<h2 id="tampermonkey-https-chrome-google-com-webstore-detail-tampermonkey-dhdgffkkebhmkfjojejmpbldmpobfkfo"><a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a><a href="#tampermonkey-https-chrome-google-com-webstore-detail-tampermonkey-dhdgffkkebhmkfjojejmpbldmpobfkfo" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>用户脚本神器，使不可能变成可能。</p>
+
+<p>我正在使用的脚本（按启用顺序），按需取用：</p>
+
+<p>CSS 样式：</p>
+
+<table>
+<thead>
+<tr>
+<th>标题</th>
+<th>地址</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Tieba - Maverick 2018 百度贴吧</td>
+<td><a href="https://userstyles.org/styles/124770">https://userstyles.org/styles/124770</a></td>
+</tr>
+
+<tr>
+<td>V2EX 扁平暗黑风主题</td>
+<td><a href="https://userstyles.org/styles/165969">https://userstyles.org/styles/165969</a></td>
+</tr>
+
+<tr>
+<td>Hacker News Readable</td>
+<td><a href="https://userstyles.org/styles/133201">https://userstyles.org/styles/133201</a></td>
+</tr>
+
+<tr>
+<td>w3school 简约样式</td>
+<td><a href="https://userstyles.org/styles/140593">https://userstyles.org/styles/140593</a></td>
+</tr>
+
+<tr>
+<td>百度文库-屏蔽</td>
+<td><a href="https://userstyles.org/styles/135468">https://userstyles.org/styles/135468</a></td>
+</tr>
+
+<tr>
+<td>百度百科-屏蔽和优化</td>
+<td><a href="https://userstyles.org/styles/130739">https://userstyles.org/styles/130739</a></td>
+</tr>
+
+<tr>
+<td>百度知道-屏蔽与排版</td>
+<td><a href="https://userstyles.org/styles/130901">https://userstyles.org/styles/130901</a></td>
+</tr>
+
+<tr>
+<td>百度经验-屏蔽和优化</td>
+<td><a href="https://userstyles.org/styles/132605">https://userstyles.org/styles/132605</a></td>
+</tr>
+</tbody>
+</table>
+
+<p>JS 脚本：</p>
+
+<table>
+<thead>
+<tr>
+<th>标题</th>
+<th>地址</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>回到顶部/底部</td>
+<td><a href="https://greasyfork.org/scripts/38899">https://greasyfork.org/scripts/38899</a></td>
+</tr>
+
+<tr>
+<td>Select like opera</td>
+<td><a href="https://github.com/lkytal/GM">https://github.com/lkytal/GM</a></td>
+</tr>
+
+<tr>
+<td>网页限制解除(改)</td>
+<td><a href="https://greasyfork.org/scripts/28497">https://greasyfork.org/scripts/28497</a></td>
+</tr>
+
+<tr>
+<td>跳过网站等待、验证码及登录</td>
+<td><a href="https://greasyfork.org/scripts/2600">https://greasyfork.org/scripts/2600</a></td>
+</tr>
+
+<tr>
+<td>anti-redirect</td>
+<td><a href="https://greasyfork.org/scripts/11915">https://greasyfork.org/scripts/11915</a></td>
+</tr>
+
+<tr>
+<td>Popup Search</td>
+<td><a href="https://github.com/lkytal/GM">https://github.com/lkytal/GM</a></td>
+</tr>
+
+<tr>
+<td>searchEngineJump 搜索引擎快捷跳转</td>
+<td><a href="https://greasyfork.org/scripts/27752">https://greasyfork.org/scripts/27752</a></td>
+</tr>
+
+<tr>
+<td>Userscript+ : 显示当前网站所有可用的UserJS脚本 Jaeger</td>
+<td><a href="https://greasyfork.org/scripts/24508">https://greasyfork.org/scripts/24508</a></td>
+</tr>
+
+<tr>
+<td>右键在新标签中打开图片时显示最优化图像质量</td>
+<td><a href="https://greasyfork.org/scripts/2312">https://greasyfork.org/scripts/2312</a></td>
+</tr>
+
+<tr>
+<td>视频网HTML5播放小工具</td>
+<td><a href="https://greasyfork.org/scripts/30545">https://greasyfork.org/scripts/30545</a></td>
+</tr>
+
+<tr>
+<td>博客阅读美化（去广告 自动全文 简洁）</td>
+<td><a href="https://greasyfork.org/scripts/38842">https://greasyfork.org/scripts/38842</a></td>
+</tr>
+
+<tr>
+<td>ScriptSource: The Leading Portal for Web Apps YouTube/Quora/Reddit/Discord/+More</td>
+<td><a href="https://greasyfork.org/scripts/38857">https://greasyfork.org/scripts/38857</a></td>
+</tr>
+
+<tr>
+<td>AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列</td>
+<td><a href="https://greasyfork.org/scripts/14178">https://greasyfork.org/scripts/14178</a></td>
+</tr>
+
+<tr>
+<td>Google Hit Hider by Domain (Search Filter / Block Sites)</td>
+<td><a href="https://greasyfork.org/scripts/1682">https://greasyfork.org/scripts/1682</a></td>
+</tr>
+
+<tr>
+<td>Endless Google</td>
+<td><a href="https://openuserjs.org/scripts/tumpio/Endless_Google">https://openuserjs.org/scripts/tumpio/Endless_Google</a></td>
+</tr>
+
+<tr>
+<td>Google View Image Button</td>
+<td><a href="https://greasyfork.org/scripts/38530">https://greasyfork.org/scripts/38530</a></td>
+</tr>
+
+<tr>
+<td>GithubDashboardEnhance</td>
+<td><a href="https://greasyfork.org/scripts/33511">https://greasyfork.org/scripts/33511</a></td>
+</tr>
+
+<tr>
+<td>GitHub file list beautifier</td>
+<td><a href="https://greasyfork.org/scripts/5982">https://greasyfork.org/scripts/5982</a></td>
+</tr>
+
+<tr>
+<td>GitHub Code Folding</td>
+<td><a href="https://greasyfork.org/scripts/26109">https://greasyfork.org/scripts/26109</a></td>
+</tr>
+
+<tr>
+<td>GitHub Table of Contents</td>
+<td><a href="https://greasyfork.org/scripts/18344">https://greasyfork.org/scripts/18344</a></td>
+</tr>
+
+<tr>
+<td>微软文档中英切换</td>
+<td><a href="https://greasyfork.org/scripts/33209">https://greasyfork.org/scripts/33209</a></td>
+</tr>
+
+<tr>
+<td>MDN 重定向到中文</td>
+<td><a href="https://greasyfork.org/scripts/28412">https://greasyfork.org/scripts/28412</a></td>
+</tr>
+
+<tr>
+<td>斗鱼熊猫工具箱</td>
+<td><a href="https://greasyfork.org/scripts/29026">https://greasyfork.org/scripts/29026</a></td>
+</tr>
+
+<tr>
+<td>斗鱼去火箭横幅(贵族弹幕样式&amp;&amp;聊天区域铭牌)</td>
+<td><a href="https://greasyfork.org/scripts/381934">https://greasyfork.org/scripts/381934</a></td>
+</tr>
+
+<tr>
+<td>豆瓣资源下载大师：1秒搞定豆瓣电影、音乐、图书下载</td>
+<td><a href="https://greasyfork.org/scripts/329484">https://greasyfork.org/scripts/329484</a></td>
+</tr>
+
+<tr>
+<td>Yet Another Weibo Filter 看真正想看的微博</td>
+<td><a href="https://tiansh.github.io/yawf/">https://tiansh.github.io/yawf/</a></td>
+</tr>
+
+<tr>
+<td>贴吧全能助手</td>
+<td><a href="https://greasyfork.org/scripts/26992">https://greasyfork.org/scripts/26992</a></td>
+</tr>
+
+<tr>
+<td>百度贴吧重定向2019</td>
+<td><a href="https://greasyfork.org/scripts/381995">https://greasyfork.org/scripts/381995</a></td>
+</tr>
+
+<tr>
+<td>城通网盘、皮皮盘、牛盘显示正确下载地址</td>
+<td><a href="https://greasyfork.org/scripts/25270">https://greasyfork.org/scripts/25270</a></td>
+</tr>
+
+<tr>
+<td>网盘提取工具</td>
+<td><a href="https://greasyfork.org/scripts/18733">https://greasyfork.org/scripts/18733</a></td>
+</tr>
+
+<tr>
+<td>闲鱼搜索框+去首图二维码</td>
+<td><a href="https://greasyfork.org/scripts/39161">https://greasyfork.org/scripts/39161</a></td>
+</tr>
+
+<tr>
+<td>京东自营过滤</td>
+<td><a href="https://greasyfork.org/scripts/33729">https://greasyfork.org/scripts/33729</a></td>
+</tr>
+
+<tr>
+<td>返利推广链接自动清洗</td>
+<td><a href="https://greasyfork.org/scripts/16772">https://greasyfork.org/scripts/16772</a></td>
+</tr>
+
+<tr>
+<td>Wallhaven 壁纸网站增强</td>
+<td><a href="https://greasyfork.org/scripts/29444">https://greasyfork.org/scripts/29444</a></td>
+</tr>
+
+<tr>
+<td>jump2Wikiwand</td>
+<td><a href="https://greasyfork.org/scripts/33223">https://greasyfork.org/scripts/33223</a></td>
+</tr>
+
+<tr>
+<td>NMacDirectDownload</td>
+<td><a href="https://greasyfork.org/scripts/369453">https://greasyfork.org/scripts/369453</a></td>
+</tr>
+
+<tr>
+<td>UserscloudDirectDownload</td>
+<td><a href="https://greasyfork.org/scripts/369454">https://greasyfork.org/scripts/369454</a></td>
+</tr>
+</tbody>
+</table>
+
+<p>我禁用了的脚本：</p>
+
+<table>
+<thead>
+<tr>
+<th>标题</th>
+<th>地址</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>空格之王 自動為中英文之間添加一個空格</td>
+<td><a href="https://greasyfork.org/scripts/37950">https://greasyfork.org/scripts/37950</a></td>
+</tr>
+
+<tr>
+<td>Text To link</td>
+<td><a href="https://github.com/lkytal/GM">https://github.com/lkytal/GM</a></td>
+</tr>
+
+<tr>
+<td>Scroll with Mouse Plus</td>
+<td><a href="https://github.com/lkytal/GM">https://github.com/lkytal/GM</a></td>
+</tr>
+
+<tr>
+<td>一键离线下载</td>
+<td><a href="https://greasyfork.org/scripts/22590">https://greasyfork.org/scripts/22590</a></td>
+</tr>
+
+<tr>
+<td>破解VIP会员视频集合</td>
+<td><a href="https://greasyfork.org/scripts/27530">https://greasyfork.org/scripts/27530</a></td>
+</tr>
+
+<tr>
+<td>知网下载助手</td>
+<td><a href="https://greasyfork.org/scripts/371938">https://greasyfork.org/scripts/371938</a></td>
+</tr>
+
+<tr>
+<td>Sci-hub button</td>
+<td><a href="https://greasyfork.org/scripts/370246">https://greasyfork.org/scripts/370246</a></td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="ublock-origin-https-chrome-google-com-webstore-detail-ublock-origin-cjpalhdlnbpafiamejdnhcphjbkeiagm"><a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin</a><a href="#ublock-origin-https-chrome-google-com-webstore-detail-ublock-origin-cjpalhdlnbpafiamejdnhcphjbkeiagm" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>据其 Github 页面称是占用比 Adblock Plus 少的一款广告拦截拓展，和这种类型的拓展相同，支持在线规则、自定义规则等。这款拓展让人上网清静，用久了就习惯了没有广告的页面，甚至我现在在 iOS 等平台上看到网页广告（屠龙宝刀点击就送那种）都觉得这网站是不是上个世纪的遗物。</p>
+
+<h2 id="v2ex-plus-https-chrome-google-com-webstore-detail-v2ex-plus-daeclijmnojoemooblcbfeeceopnkolo"><a href="https://chrome.google.com/webstore/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo">v2ex plus</a><a href="#v2ex-plus-https-chrome-google-com-webstore-detail-v2ex-plus-daeclijmnojoemooblcbfeeceopnkolo" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>V2EX 增强拓展，很多的油猴脚本都被这一个拓展替代了。</p>
+
+<h2 id="wappalyzer-https-chrome-google-com-webstore-detail-wappalyzer-gppongmhjkpfnbhagpmjfkannfbllamg"><a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a><a href="#wappalyzer-https-chrome-google-com-webstore-detail-wappalyzer-gppongmhjkpfnbhagpmjfkannfbllamg" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>分析当前网页使用的技术栈，遇到精妙的页面往往能告诉你那是什么组件构成的。</p>
+
+<h2 id="web前端助手-fehelper-https-chrome-google-com-webstore-detail-web-e5-89-8d-e7-ab-af-e5-8a-a9-e6-89-8bfehelper-pkgccpejnmalmdinmhkkfafefagiiiad"><a href="https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad">WEB前端助手(FeHelper)</a><a href="#web前端助手-fehelper-https-chrome-google-com-webstore-detail-web-e5-89-8d-e7-ab-af-e5-8a-a9-e6-89-8bfehelper-pkgccpejnmalmdinmhkkfafefagiiiad" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>前端工具箱，代码格式化、二维码生成、正则表达式、编码规范检查、性能检测等等。</p>
+
+<h2 id="为什么你们就是不能加个空格呢-https-chrome-google-com-webstore-detail-e7-82-ba-e4-bb-80-e9-ba-bc-e4-bd-a0-e5-80-91-e5-b0-b1-e6-98-af-e4-b8-8d-e8-83-bd-e5-8a-a0-e5-80-8b-e7-a9-ba-e6-a0-bc-e5-91-a2-ef-bc-9f-paphcfdffjnbcgkokihcdjliihicmbpd"><a href="https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd">为什么你们就是不能加个空格呢？</a><a href="#为什么你们就是不能加个空格呢-https-chrome-google-com-webstore-detail-e7-82-ba-e4-bb-80-e9-ba-bc-e4-bd-a0-e5-80-91-e5-b0-b1-e6-98-af-e4-b8-8d-e8-83-bd-e5-8a-a0-e5-80-8b-e7-a9-ba-e6-a0-bc-e5-91-a2-ef-bc-9f-paphcfdffjnbcgkokihcdjliihicmbpd" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p><a href="https://greasyfork.org/scripts/37950">空格之王 自動為中英文之間添加一個空格</a> JS 脚本中使用的 pangu.js 的官方 Chrome 拓展，提供一键针对某些网站禁用的功能。</p>
+
+<h2 id="京价保-京东价保助手-https-chrome-google-com-webstore-detail-e4-ba-ac-e4-bb-b7-e4-bf-9d-e4-ba-ac-e4-b8-9c-e4-bb-b7-e4-bf-9d-e5-8a-a9-e6-89-8b-gfgkebiommjpiaomalcbfefimhhanlfd"><a href="https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%E4%BF%9D-%E4%BA%AC%E4%B8%9C%E4%BB%B7%E4%BF%9D%E5%8A%A9%E6%89%8B/gfgkebiommjpiaomalcbfefimhhanlfd">京价保 - 京东价保助手</a><a href="#京价保-京东价保助手-https-chrome-google-com-webstore-detail-e4-ba-ac-e4-bb-b7-e4-bf-9d-e4-ba-ac-e4-b8-9c-e4-bb-b7-e4-bf-9d-e5-8a-a9-e6-89-8b-gfgkebiommjpiaomalcbfefimhhanlfd" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<ul>
+<li>自动监控最近订单商品的价格变化，在商品降价时自动申请价格保护</li>
+<li>自动签到领取京豆</li>
+<li>自动签到领取钢镚</li>
+<li>自动领白条券</li>
+<li>自动领Plus券</li>
+<li>自动领全品类</li>
+<li>自动京东金融会员签到</li>
+<li>商品价格走势图（仅支持京东）</li>
+</ul>
+
+<p><del>自动恰烂钱</del></p>
+
+<h2 id="哔哩哔哩助手-bilibili-com-综合辅助扩展-https-chrome-google-com-webstore-detail-e5-93-94-e5-93-a9-e5-93-94-e5-93-a9-e5-8a-a9-e6-89-8b-ef-bc-9abilibilicom-e7-bb-bc-e5-90-88-e8-be-85-e5-8a-a9-e6-89-a9-e5-b1-95-kpbnombpnpcffllnianjibmpadjolanh"><a href="https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh">哔哩哔哩助手：bilibili.com 综合辅助扩展</a><a href="#哔哩哔哩助手-bilibili-com-综合辅助扩展-https-chrome-google-com-webstore-detail-e5-93-94-e5-93-a9-e5-93-94-e5-93-a9-e5-8a-a9-e6-89-8b-ef-bc-9abilibilicom-e7-bb-bc-e5-90-88-e8-be-85-e5-8a-a9-e6-89-a9-e5-b1-95-kpbnombpnpcffllnianjibmpadjolanh" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p><del>哔哩哔哩助手是我新近添加的一款拓展，可以将 bilibili.com 的视频强行替换为 HTML5 播放器，极适合见到 Flash Player 就热的 OSX，同时提供快速跳转和关注的人新上传作品提醒的功能。</del></p>
+
+<p><del>B站视频的用户体验是国内互联网视频网站最好的，而且还在不断改进，这个拓展可能可以帮看 B 站直播的人每天自动领瓜子。。</del></p>
+
+<p>现在提供弹幕查询与下载、视频下载、画中画、夜间模式、直播自动签到、领瓜子等功能。</p>
+
+<h2 id="有道云笔记网页剪报-https-chrome-google-com-webstore-detail-e6-9c-89-e9-81-93-e4-ba-91-e7-ac-94-e8-ae-b0-e7-bd-91-e9-a1-b5-e5-89-aa-e6-8a-a5-joinpgckiioeklibflapokicmndlcnef"><a href="https://chrome.google.com/webstore/detail/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0%E7%BD%91%E9%A1%B5%E5%89%AA%E6%8A%A5/joinpgckiioeklibflapokicmndlcnef">有道云笔记网页剪报</a><a href="#有道云笔记网页剪报-https-chrome-google-com-webstore-detail-e6-9c-89-e9-81-93-e4-ba-91-e7-ac-94-e8-ae-b0-e7-bd-91-e9-a1-b5-e5-89-aa-e6-8a-a5-joinpgckiioeklibflapokicmndlcnef" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>仓鼠党福音，有道云笔记一键剪藏和跳转。<del>我已经保存了为什么还要花时间去看</del></p>
+
+<p>久未更新，有小 bug。</p>
+
+<h2 id="简悦-simpread-https-chrome-google-com-webstore-detail-simpread-reader-view-ijllcpnolfcooahcekpamkbidhejabll"><a href="https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll">简悦 - SimpRead</a><a href="#简悦-simpread-https-chrome-google-com-webstore-detail-simpread-reader-view-ijllcpnolfcooahcekpamkbidhejabll" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>阅读模式工具，可以更专注内容，含有十分丰富的功能。但一直用不习惯，用的不多。</p>
+
+<h2 id="茶友会-淘宝查券助手-https-chrome-google-com-webstore-detail-e8-8c-b6-e5-8f-8b-e4-bc-9a-e6-b7-98-e5-ae-9d-e6-9f-a5-e5-88-b8-e5-8a-a9-e6-89-8b-igedhbjllcmgidlmhclmphmhlllkibkb"><a href="https://chrome.google.com/webstore/detail/%E8%8C%B6%E5%8F%8B%E4%BC%9A-%E6%B7%98%E5%AE%9D%E6%9F%A5%E5%88%B8%E5%8A%A9%E6%89%8B/igedhbjllcmgidlmhclmphmhlllkibkb">茶友会 - 淘宝查券助手</a><a href="#茶友会-淘宝查券助手-https-chrome-google-com-webstore-detail-e8-8c-b6-e5-8f-8b-e4-bc-9a-e6-b7-98-e5-ae-9d-e6-9f-a5-e5-88-b8-e5-8a-a9-e6-89-8b-igedhbjllcmgidlmhclmphmhlllkibkb" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>茶友会是一个自动为你领取淘金币、自动签到领飞猪里程、自动查找渠道优惠券的浏览器插件。</p>
+
+			</div>
+			<hr class="post-end">
+			<footer class="post-info">
+				<p>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://ladit.me/tags/tech">tech</a></span><span class="tag"><a href="https://ladit.me/tags/share">share</a></span><span class="tag"><a href="https://ladit.me/tags/chrome">chrome</a></span>
+				</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg></p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2019-07-11 18:00 &#43;0800</p>
+			</footer>
+		</article>
+		<aside id="toc">
+			<div class="toc-title"></div>
+			<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#better-onetab-https-chrome-google-com-webstore-detail-better-onetab-eookhngofldnbnidjlbkeecljkfpmfpg"><a href="https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg">better-onetab</a></a></li>
+<li><a href="#cookies获取助手-https-chrome-google-com-webstore-detail-cookies-get-assistant-ljjpkibacifkfolehlgaolibbnlapkme"><a href="https://chrome.google.com/webstore/detail/cookies-get-assistant/ljjpkibacifkfolehlgaolibbnlapkme">Cookies获取助手</a></a></li>
+<li><a href="#enhanced-steam-https-chrome-google-com-webstore-detail-enhanced-steam-okadibdjfemgnhjiembecghcbfknbfhg"><a href="https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg">Enhanced Steam</a></a></li>
+<li><a href="#enpass-password-manager-https-chrome-google-com-webstore-detail-enpass-password-manager-kmcfomidfpdkfieipokbalgegidffkal"><a href="https://chrome.google.com/webstore/detail/enpass-password-manager/kmcfomidfpdkfieipokbalgegidffkal">Enpass Password Manager</a></a></li>
+<li><a href="#google-keep-chrome-扩展程序-https-chrome-google-com-webstore-detail-google-keep-chrome-extens-lpcaedmchfhocbbapmcbpinfpgnhiddi"><a href="https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi">Google Keep Chrome 扩展程序</a></a></li>
+<li><a href="#history-master-https-chrome-google-com-webstore-detail-history-master-mkfgjjeggnmkbobjmelbjhdchcoadnin"><a href="https://chrome.google.com/webstore/detail/history-master/mkfgjjeggnmkbobjmelbjhdchcoadnin">History Master</a></a></li>
+<li><a href="#https-everywhere-https-chrome-google-com-webstore-detail-https-everywhere-gcbommkclmclpchllfjekcdonpmejbdp"><a href="https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp">HTTPS Everywhere</a></a></li>
+<li><a href="#markdown-preview-plus-https-chrome-google-com-webstore-detail-markdown-preview-plus-febilkbfcbhebfnokafefeacimjdckgl"><a href="https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl">Markdown Preview Plus</a></a></li>
+<li><a href="#momentum-https-chrome-google-com-webstore-detail-momentum-laookkfknpbbblfpciffpaejjkokdgca"><a href="https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca">Momentum</a></a></li>
+<li><a href="#pdf-viewer-https-chrome-google-com-webstore-detail-pdf-viewer-oemmndcbldboiebfnladdacbdfmadadm"><a href="https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm">PDF Viewer</a></a></li>
+<li><a href="#proxy-switchyomega-https-chrome-google-com-webstore-detail-proxy-switchyomega-padekgcemlokbadohgkifijomclgjgif"><a href="https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif">Proxy SwitchyOmega</a></a></li>
+<li><a href="#simpleundoclose-https-chrome-google-com-webstore-detail-simpleundoclose-emhohdghchmjepmigjojkehidlielknj"><a href="https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj">SimpleUndoClose</a></a></li>
+<li><a href="#stylus-https-chrome-google-com-webstore-detail-stylus-clngdbkpkpeebahjckkjfobafhncgmne"><a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">Stylus</a></a></li>
+<li><a href="#tampermonkey-https-chrome-google-com-webstore-detail-tampermonkey-dhdgffkkebhmkfjojejmpbldmpobfkfo"><a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a></a></li>
+<li><a href="#ublock-origin-https-chrome-google-com-webstore-detail-ublock-origin-cjpalhdlnbpafiamejdnhcphjbkeiagm"><a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin</a></a></li>
+<li><a href="#v2ex-plus-https-chrome-google-com-webstore-detail-v2ex-plus-daeclijmnojoemooblcbfeeceopnkolo"><a href="https://chrome.google.com/webstore/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo">v2ex plus</a></a></li>
+<li><a href="#wappalyzer-https-chrome-google-com-webstore-detail-wappalyzer-gppongmhjkpfnbhagpmjfkannfbllamg"><a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a></a></li>
+<li><a href="#web前端助手-fehelper-https-chrome-google-com-webstore-detail-web-e5-89-8d-e7-ab-af-e5-8a-a9-e6-89-8bfehelper-pkgccpejnmalmdinmhkkfafefagiiiad"><a href="https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad">WEB前端助手(FeHelper)</a></a></li>
+<li><a href="#为什么你们就是不能加个空格呢-https-chrome-google-com-webstore-detail-e7-82-ba-e4-bb-80-e9-ba-bc-e4-bd-a0-e5-80-91-e5-b0-b1-e6-98-af-e4-b8-8d-e8-83-bd-e5-8a-a0-e5-80-8b-e7-a9-ba-e6-a0-bc-e5-91-a2-ef-bc-9f-paphcfdffjnbcgkokihcdjliihicmbpd"><a href="https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd">为什么你们就是不能加个空格呢？</a></a></li>
+<li><a href="#京价保-京东价保助手-https-chrome-google-com-webstore-detail-e4-ba-ac-e4-bb-b7-e4-bf-9d-e4-ba-ac-e4-b8-9c-e4-bb-b7-e4-bf-9d-e5-8a-a9-e6-89-8b-gfgkebiommjpiaomalcbfefimhhanlfd"><a href="https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%E4%BF%9D-%E4%BA%AC%E4%B8%9C%E4%BB%B7%E4%BF%9D%E5%8A%A9%E6%89%8B/gfgkebiommjpiaomalcbfefimhhanlfd">京价保 - 京东价保助手</a></a></li>
+<li><a href="#哔哩哔哩助手-bilibili-com-综合辅助扩展-https-chrome-google-com-webstore-detail-e5-93-94-e5-93-a9-e5-93-94-e5-93-a9-e5-8a-a9-e6-89-8b-ef-bc-9abilibilicom-e7-bb-bc-e5-90-88-e8-be-85-e5-8a-a9-e6-89-a9-e5-b1-95-kpbnombpnpcffllnianjibmpadjolanh"><a href="https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh">哔哩哔哩助手：bilibili.com 综合辅助扩展</a></a></li>
+<li><a href="#有道云笔记网页剪报-https-chrome-google-com-webstore-detail-e6-9c-89-e9-81-93-e4-ba-91-e7-ac-94-e8-ae-b0-e7-bd-91-e9-a1-b5-e5-89-aa-e6-8a-a5-joinpgckiioeklibflapokicmndlcnef"><a href="https://chrome.google.com/webstore/detail/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0%E7%BD%91%E9%A1%B5%E5%89%AA%E6%8A%A5/joinpgckiioeklibflapokicmndlcnef">有道云笔记网页剪报</a></a></li>
+<li><a href="#简悦-simpread-https-chrome-google-com-webstore-detail-simpread-reader-view-ijllcpnolfcooahcekpamkbidhejabll"><a href="https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll">简悦 - SimpRead</a></a></li>
+<li><a href="#茶友会-淘宝查券助手-https-chrome-google-com-webstore-detail-e8-8c-b6-e5-8f-8b-e4-bc-9a-e6-b7-98-e5-ae-9d-e6-9f-a5-e5-88-b8-e5-8a-a9-e6-89-8b-igedhbjllcmgidlmhclmphmhlllkibkb"><a href="https://chrome.google.com/webstore/detail/%E8%8C%B6%E5%8F%8B%E4%BC%9A-%E6%B7%98%E5%AE%9D%E6%9F%A5%E5%88%B8%E5%8A%A9%E6%89%8B/igedhbjllcmgidlmhclmphmhlllkibkb">茶友会 - 淘宝查券助手</a></a></li>
+</ul></li>
+</ul>
+</nav>
+		</aside>
+		<div class="post-nav thin">
+			<a class="prev-post" href="https://ladit.me/posts/macos-docker-vagrant-development-environment/">
+				<span class="post-nav-label">&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span><br><span>macOS Docker/Vagrant 开发环境</span>
+			</a>
+		</div>
+		<div id="comments" class="thin">
+<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "ladit" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+	</main>
+
+	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+		<p>&copy; 2019 <a href="https://ladit.me">Ladit</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+		<p>
+			Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a> &#183; <a href="https://ladit.me/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
+		</p>
+	</footer>
+
+
+	<script src="https://ladit.me/js/main.min.35ccbf1cdceb91e4c64c06b5d009d6e2977fafe56beda7762febd4e67528d2ac.js" integrity="sha256-Ncy/HNzrkeTGTAa10AnW4pd/r+Vr7ad2L+vU5nUo0qw="></script>
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-143732051-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+</body>
+
+</html>

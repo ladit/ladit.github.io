@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>backtracking on 孤岛</title>
+    <link>https://ladit.me/tags/backtracking/</link>
+    <description>Recent content in backtracking on 孤岛</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://ladit.me/tags/backtracking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>数独 - 软件工程实践 2017 第二次作业</title>
+      <link>https://ladit.me/posts/use-dfs-and-backtracking-algorithm-to-generate-sudoku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ladit.me/posts/use-dfs-and-backtracking-algorithm-to-generate-sudoku/</guid>
+      <description>Github 地址 https://github.com/ladit/Sudoku 解题思路 数独生成 我算法方面差一些，数独以前也是没有玩过的。了解了数独的规则后，想到的方法也只是暴力计算——也就是随机法——循环生成一</description>
+    </item>
+    
+  </channel>
+</rss>

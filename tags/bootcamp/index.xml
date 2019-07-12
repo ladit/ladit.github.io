@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bootcamp on 孤岛</title>
+    <link>https://ladit.me/tags/bootcamp/</link>
+    <description>Recent content in bootcamp on 孤岛</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://ladit.me/tags/bootcamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>使用 VirtualBox 启动已有的 Boot Camp</title>
+      <link>https://ladit.me/posts/using-virtualbox-to-run-boot-camp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ladit.me/posts/using-virtualbox-to-run-boot-camp/</guid>
+      <description>前言 由于又想入一下 Mac 和 Swift 的坑，这几天在配置 Mac，但是当前写的项目又大部分基于 Win 的组件，而且 Windows 有很多不可或缺的软件和功能，所以想着要么新创建</description>
+    </item>
+    
+  </channel>
+</rss>

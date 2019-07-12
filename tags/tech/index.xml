@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on 孤岛</title>
+    <link>https://ladit.me/tags/tech/</link>
+    <description>Recent content in tech on 孤岛</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 11 Jul 2019 18:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://ladit.me/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chrome 拓展分享</title>
+      <link>https://ladit.me/posts/20190711-chrome-extensions-sharing/</link>
+      <pubDate>Thu, 11 Jul 2019 18:00:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/posts/20190711-chrome-extensions-sharing/</guid>
+      <description>更新于 2019-07-11。 以下分享一些我使用的 Chrome 拓展。 better-onetab 拯救你挤得满满的 tab 列表和内存，OneTab 的功能增强版，还在持续迭代开发中，有一些</description>
+    </item>
+    
+    <item>
+      <title>macOS Docker/Vagrant 开发环境</title>
+      <link>https://ladit.me/posts/macos-docker-vagrant-development-environment/</link>
+      <pubDate>Thu, 11 Jul 2019 11:50:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/posts/macos-docker-vagrant-development-environment/</guid>
+      <description>前言 Docker 相比虚拟机有很多优势，但在非 Linux 环境下运行会遇到文件系统同步的问题，IO 效率低下（使用 cached 或 delegated 标记也几乎无提升），在 Mac 下可以考虑使用 xhyve 虚拟</description>
+    </item>
+    
+    <item>
+      <title>Mac App 列表定时备份脚本</title>
+      <link>https://ladit.me/posts/mac-app-auto-backup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ladit.me/posts/mac-app-auto-backup/</guid>
+      <description>参考 给 Mac 优雅地一键「装机」 定期自动云备份 macOS 软件列表，维护一份属于自己的必备 App 清单 OSX 系统添加定时任务 crontab 中 PATH 的坑 概述 有感少数派的文章，也尝试整合</description>
+    </item>
+    
+    <item>
+      <title>OpenCppCoverage 的使用</title>
+      <link>https://ladit.me/posts/opencppcoverage-usage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ladit.me/posts/opencppcoverage-usage/</guid>
+      <description>OpenCppCoverage 是一款好用方便的 C++ 代码覆盖率检测工具，可以独立在命令行运行也可以作为 Visual Studio 13/15/17 的插件。 Github：https://github.com/Op</description>
+    </item>
+    
+    <item>
+      <title>使用 VirtualBox 启动已有的 Boot Camp</title>
+      <link>https://ladit.me/posts/using-virtualbox-to-run-boot-camp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ladit.me/posts/using-virtualbox-to-run-boot-camp/</guid>
+      <description>前言 由于又想入一下 Mac 和 Swift 的坑，这几天在配置 Mac，但是当前写的项目又大部分基于 Win 的组件，而且 Windows 有很多不可或缺的软件和功能，所以想着要么新创建</description>
+    </item>
+    
+    <item>
+      <title>简易 Token 验证的实现</title>
+      <link>https://ladit.me/posts/simple-token-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ladit.me/posts/simple-token-design/</guid>
+      <description>前言 在我们的服务器和客户端的交互中，由于我们的业务中使用 RESTful API 的形式和客户端交互，而 API 又是无状态的，无法帮助我们识别这一次和上一次的请求由谁发</description>
+    </item>
+    
+    <item>
+      <title>重置 Windows 10 资源管理器中的快速访问</title>
+      <link>https://ladit.me/posts/reset-windows-10-quick-access/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ladit.me/posts/reset-windows-10-quick-access/</guid>
+      <description>不小心装了原版辣鸡迅雷后会自动接管用户文件夹下的下载文件夹，丢失默认的文件夹图标，甚至导致一些其他地方的下载中英文错乱，看着心烦。把下载文件</description>
+    </item>
+    
+  </channel>
+</rss>

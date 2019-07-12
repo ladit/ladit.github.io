@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swoole on 孤岛</title>
+    <link>https://ladit.me/tags/swoole/</link>
+    <description>Recent content in swoole on 孤岛</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 11 Jul 2019 11:50:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://ladit.me/tags/swoole/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>macOS Docker/Vagrant 开发环境</title>
+      <link>https://ladit.me/posts/macos-docker-vagrant-development-environment/</link>
+      <pubDate>Thu, 11 Jul 2019 11:50:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/posts/macos-docker-vagrant-development-environment/</guid>
+      <description>前言 Docker 相比虚拟机有很多优势，但在非 Linux 环境下运行会遇到文件系统同步的问题，IO 效率低下（使用 cached 或 delegated 标记也几乎无提升），在 Mac 下可以考虑使用 xhyve 虚拟</description>
+    </item>
+    
+  </channel>
+</rss>

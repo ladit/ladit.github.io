@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>share on 孤岛</title>
+    <link>https://ladit.me/tags/share/</link>
+    <description>Recent content in share on 孤岛</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 11 Jul 2019 18:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://ladit.me/tags/share/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chrome 拓展分享</title>
+      <link>https://ladit.me/posts/20190711-chrome-extensions-sharing/</link>
+      <pubDate>Thu, 11 Jul 2019 18:00:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/posts/20190711-chrome-extensions-sharing/</guid>
+      <description>更新于 2019-07-11。 以下分享一些我使用的 Chrome 拓展。 better-onetab 拯救你挤得满满的 tab 列表和内存，OneTab 的功能增强版，还在持续迭代开发中，有一些</description>
+    </item>
+    
+  </channel>
+</rss>

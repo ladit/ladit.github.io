@@ -1,0 +1,2642 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on 孤岛</title>
+		<link>https://ladit.me/posts/</link>
+		<description>Recent content in Posts on 孤岛</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-cn</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Thu, 11 Jul 2019 18:00:00 +0800</lastBuildDate>
+		<atom:link href="https://ladit.me/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Chrome 拓展分享</title>
+			<link>https://ladit.me/posts/20190711-chrome-extensions-sharing/</link>
+			<pubDate>Thu, 11 Jul 2019 18:00:00 +0800</pubDate>
+			
+			<guid>https://ladit.me/posts/20190711-chrome-extensions-sharing/</guid>
+			<description>更新于 2019-07-11。 以下分享一些我使用的 Chrome 拓展。 better-onetab 拯救你挤得满满的 tab 列表和内存，OneTab 的功能增强版，还在持续迭代开发中，有一些</description>
+			<content type="html"><![CDATA[
+
+<p>更新于 2019-07-11。</p>
+
+<p>以下分享一些我使用的 Chrome 拓展。</p>
+
+<h2 id="better-onetab-https-chrome-google-com-webstore-detail-better-onetab-eookhngofldnbnidjlbkeecljkfpmfpg"><a href="https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg">better-onetab</a></h2>
+
+<p>拯救你挤得满满的 tab 列表和内存，OneTab 的功能增强版，<del>还在持续迭代开发中，有一些不舒服的地方但是已经挺好用的了</del>。更新迟滞但值得一用。我将这个工具作为书签和 tab 列表的一个缓存，既可以用来排序和筛选你打开的那么多 tab 中想要的那些，暂存剩下的，也可以对那些食之无味弃之可惜的网址先做缓存，后续再决定要不要放进书签/知识管理工具。</p>
+
+<p>主要可以使用这几种方式来暂存：</p>
+
+<ul>
+<li>存储当前 tab</li>
+<li>当前 tab 左边、右边的 tab</li>
+<li>当前窗口的 tab</li>
+<li>所有窗口的 tab</li>
+</ul>
+
+<h2 id="cookies获取助手-https-chrome-google-com-webstore-detail-cookies-get-assistant-ljjpkibacifkfolehlgaolibbnlapkme"><a href="https://chrome.google.com/webstore/detail/cookies-get-assistant/ljjpkibacifkfolehlgaolibbnlapkme">Cookies获取助手</a></h2>
+
+<p>配合 <a href="http://qiandao.today">http://qiandao.today</a> （各种网站自动签到）使用的 cookie 获取工具。</p>
+
+<h2 id="enhanced-steam-https-chrome-google-com-webstore-detail-enhanced-steam-okadibdjfemgnhjiembecghcbfknbfhg"><a href="https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg">Enhanced Steam</a></h2>
+
+<p>Steam web 增强，买的少就上的少，上的少这个拓展就用得少。</p>
+
+<h2 id="enpass-password-manager-https-chrome-google-com-webstore-detail-enpass-password-manager-kmcfomidfpdkfieipokbalgegidffkal"><a href="https://chrome.google.com/webstore/detail/enpass-password-manager/kmcfomidfpdkfieipokbalgegidffkal">Enpass Password Manager</a></h2>
+
+<p>配合 Enpass 的自动密码填充拓展。</p>
+
+<h2 id="google-keep-chrome-扩展程序-https-chrome-google-com-webstore-detail-google-keep-chrome-extens-lpcaedmchfhocbbapmcbpinfpgnhiddi"><a href="https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi">Google Keep Chrome 扩展程序</a></h2>
+
+<p>Google 出品的快捷跳转到 Google Keep 和新建 Keep 的工具。</p>
+
+<h2 id="history-master-https-chrome-google-com-webstore-detail-history-master-mkfgjjeggnmkbobjmelbjhdchcoadnin"><a href="https://chrome.google.com/webstore/detail/history-master/mkfgjjeggnmkbobjmelbjhdchcoadnin">History Master</a></h2>
+
+<p>可视化你的浏览历史，掌握你的浏览习惯。</p>
+
+<h2 id="https-everywhere-https-chrome-google-com-webstore-detail-https-everywhere-gcbommkclmclpchllfjekcdonpmejbdp"><a href="https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp">HTTPS Everywhere</a></h2>
+
+<p>对一切支持 https 却没有使用 https/自动跳转的资源，使用 https 来访问。可能导致一些 bug，例如某些网站 / 资源可以通过 https 访问，但事实上无法加载，丢失样式的状况可能是这个拓展导致的。</p>
+
+<h2 id="markdown-preview-plus-https-chrome-google-com-webstore-detail-markdown-preview-plus-febilkbfcbhebfnokafefeacimjdckgl"><a href="https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl">Markdown Preview Plus</a></h2>
+
+<p>格式化 Chrome 中打开的本地 Markdown 等文本文件，可以配合 Chrome 的导出 pdf 功能。推荐使用这个样式 <a href="https://github.com/zhangjikai/markdown-css/blob/master/markdown.min.css">https://github.com/zhangjikai/markdown-css/blob/master/markdown.min.css</a> 。</p>
+
+<h2 id="momentum-https-chrome-google-com-webstore-detail-momentum-laookkfknpbbblfpciffpaejjkokdgca"><a href="https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca">Momentum</a></h2>
+
+<p><img src="https://ladit-me-1251731554.cosgz.myqcloud.com/2016/03/3208928786.png" alt="Momentum.png" /></p>
+
+<p>Momentum 好像最初是在知乎上看到的吧，用优雅、美观、赏心悦目、轻量便携来形容它再适合不过。这款新标签页拓展每日自动更换壁纸，附带可自定义显示的 To-Do、天气、名言、快速访问、搜索、时间等插件。</p>
+
+<h2 id="pdf-viewer-https-chrome-google-com-webstore-detail-pdf-viewer-oemmndcbldboiebfnladdacbdfmadadm"><a href="https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm">PDF Viewer</a></h2>
+
+<p>替代 Chrome 默认的 pdf 预览功能，提供 toc 跳转、旋转、查看属性等增强功能，效能很高，但 Chrome 默认的其实也够用。</p>
+
+<h2 id="proxy-switchyomega-https-chrome-google-com-webstore-detail-proxy-switchyomega-padekgcemlokbadohgkifijomclgjgif"><a href="https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif">Proxy SwitchyOmega</a></h2>
+
+<p>Proxy SwitchyOmega 原来叫 SwitchySharp ，在 Chrome 中管理你的网络连接。快速添加代理规则（支持通配符与正则等）是不可替代的功能，多种代理设置使 burp 代理和普通代理/直连切换更简便。我从 Goagent 时代开始使用它，可通过不同的代理和规则设置，达到较理想的上网体验。支持全局、PAC 或自动切换的 HTTP、HTTPS、SOCKS4、SOCKS5 代理。某个版本开始支持规则在线同步，这样一来所有的设备中的 Chrome 只要安装了这款拓展并登录 Google 账号便可享受一致的网络体验。</p>
+
+<h2 id="simpleundoclose-https-chrome-google-com-webstore-detail-simpleundoclose-emhohdghchmjepmigjojkehidlielknj"><a href="https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj">SimpleUndoClose</a></h2>
+
+<p><img src="https://ladit-me-1251731554.cosgz.myqcloud.com/2016/03/1329613859.png" alt="SimpleUndoClose.png" /></p>
+
+<p>SimpleUndoClose 在哪里发现的已经不记得了。是一款简单便携的历史纪录保存/快速恢复的拓展，麻雀虽小五脏俱全，提供了丰富的自定义功能：保存标签数、宽度、行数等等。相比 Ctrl+H 调出 Chrome 的历史纪录并等待加载人性化得多。</p>
+
+<h2 id="stylus-https-chrome-google-com-webstore-detail-stylus-clngdbkpkpeebahjckkjfobafhncgmne"><a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">Stylus</a></h2>
+
+<p>Stylus 是被爆出隐私问题的 Stylish 的替代品，支持自定义所有网页的 CSS 样式，解决了 Stylish 的中文支持的问题。</p>
+
+<p>在 Windows 10 以前微软系统的字体惨不忍睹，替代字体 + Mactype + Cleartype 似乎都很难解决这个问题。而 Chrome 网页中的字体又是由它自己决定的，因而卡饭（ <a href="http://bbs.kafan.cn/thread-1681393-1-1.html">http://bbs.kafan.cn/thread-1681393-1-1.html</a> ）有人以冬青黑体、思源黑体、XHei 等字体替换显示，以提高美感，而在 Windows 10 以后，似乎改观许多，可以考虑使用替代字体（<a href="https://www.zhihu.com/question/33886879">https://www.zhihu.com/question/33886879</a> 下 @Belleve 的答案）+ Mactype + Cleartype 的方案。在 Mac 下就不用替换了。</p>
+
+<p>除了<a href="https://userstyles.org/styles/100473/004-forcemyfonts-chinese-firefoxchromeie-catcat520">字体替换</a>这个场景，我还使用了 <a href="https://userstyles.org">https://userstyles.org</a> 上许多其他样式：</p>
+
+<ul>
+<li><a href="http://userstyles.org/styles/123858">Baidu Lite 百度轻</a></li>
+<li><a href="http://userstyles.org/styles/124770">Tieba - Maverick 2018 [百度贴吧]</a></li>
+<li><a href="http://userstyles.org/styles/140593">w3school 简约样式</a></li>
+<li><a href="http://userstyles.org/styles/135468">百度文库-屏蔽</a></li>
+<li><a href="http://userstyles.org/styles/130739">百度百科-屏蔽和优化</a></li>
+<li><a href="http://userstyles.org/styles/130901">百度知道-屏蔽与排版</a></li>
+<li><a href="http://userstyles.org/styles/132605">百度经验-屏蔽和优化</a></li>
+</ul>
+
+<p>事实上，我现在把这些样式都作为 js 脚本，利用 Tampermonkey 注入，并禁用了 Stylus。</p>
+
+<h2 id="tampermonkey-https-chrome-google-com-webstore-detail-tampermonkey-dhdgffkkebhmkfjojejmpbldmpobfkfo"><a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a></h2>
+
+<p>用户脚本神器，使不可能变成可能。</p>
+
+<p>我正在使用的脚本（按启用顺序），按需取用：</p>
+
+<p>CSS 样式：</p>
+
+<table>
+<thead>
+<tr>
+<th>标题</th>
+<th>地址</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Tieba - Maverick 2018 百度贴吧</td>
+<td><a href="https://userstyles.org/styles/124770">https://userstyles.org/styles/124770</a></td>
+</tr>
+
+<tr>
+<td>V2EX 扁平暗黑风主题</td>
+<td><a href="https://userstyles.org/styles/165969">https://userstyles.org/styles/165969</a></td>
+</tr>
+
+<tr>
+<td>Hacker News Readable</td>
+<td><a href="https://userstyles.org/styles/133201">https://userstyles.org/styles/133201</a></td>
+</tr>
+
+<tr>
+<td>w3school 简约样式</td>
+<td><a href="https://userstyles.org/styles/140593">https://userstyles.org/styles/140593</a></td>
+</tr>
+
+<tr>
+<td>百度文库-屏蔽</td>
+<td><a href="https://userstyles.org/styles/135468">https://userstyles.org/styles/135468</a></td>
+</tr>
+
+<tr>
+<td>百度百科-屏蔽和优化</td>
+<td><a href="https://userstyles.org/styles/130739">https://userstyles.org/styles/130739</a></td>
+</tr>
+
+<tr>
+<td>百度知道-屏蔽与排版</td>
+<td><a href="https://userstyles.org/styles/130901">https://userstyles.org/styles/130901</a></td>
+</tr>
+
+<tr>
+<td>百度经验-屏蔽和优化</td>
+<td><a href="https://userstyles.org/styles/132605">https://userstyles.org/styles/132605</a></td>
+</tr>
+</tbody>
+</table>
+
+<p>JS 脚本：</p>
+
+<table>
+<thead>
+<tr>
+<th>标题</th>
+<th>地址</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>回到顶部/底部</td>
+<td><a href="https://greasyfork.org/scripts/38899">https://greasyfork.org/scripts/38899</a></td>
+</tr>
+
+<tr>
+<td>Select like opera</td>
+<td><a href="https://github.com/lkytal/GM">https://github.com/lkytal/GM</a></td>
+</tr>
+
+<tr>
+<td>网页限制解除(改)</td>
+<td><a href="https://greasyfork.org/scripts/28497">https://greasyfork.org/scripts/28497</a></td>
+</tr>
+
+<tr>
+<td>跳过网站等待、验证码及登录</td>
+<td><a href="https://greasyfork.org/scripts/2600">https://greasyfork.org/scripts/2600</a></td>
+</tr>
+
+<tr>
+<td>anti-redirect</td>
+<td><a href="https://greasyfork.org/scripts/11915">https://greasyfork.org/scripts/11915</a></td>
+</tr>
+
+<tr>
+<td>Popup Search</td>
+<td><a href="https://github.com/lkytal/GM">https://github.com/lkytal/GM</a></td>
+</tr>
+
+<tr>
+<td>searchEngineJump 搜索引擎快捷跳转</td>
+<td><a href="https://greasyfork.org/scripts/27752">https://greasyfork.org/scripts/27752</a></td>
+</tr>
+
+<tr>
+<td>Userscript+ : 显示当前网站所有可用的UserJS脚本 Jaeger</td>
+<td><a href="https://greasyfork.org/scripts/24508">https://greasyfork.org/scripts/24508</a></td>
+</tr>
+
+<tr>
+<td>右键在新标签中打开图片时显示最优化图像质量</td>
+<td><a href="https://greasyfork.org/scripts/2312">https://greasyfork.org/scripts/2312</a></td>
+</tr>
+
+<tr>
+<td>视频网HTML5播放小工具</td>
+<td><a href="https://greasyfork.org/scripts/30545">https://greasyfork.org/scripts/30545</a></td>
+</tr>
+
+<tr>
+<td>博客阅读美化（去广告 自动全文 简洁）</td>
+<td><a href="https://greasyfork.org/scripts/38842">https://greasyfork.org/scripts/38842</a></td>
+</tr>
+
+<tr>
+<td>ScriptSource: The Leading Portal for Web Apps YouTube/Quora/Reddit/Discord/+More</td>
+<td><a href="https://greasyfork.org/scripts/38857">https://greasyfork.org/scripts/38857</a></td>
+</tr>
+
+<tr>
+<td>AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列</td>
+<td><a href="https://greasyfork.org/scripts/14178">https://greasyfork.org/scripts/14178</a></td>
+</tr>
+
+<tr>
+<td>Google Hit Hider by Domain (Search Filter / Block Sites)</td>
+<td><a href="https://greasyfork.org/scripts/1682">https://greasyfork.org/scripts/1682</a></td>
+</tr>
+
+<tr>
+<td>Endless Google</td>
+<td><a href="https://openuserjs.org/scripts/tumpio/Endless_Google">https://openuserjs.org/scripts/tumpio/Endless_Google</a></td>
+</tr>
+
+<tr>
+<td>Google View Image Button</td>
+<td><a href="https://greasyfork.org/scripts/38530">https://greasyfork.org/scripts/38530</a></td>
+</tr>
+
+<tr>
+<td>GithubDashboardEnhance</td>
+<td><a href="https://greasyfork.org/scripts/33511">https://greasyfork.org/scripts/33511</a></td>
+</tr>
+
+<tr>
+<td>GitHub file list beautifier</td>
+<td><a href="https://greasyfork.org/scripts/5982">https://greasyfork.org/scripts/5982</a></td>
+</tr>
+
+<tr>
+<td>GitHub Code Folding</td>
+<td><a href="https://greasyfork.org/scripts/26109">https://greasyfork.org/scripts/26109</a></td>
+</tr>
+
+<tr>
+<td>GitHub Table of Contents</td>
+<td><a href="https://greasyfork.org/scripts/18344">https://greasyfork.org/scripts/18344</a></td>
+</tr>
+
+<tr>
+<td>微软文档中英切换</td>
+<td><a href="https://greasyfork.org/scripts/33209">https://greasyfork.org/scripts/33209</a></td>
+</tr>
+
+<tr>
+<td>MDN 重定向到中文</td>
+<td><a href="https://greasyfork.org/scripts/28412">https://greasyfork.org/scripts/28412</a></td>
+</tr>
+
+<tr>
+<td>斗鱼熊猫工具箱</td>
+<td><a href="https://greasyfork.org/scripts/29026">https://greasyfork.org/scripts/29026</a></td>
+</tr>
+
+<tr>
+<td>斗鱼去火箭横幅(贵族弹幕样式&amp;&amp;聊天区域铭牌)</td>
+<td><a href="https://greasyfork.org/scripts/381934">https://greasyfork.org/scripts/381934</a></td>
+</tr>
+
+<tr>
+<td>豆瓣资源下载大师：1秒搞定豆瓣电影、音乐、图书下载</td>
+<td><a href="https://greasyfork.org/scripts/329484">https://greasyfork.org/scripts/329484</a></td>
+</tr>
+
+<tr>
+<td>Yet Another Weibo Filter 看真正想看的微博</td>
+<td><a href="https://tiansh.github.io/yawf/">https://tiansh.github.io/yawf/</a></td>
+</tr>
+
+<tr>
+<td>贴吧全能助手</td>
+<td><a href="https://greasyfork.org/scripts/26992">https://greasyfork.org/scripts/26992</a></td>
+</tr>
+
+<tr>
+<td>百度贴吧重定向2019</td>
+<td><a href="https://greasyfork.org/scripts/381995">https://greasyfork.org/scripts/381995</a></td>
+</tr>
+
+<tr>
+<td>城通网盘、皮皮盘、牛盘显示正确下载地址</td>
+<td><a href="https://greasyfork.org/scripts/25270">https://greasyfork.org/scripts/25270</a></td>
+</tr>
+
+<tr>
+<td>网盘提取工具</td>
+<td><a href="https://greasyfork.org/scripts/18733">https://greasyfork.org/scripts/18733</a></td>
+</tr>
+
+<tr>
+<td>闲鱼搜索框+去首图二维码</td>
+<td><a href="https://greasyfork.org/scripts/39161">https://greasyfork.org/scripts/39161</a></td>
+</tr>
+
+<tr>
+<td>京东自营过滤</td>
+<td><a href="https://greasyfork.org/scripts/33729">https://greasyfork.org/scripts/33729</a></td>
+</tr>
+
+<tr>
+<td>返利推广链接自动清洗</td>
+<td><a href="https://greasyfork.org/scripts/16772">https://greasyfork.org/scripts/16772</a></td>
+</tr>
+
+<tr>
+<td>Wallhaven 壁纸网站增强</td>
+<td><a href="https://greasyfork.org/scripts/29444">https://greasyfork.org/scripts/29444</a></td>
+</tr>
+
+<tr>
+<td>jump2Wikiwand</td>
+<td><a href="https://greasyfork.org/scripts/33223">https://greasyfork.org/scripts/33223</a></td>
+</tr>
+
+<tr>
+<td>NMacDirectDownload</td>
+<td><a href="https://greasyfork.org/scripts/369453">https://greasyfork.org/scripts/369453</a></td>
+</tr>
+
+<tr>
+<td>UserscloudDirectDownload</td>
+<td><a href="https://greasyfork.org/scripts/369454">https://greasyfork.org/scripts/369454</a></td>
+</tr>
+</tbody>
+</table>
+
+<p>我禁用了的脚本：</p>
+
+<table>
+<thead>
+<tr>
+<th>标题</th>
+<th>地址</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>空格之王 自動為中英文之間添加一個空格</td>
+<td><a href="https://greasyfork.org/scripts/37950">https://greasyfork.org/scripts/37950</a></td>
+</tr>
+
+<tr>
+<td>Text To link</td>
+<td><a href="https://github.com/lkytal/GM">https://github.com/lkytal/GM</a></td>
+</tr>
+
+<tr>
+<td>Scroll with Mouse Plus</td>
+<td><a href="https://github.com/lkytal/GM">https://github.com/lkytal/GM</a></td>
+</tr>
+
+<tr>
+<td>一键离线下载</td>
+<td><a href="https://greasyfork.org/scripts/22590">https://greasyfork.org/scripts/22590</a></td>
+</tr>
+
+<tr>
+<td>破解VIP会员视频集合</td>
+<td><a href="https://greasyfork.org/scripts/27530">https://greasyfork.org/scripts/27530</a></td>
+</tr>
+
+<tr>
+<td>知网下载助手</td>
+<td><a href="https://greasyfork.org/scripts/371938">https://greasyfork.org/scripts/371938</a></td>
+</tr>
+
+<tr>
+<td>Sci-hub button</td>
+<td><a href="https://greasyfork.org/scripts/370246">https://greasyfork.org/scripts/370246</a></td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="ublock-origin-https-chrome-google-com-webstore-detail-ublock-origin-cjpalhdlnbpafiamejdnhcphjbkeiagm"><a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin</a></h2>
+
+<p>据其 Github 页面称是占用比 Adblock Plus 少的一款广告拦截拓展，和这种类型的拓展相同，支持在线规则、自定义规则等。这款拓展让人上网清静，用久了就习惯了没有广告的页面，甚至我现在在 iOS 等平台上看到网页广告（屠龙宝刀点击就送那种）都觉得这网站是不是上个世纪的遗物。</p>
+
+<h2 id="v2ex-plus-https-chrome-google-com-webstore-detail-v2ex-plus-daeclijmnojoemooblcbfeeceopnkolo"><a href="https://chrome.google.com/webstore/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo">v2ex plus</a></h2>
+
+<p>V2EX 增强拓展，很多的油猴脚本都被这一个拓展替代了。</p>
+
+<h2 id="wappalyzer-https-chrome-google-com-webstore-detail-wappalyzer-gppongmhjkpfnbhagpmjfkannfbllamg"><a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a></h2>
+
+<p>分析当前网页使用的技术栈，遇到精妙的页面往往能告诉你那是什么组件构成的。</p>
+
+<h2 id="web前端助手-fehelper-https-chrome-google-com-webstore-detail-web-e5-89-8d-e7-ab-af-e5-8a-a9-e6-89-8bfehelper-pkgccpejnmalmdinmhkkfafefagiiiad"><a href="https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad">WEB前端助手(FeHelper)</a></h2>
+
+<p>前端工具箱，代码格式化、二维码生成、正则表达式、编码规范检查、性能检测等等。</p>
+
+<h2 id="为什么你们就是不能加个空格呢-https-chrome-google-com-webstore-detail-e7-82-ba-e4-bb-80-e9-ba-bc-e4-bd-a0-e5-80-91-e5-b0-b1-e6-98-af-e4-b8-8d-e8-83-bd-e5-8a-a0-e5-80-8b-e7-a9-ba-e6-a0-bc-e5-91-a2-ef-bc-9f-paphcfdffjnbcgkokihcdjliihicmbpd"><a href="https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd">为什么你们就是不能加个空格呢？</a></h2>
+
+<p><a href="https://greasyfork.org/scripts/37950">空格之王 自動為中英文之間添加一個空格</a> JS 脚本中使用的 pangu.js 的官方 Chrome 拓展，提供一键针对某些网站禁用的功能。</p>
+
+<h2 id="京价保-京东价保助手-https-chrome-google-com-webstore-detail-e4-ba-ac-e4-bb-b7-e4-bf-9d-e4-ba-ac-e4-b8-9c-e4-bb-b7-e4-bf-9d-e5-8a-a9-e6-89-8b-gfgkebiommjpiaomalcbfefimhhanlfd"><a href="https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%E4%BF%9D-%E4%BA%AC%E4%B8%9C%E4%BB%B7%E4%BF%9D%E5%8A%A9%E6%89%8B/gfgkebiommjpiaomalcbfefimhhanlfd">京价保 - 京东价保助手</a></h2>
+
+<ul>
+<li>自动监控最近订单商品的价格变化，在商品降价时自动申请价格保护</li>
+<li>自动签到领取京豆</li>
+<li>自动签到领取钢镚</li>
+<li>自动领白条券</li>
+<li>自动领Plus券</li>
+<li>自动领全品类</li>
+<li>自动京东金融会员签到</li>
+<li>商品价格走势图（仅支持京东）</li>
+</ul>
+
+<p><del>自动恰烂钱</del></p>
+
+<h2 id="哔哩哔哩助手-bilibili-com-综合辅助扩展-https-chrome-google-com-webstore-detail-e5-93-94-e5-93-a9-e5-93-94-e5-93-a9-e5-8a-a9-e6-89-8b-ef-bc-9abilibilicom-e7-bb-bc-e5-90-88-e8-be-85-e5-8a-a9-e6-89-a9-e5-b1-95-kpbnombpnpcffllnianjibmpadjolanh"><a href="https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh">哔哩哔哩助手：bilibili.com 综合辅助扩展</a></h2>
+
+<p><del>哔哩哔哩助手是我新近添加的一款拓展，可以将 bilibili.com 的视频强行替换为 HTML5 播放器，极适合见到 Flash Player 就热的 OSX，同时提供快速跳转和关注的人新上传作品提醒的功能。</del></p>
+
+<p><del>B站视频的用户体验是国内互联网视频网站最好的，而且还在不断改进，这个拓展可能可以帮看 B 站直播的人每天自动领瓜子。。</del></p>
+
+<p>现在提供弹幕查询与下载、视频下载、画中画、夜间模式、直播自动签到、领瓜子等功能。</p>
+
+<h2 id="有道云笔记网页剪报-https-chrome-google-com-webstore-detail-e6-9c-89-e9-81-93-e4-ba-91-e7-ac-94-e8-ae-b0-e7-bd-91-e9-a1-b5-e5-89-aa-e6-8a-a5-joinpgckiioeklibflapokicmndlcnef"><a href="https://chrome.google.com/webstore/detail/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0%E7%BD%91%E9%A1%B5%E5%89%AA%E6%8A%A5/joinpgckiioeklibflapokicmndlcnef">有道云笔记网页剪报</a></h2>
+
+<p>仓鼠党福音，有道云笔记一键剪藏和跳转。<del>我已经保存了为什么还要花时间去看</del></p>
+
+<p>久未更新，有小 bug。</p>
+
+<h2 id="简悦-simpread-https-chrome-google-com-webstore-detail-simpread-reader-view-ijllcpnolfcooahcekpamkbidhejabll"><a href="https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll">简悦 - SimpRead</a></h2>
+
+<p>阅读模式工具，可以更专注内容，含有十分丰富的功能。但一直用不习惯，用的不多。</p>
+
+<h2 id="茶友会-淘宝查券助手-https-chrome-google-com-webstore-detail-e8-8c-b6-e5-8f-8b-e4-bc-9a-e6-b7-98-e5-ae-9d-e6-9f-a5-e5-88-b8-e5-8a-a9-e6-89-8b-igedhbjllcmgidlmhclmphmhlllkibkb"><a href="https://chrome.google.com/webstore/detail/%E8%8C%B6%E5%8F%8B%E4%BC%9A-%E6%B7%98%E5%AE%9D%E6%9F%A5%E5%88%B8%E5%8A%A9%E6%89%8B/igedhbjllcmgidlmhclmphmhlllkibkb">茶友会 - 淘宝查券助手</a></h2>
+
+<p>茶友会是一个自动为你领取淘金币、自动签到领飞猪里程、自动查找渠道优惠券的浏览器插件。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>macOS Docker/Vagrant 开发环境</title>
+			<link>https://ladit.me/posts/macos-docker-vagrant-development-environment/</link>
+			<pubDate>Thu, 11 Jul 2019 11:50:00 +0800</pubDate>
+			
+			<guid>https://ladit.me/posts/macos-docker-vagrant-development-environment/</guid>
+			<description>前言 Docker 相比虚拟机有很多优势，但在非 Linux 环境下运行会遇到文件系统同步的问题，IO 效率低下（使用 cached 或 delegated 标记也几乎无提升），在 Mac 下可以考虑使用 xhyve 虚拟</description>
+			<content type="html"><![CDATA[
+
+<h2 id="前言">前言</h2>
+
+<p>Docker 相比虚拟机有很多优势，但在非 Linux 环境下运行会遇到文件系统同步的问题，IO 效率低下（使用 cached 或 delegated 标记也几乎无提升），在 Mac 下可以考虑使用 xhyve 虚拟机和 NFS/virtio-9p 加速 Mac 下的 Docker。但根据 <a href="https://github.com/kubernetes/minikube/issues/4291#issuecomment-494335628">https://github.com/kubernetes/minikube/issues/4291#issuecomment-494335628</a> ，0.4.0 版本的 docker-machine-driver-xhyve （Docker Machine 和 xhyve 之间的驱动）将导致 Docker 无法挂载 volume，可以选择安装 0.3.3-1 的旧版。<strong>但 0.3.3-1 版本的 docker-machine-driver-xhyve 在创建 docker machine 前的 precheck 中，仅接受 Virtualbox 5，导致在安装 Virtualbox 6 后 precheck 失败</strong>，可以考虑卸载 Virtualbox 或安装 5 的版本。另外，根据 <a href="https://github.com/machine-drivers/docker-machine-driver-xhyve#does-not-clean-up-the-vmnet-when-remove-a-vm">https://github.com/machine-drivers/docker-machine-driver-xhyve#does-not-clean-up-the-vmnet-when-remove-a-vm</a> ，删除 docker machine 将不会清理 vmnet，可能最多只能创建255个虚拟机，暂无解决方案。再者，docker-machine-driver-xhyve 这个项目有点 dead project 的意思，开发者更新不勤。因此，我折腾了挺久得到这样的结果觉得没有意思，决定选择传统的 Vagrant。以下介绍 Vagrant 开发环境和 0.3.3-1 版的 docker-machine-driver-xhyve 下的 Docker 开发环境（仅作备份）。</p>
+
+<h2 id="vagrant">Vagrant</h2>
+
+<h3 id="安装">安装</h3>
+
+<p>如果是 PHP 项目，建议使用 <code>laravel/homestead</code> box，再在其上自行安装其他内容，也可选择 <code>ubuntu/bionic64</code> 这样的纯系统 box。</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">brew cask install vagrant
+git clone https://github.com/laravel/homestead.git ~/Projects/Homestead <span class="o">&amp;&amp;</span> <span class="nb">cd</span> ~/Projects/Homestead
+git checkout v8.5.6 <span class="c1"># 在 https://github.com/laravel/homestead/releases 查看最新 tag</span>
+bash init.sh</code></pre></div>
+<p>打开 homestead 文件夹下的 Homestead.yaml ，简单修改即可适合 web 项目，以下给出示例。</p>
+<div class="highlight"><pre class="chroma"><code class="language-yaml" data-lang="yaml">---<span class="w">
+</span><span class="w"></span><span class="c"># 删除 vagrant machine 后会自动备份 MySQL</span><span class="w">
+</span><span class="w"></span>backup<span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
+</span><span class="w">
+</span><span class="w"></span>folders<span class="p">:</span><span class="w">
+</span><span class="w">    </span>-<span class="w"> </span>map<span class="p">:</span><span class="w"> </span>~/Projects/Playground<span class="w">
+</span><span class="w">      </span>to<span class="p">:</span><span class="w"> </span>/home/projects<span class="w">
+</span><span class="w">      </span>type<span class="p">:</span><span class="w"> </span><span class="s2">&#34;nfs&#34;</span><span class="w"> </span><span class="c"># nfs 更快</span><span class="w">
+</span><span class="w">
+</span><span class="w"></span><span class="c"># 配置 sites 会自动配置好 nginx</span><span class="w">
+</span><span class="w"></span><span class="c"># sites:</span><span class="w">
+</span><span class="w"></span><span class="c">#     - map: homestead.test</span><span class="w">
+</span><span class="w"></span><span class="c">#       to: /home/vagrant/code/public</span><span class="w">
+</span><span class="w">
+</span><span class="w"></span><span class="c"># 端口转发</span><span class="w">
+</span><span class="w"></span><span class="c"># ports:</span><span class="w">
+</span><span class="w"></span><span class="c">#     - send: 80</span><span class="w">
+</span><span class="w"></span><span class="c">#       to: 80</span><span class="w">
+</span><span class="w"></span><span class="c">#     - send: 7777</span><span class="w">
+</span><span class="w"></span><span class="c">#       to: 777</span><span class="w">
+</span><span class="w"></span><span class="c">#       protocol: udp</span></code></pre></div>
+<h3 id="可选-安装-swoole">（可选）安装 Swoole</h3>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell"><span class="nb">cd</span> /tmp <span class="o">&amp;&amp;</span> curl -SL <span class="s2">&#34;https://github.com/swoole/swoole-src/archive/v4.3.4.tar.gz&#34;</span> -o swoole.tar.gz <span class="o">&amp;&amp;</span> mkdir -p swoole <span class="o">&amp;&amp;</span> tar -xf swoole.tar.gz -C swoole --strip-components<span class="o">=</span><span class="m">1</span> <span class="o">&amp;&amp;</span> rm swoole.tar.gz <span class="o">&amp;&amp;</span> <span class="nb">cd</span> swoole <span class="o">&amp;&amp;</span> phpize <span class="o">&amp;&amp;</span> ./configure --enable-openssl --enable-http2 --enable-mysqlnd <span class="o">&amp;&amp;</span> make <span class="o">&amp;&amp;</span> make install <span class="o">&amp;&amp;</span> <span class="nb">echo</span> <span class="s2">&#34;extension=swoole.so&#34;</span> &gt;&gt; /etc/php/7.3/cli/conf.d/swoole.ini</code></pre></div>
+<h2 id="docker-仅作备份">Docker（仅作备份）</h2>
+
+<h3 id="安装-1">安装</h3>
+
+<p>使用 cask 下的 docker 套件，包含了大部分需要的内容，会导致后面 docker-machine-driver-xhyve 依赖的 docker-machine 安装后不能创建软链接。</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">brew cask install docker
+open /Applications/Docker.app</code></pre></div>
+<p>安装 xhyve 轻量虚拟机。</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">brew install xhyve</code></pre></div>
+<p>安装 docker-machine-driver-xhyve 驱动。</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/7310c563d662ddbe094f46f9600cad30ad3551a6/Formula/docker-machine-driver-xhyve.rb</code></pre></div>
+<p>赋予 docker-machine-driver-xhyve root 权限。</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">sudo chown root:wheel <span class="k">$(</span>brew --prefix<span class="k">)</span>/opt/docker-machine-driver-xhyve/bin/docker-machine-driver-xhyve
+sudo chmod u+s <span class="k">$(</span>brew --prefix<span class="k">)</span>/opt/docker-machine-driver-xhyve/bin/docker-machine-driver-xhyve</code></pre></div>
+<p>创建基于 xhyve 的 docker machine。</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell"><span class="c1"># 使用 docker-machine create --driver xhyve --help 查看可用的参数</span>
+docker-machine create --driver xhyve --xhyve-virtio-9p --xhyve-cpu-count -1 --xhyve-memory-size <span class="m">2048</span> default
+<span class="c1"># 或者使用 nfs</span>
+docker-machine create --driver xhyve --xhyve-experimental-nfs-share --xhyve-cpu-count -1 --xhyve-memory-size <span class="m">2048</span> default
+
+<span class="c1"># 将相关环境变量加入 bashrc</span>
+<span class="nb">echo</span> <span class="s2">&#34;eval \&#34;\$(docker-machine env default)\&#34;&#34;</span> &gt;&gt; ~/.bashrc <span class="o">&amp;&amp;</span> <span class="nb">source</span> ~/.bashrc <span class="c1"># bash</span>
+<span class="nb">echo</span> <span class="s2">&#34;eval \&#34;\$(docker-machine env default)\&#34;&#34;</span> &gt;&gt; ~/.zshrc <span class="o">&amp;&amp;</span> <span class="nb">source</span> ~/.zshrc <span class="c1"># zsh</span></code></pre></div>
+<h3 id="运行与测试">运行与测试</h3>
+
+<p>根据<a href="https://github.com/codekitchen/dinghy/issues/166#issuecomment-409119346">这个</a>测试命令，我在我的电脑上得到的结果是：</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">docker run --rm -it -v <span class="s2">&#34;</span><span class="k">$(</span>PWD<span class="k">)</span><span class="s2">:/pwd&#34;</span> -w /pwd alpine <span class="nb">time</span> dd <span class="k">if</span><span class="o">=</span>/dev/zero <span class="nv">of</span><span class="o">=</span>speedtest <span class="nv">bs</span><span class="o">=</span><span class="m">1024</span> <span class="nv">count</span><span class="o">=</span><span class="m">100000</span>
+<span class="m">100000</span>+0 records in
+<span class="m">100000</span>+0 records out
+real    0m <span class="m">6</span>.33s
+user    0m <span class="m">0</span>.03s
+sys     0m <span class="m">0</span>.45s</code></pre></div>
+<p>相比默认情况下的50多秒有成倍的性能提升。</p>
+
+<h2 id="参考">参考</h2>
+
+<ul>
+<li><a href="https://wongyouth.github.io/2019/04/28/xhyve-%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E4%B8%8B%E8%BD%BB%E9%87%8F%E7%BA%A7%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%96%B9%E6%A1%88/">xhyve, 苹果电脑下轻量级虚拟机方案</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/27282986">如何提升Docker for Mac性能</a></li>
+<li><a href="https://laradock.io/documentation/#improve-speed-on-macos">Improve speed on MacOS - Laradock</a></li>
+<li><a href="http://alitain.tech/2017/07/04/mac-with-dinghy-and-laradock/">Mac使用dinghy和laradock搭建php运行环境</a></li>
+</ul>
+]]></content>
+		</item>
+		
+		<item>
+			<title>我的 ITX Hackintosh / PC 购买、组装、安装系统心得</title>
+			<link>https://ladit.me/posts/my-itx-hackintosh-and-pc-buying-build-installation-experience/</link>
+			<pubDate>Thu, 11 Jul 2019 11:50:00 +0800</pubDate>
+			
+			<guid>https://ladit.me/posts/my-itx-hackintosh-and-pc-buying-build-installation-experience/</guid>
+			<description>前言 即将毕业了，一直以来缺少一台自己的有一定性能的台式机，从五月份开始思考需求，到处爬楼，多次增删，得到以下结果，仅以记之。 需求 ITX台式机</description>
+			<content type="html"><![CDATA[
+
+<h2 id="前言">前言</h2>
+
+<p>即将毕业了，一直以来缺少一台自己的有一定性能的台式机，从五月份开始思考需求，到处爬楼，多次增删，得到以下结果，仅以记之。</p>
+
+<h2 id="需求">需求</h2>
+
+<ul>
+<li>ITX台式机</li>
+<li>甜品级性能</li>
+<li>较久的使用寿命，极少的更换、升级、维修可能，未来直接配新的电脑</li>
+<li>Hackintosh</li>
+<li>Windows</li>
+<li>很少大于3A的游戏需求</li>
+<li>尽量无光污染</li>
+</ul>
+
+<h2 id="配置单">配置单</h2>
+
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>名称</th>
+<th>价格</th>
+<th>平台</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>CPU</td>
+<td>英特尔i7 8700散片</td>
+<td>1789</td>
+<td>淘宝</td>
+</tr>
+
+<tr>
+<td>主板</td>
+<td>玩家国度（REPUBLIC OF GAMERS）ROG STRIX Z390-I GAMING 主板（Intel Z390/LGA 1151）</td>
+<td>1809</td>
+<td>京东</td>
+</tr>
+
+<tr>
+<td>显卡</td>
+<td>蓝宝石（Sapphire）RX590 8G D5 超白金极光特别版1545-1560MHz/8000-8400MHz 8GB/256bit GDDR5 DX12显卡</td>
+<td>1399</td>
+<td>京东</td>
+</tr>
+
+<tr>
+<td>内存</td>
+<td>美商海盗船(USCORSAIR)DDR4 3200 16GBX2 台式机内存条 复仇者LPX系列 游戏型</td>
+<td>1078</td>
+<td>京东</td>
+</tr>
+
+<tr>
+<td>散热</td>
+<td>美商海盗船 (USCORSAIR) H100i PRO RGB冷头 一体式CPU水冷散热器 （240MM冷排/2×120磁悬浮风扇/五年质保）</td>
+<td>748</td>
+<td>京东</td>
+</tr>
+
+<tr>
+<td>电源</td>
+<td>【SGPC】海盗船SF600/SF750全模组A4迷你ITX小机箱SFX小电源600w+模组线</td>
+<td>799</td>
+<td>淘宝</td>
+</tr>
+
+<tr>
+<td>macOS系统盘</td>
+<td>WD西部数据 SN750 黑盘 500G PCI-E M.2 NVME固态硬盘SSD</td>
+<td>539</td>
+<td>淘宝</td>
+</tr>
+
+<tr>
+<td>Windows系统盘</td>
+<td>WD西部数据 SN750 黑盘 500G PCI-E M.2 NVME固态硬盘SSD</td>
+<td>539</td>
+<td>淘宝</td>
+</tr>
+
+<tr>
+<td>机箱</td>
+<td>SKTC游戏机箱itx机箱电脑机箱台式全铝钢化玻璃机箱240水冷机箱S02 红色单钢化玻璃（含PCIE延长线）</td>
+<td>517</td>
+<td>京东</td>
+</tr>
+
+<tr>
+<td>Wi-Fi和蓝牙</td>
+<td>博通BCM94352Z 戴尔DW1560 802.11AC无线网卡 ngff接口 黑苹果</td>
+<td>278</td>
+<td>淘宝</td>
+</tr>
+
+<tr>
+<td>显示器（已有）</td>
+<td>Dell U2417H</td>
+<td>0</td>
+<td></td>
+</tr>
+
+<tr>
+<td>DP线</td>
+<td>绿联（UGREEN）DP高清线1.2版 2K*4KDisplayPort公对公接线 笔记本电脑连接显示器视频线支持戴尔1.5米 10245</td>
+<td>45</td>
+<td>京东</td>
+</tr>
+
+<tr>
+<td>总计</td>
+<td></td>
+<td>9540</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="为什么这么选">为什么这么选</h2>
+
+<h3 id="cpu">CPU</h3>
+
+<p>我的CPU选择标准/理由：</p>
+
+<ul>
+<li>适合Hackintosh，目前Intel更方便</li>
+<li>ITX散热性能较差，不超频</li>
+<li>少于2000元的预算，感觉超过2000元的产品价格和能耗都提升了一个档次</li>
+</ul>
+
+<p>本来选择的是i5-9600K，但是根据朋友建议和<a href="https://cpu.userbenchmark.com/Compare/Intel-Core-i7-8700-vs-Intel-Core-i5-9600K/3940vs4031">这个对比</a>，放弃10%左右的单核性能提升，选择无超频、低TDP、多核多线程更强的i7-8700。两者差别其实不是很大，可以根据价格决定。</p>
+
+<h3 id="主板">主板</h3>
+
+<p>选择ROG STRIX Z390-I是因为：</p>
+
+<ul>
+<li>Z370和Z390系列较新，且适合Hackintosh，DP/HDMI/DVI核显输出黑屏概率低</li>
+<li>需要ITX版型</li>
+<li>tonymacx86中的大部分新帖子都是Z390，适合参考</li>
+<li>相比华擎同款，没有我不需要的PS/2接口、半速Thunderbolt接口，且自带Wi-Fi天线</li>
+</ul>
+
+<p>缺点是性价比低，海淘性价比较高，但无保修。</p>
+
+<h3 id="显卡">显卡</h3>
+
+<ul>
+<li>Nvdia显卡不易驱动，考虑AMD，macOS可以直接驱动RX590</li>
+<li>蓝宝石适合Hackintosh，稳定</li>
+<li>不那么高的性能需求</li>
+<li>Vega56价格、能耗高，ITX机箱限制</li>
+</ul>
+
+<h3 id="内存">内存</h3>
+
+<ul>
+<li>降价非常明显，尽量一步到位（2x16GB）</li>
+<li>不需要灯光</li>
+<li>3200MHz和其他频率的产品价格差别不大</li>
+<li>尽量套条</li>
+</ul>
+
+<h3 id="散热">散热</h3>
+
+<p>ITX机箱对风冷限高比较严格，找来找去没有发现特别适合的方案，又发现SKTC S02这款机箱支持240一体式水冷，于是考虑使用水冷。不需要光，京东按销量排序，选中了这款，虽然有点贵，但有5年质保和2400RPM的风扇转速和75CFM的风量，压制i5-9600K或i7-8700应该都可以。</p>
+
+<h3 id="电源">电源</h3>
+
+<ul>
+<li>ITX机箱要求SFX</li>
+<li>显卡推荐电源600W以上</li>
+</ul>
+
+<p>京东按上面条件搜索，比较合适的就是海盗船这款和EVGA的一款，爬楼时发现大量ITX装机都使用海盗船这款，在淘宝某家店发现带定制线还比京东更便宜（SF600的原装线非常硬）。</p>
+
+<h3 id="硬盘">硬盘</h3>
+
+<ul>
+<li>双系统，双硬盘，不分区</li>
+<li>macOS主要是日常使用，Windows主要是游戏，各500GB应该可以满足我的需求</li>
+<li>由上面两条，不需要机械硬盘</li>
+</ul>
+
+<p>根据下图和Hackintosh硬件推荐，SN750应该是近期性价比最高（淘宝）的NVMe SSD。</p>
+
+<p><img src="http://spider.ws.126.net/5c1b0b595fff3e8a61bf0fc454bde3d1.jpeg" alt="SSD对比" /></p>
+
+<h3 id="机箱">机箱</h3>
+
+<p>机箱来回挑选了很久，大概的需求是：</p>
+
+<ul>
+<li>能放下显卡</li>
+<li>只需要ITX版型</li>
+<li>只需要SFX大小的电源</li>
+<li>散热、做工不错</li>
+</ul>
+
+<p>这样得出的结果大致是10升的A4机箱，需要显卡转接线，市面上有许多产品。</p>
+
+<p>国外论坛上的SFF Build帖子大多是用Ghost S1、Dan Case之类的A4机箱，但这些需要转运并且特别贵。也有老外在淘宝买然后转运出去的。然后自己在淘宝搜也是一头雾水。B站up主 @玩笑笑笑笑笑 的视频<a href="https://www.bilibili.com/video/av51769793">[B站最详细]ITX装机指南(收录25款散热器&amp;98款机箱)</a>使我对ITX机箱有了比较清晰的认识，大致对比了一下选择了SKTC S02这款，红色的颜值还是挺舒服的。</p>
+
+<p>另外一提，银河W1非常好看，适合经济宽裕动手能力强的人入手。</p>
+
+<h3 id="wi-fi和蓝牙卡">Wi-Fi和蓝牙卡</h3>
+
+<p>Wi-Fi、蓝牙、Handoff和Airdrop功能需要合适的无线网卡，根据<a href="https://osxlatitude.com/forums/topic/11138-inventory-of-supportedunsupported-wireless-cards-2-sierra-catalina/">这个列表</a>和<a href="https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/">这个帖子</a>，ROG STRIX Z390-I这块主板可以把M.2 Intel网卡替换成DW1560，但淘宝的DW1560溢价太严重，有的还断货，根据<a href="https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojave/">这个帖子</a>，DW1820A某些型号也是可以的，需要额外驱动，淘宝的售价是DW1560的五分之一。</p>
+
+<p>尝试DW1820A后发现此卡非常不稳定，会出现卡顿、无法连接的现象，尝试了多种驱动方式也无效。根据帖子的信息，贴纸上标记的料号似乎也不符合软件查看的<code>subsystem-id</code>，怀疑店家贴了标签，遂退货，入手278元的DW1560，十分稳定。</p>
+
+<h2 id="组装">组装</h2>
+
+<p>第一次组装ITX，实在非常困难，螺丝、组件、线材、机箱都非常小，排列紧凑。</p>
+
+<p>建议使用DP接口以避免图形问题。</p>
+
+<p>对于这些零件（机箱、主板、水冷、电源、显卡）的配合，我建议的安装顺序是：</p>
+
+<ul>
+<li>打开机箱前后上外壳</li>
+<li>安装主板背部水冷支架</li>
+<li>插入内存</li>
+<li>更换DW1560</li>
+<li>安装电源</li>
+<li>安装显卡：显卡延长线从显卡底部连接，180度弯折绕到显卡背部和中板之间，伸到顶部，180度弯折绕过中板顶部以连接到主板，插入8+6pin电源，注意电源线和第二次弯折的显卡延长线不能太高，防止碰到冷排</li>
+<li>合上显卡侧机箱外壳</li>
+<li>安装风扇到冷排，安装冷排到机箱，合上机箱上外壳</li>
+<li>安装主板、水冷头、剩余接线。此时要注意走线，我的做法是把风扇线、水冷管、机箱USB3线、电源按钮跳线等需要绕的线都塞在电源、主板、中板间的区域；把电源按钮跳线、水冷头USB2线穿过显卡延长线再接</li>
+<li>合上主板侧机箱外壳</li>
+</ul>
+
+<h3 id="更换dw1560流程-来自帖子">更换DW1560流程（来自帖子）</h3>
+
+<p>卸下主板背部固定灰色马甲的4个黑色螺丝。取下散热器并放在一边</p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-MB%20Screws.jpg" alt="MB Screws.jpg" /></p>
+
+<p>卸下主板背部固定WiFi模块的2个银色螺丝
+将固定IO挡板的弹簧夹掰开取下，别担心，它的铰链结构不会弯曲</p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-Clip.jpg" alt="Clip.jpg" /></p>
+
+<p>将IO挡板取下，小心地将M.2 Wi-Fi模块向上拉出</p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-Module.jpg" alt="Module.jpg" /></p>
+
+<p>卸下模块侧面固定螺丝</p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-Sidescrew.jpg" alt="Sidescrew.jpg" /></p>
+
+<p>向上滑动前盖并将其完全取下，您可能需要稍微拆下后贴纸</p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-Cover.jpg" alt="Cover.jpg" /></p>
+
+<p>小心卸下两条天线，上面的天线连接的是左边的接口</p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-board.jpg" alt="board.jpg" /></p>
+
+<p>拧开固定螺丝，取下旧模块，小心不要撕破小海绵垫片，换上新模块并装上螺丝
+小心连接天线，连接头不好安装，确保它们咔哒一声到位，不要太大力，防止压碎它们
+反向重复该过程，装回主板。</p>
+
+<h3 id="最终成果">最终成果</h3>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0177.jpg" alt="IMG_0177.jpg" /></p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0178.jpg" alt="IMG_0178.jpg" /></p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0179.jpg" alt="IMG_0179.jpg" /></p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0180.jpg" alt="IMG_0180.jpg" /></p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0181.jpg" alt="IMG_0181.jpg" /></p>
+
+<h2 id="hackintosh安装">Hackintosh安装</h2>
+
+<p>主要参考了<a href="https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/">The everything works Asus Z390-I Gaming * i7-8700K * Sapphire RX580 Pulse build| tonymacx86.com</a>这个帖子。</p>
+
+<h3 id="前置准备">前置准备</h3>
+
+<ul>
+<li>一台可用的Mac（使用Windows PC的话需要参考网上其他教程，配置iCloud的部分可能要在Hackintosh上做）</li>
+<li>一个8GB或更大的U盘</li>
+<li>待安装的Hackintosh机器</li>
+<li>下载，解压缩，安装<a href="https://mackie100projects.altervista.org/download/ccg/">Clover Configurator</a>。在制作安装U盘过程中用来配置iCloud等，在安装完成后用来在Hackintosh上挂载EFI分区，所以在Mac和待安装的Hackintosh机器上都要安装</li>
+</ul>
+
+<h3 id="制作安装u盘">制作安装U盘</h3>
+
+<ul>
+<li>在Mac中插入8GB或更大的U盘</li>
+<li>打开<code>/Applications/Utilities/Disk Utility.app</code>并在左侧面板中选择U盘</li>
+<li>点击“抹掉”按钮</li>
+<li>命名U盘，可以稍后重命名</li>
+<li>格式：选择OS X Extended（Journaled）</li>
+<li>Scheme：选择GUID Partition Map</li>
+<li>单击“擦除”然后“完成”</li>
+<li>下载<a href="https://www.tonymacx86.com/resources/unibeast-9-2-0-mojave.426/download">Unibast for Mojave</a>（tonymacx86当前可能不能上，我使用tw线路可以上，也可以找找镜像或选择手动命令行制作）</li>
+<li>从应用商店下载Mojave安装程序</li>
+<li>运行UniBeast并选择U盘，Mojave安装程序和UEFI。将其他所有内容留空，然后单击继续以创建安装程序。这可能需要很长时间，所以要耐心等待</li>
+<li>下载<a href="https://github.com/ladit/hackintosh/tree/master/EFI">提供的EFI</a>并替换U盘EFI分区中的EFI文件夹，双击使用Clover Configurator打开U盘EFI分区下的<code>/EFI/CLOVER/config.plist</code></li>
+<li>单击Clover Configurator 左侧的SMBIOS</li>
+<li>单击System下的Serial Number右侧的Generate New</li>
+<li>点击右侧iMac图片下的Check Coverage</li>
+<li>你将被带到苹果网站，输入验证码，如果出现以下消息，说明序列号是有效的，否则重新Generate New</li>
+</ul>
+
+<blockquote>
+<blockquote>
+<p>很抱歉，此序列号无效。请检查您的信息，然后再试一次。</p>
+</blockquote>
+</blockquote>
+
+<ul>
+<li>一旦你得到一个有效的序列号，点击SmUUID右侧的Generate New，将iMac图片左侧的Board Serial Number复制到左边Rt Variables中的MLB栏，点击左下角第二个按钮保存配置，弹出U盘</li>
+</ul>
+
+<h3 id="bios设置">BIOS设置</h3>
+
+<ul>
+<li>开机，按Delete进入BIOS</li>
+<li>更新BIOS</li>
+<li>将BIOS恢复到默认设置</li>
+<li>在左侧主屏幕中，将XMP设置为“enabled”</li>
+<li>Advanced Items &gt; CPU Configuration &gt; Intel (VMX) Virtualization Technology &gt; Enable - 打开虚拟化支持</li>
+<li>Advanced Items &gt; System Agent (SA) Graphics Configuration &gt; Primary Display &gt; PEG (如果使用集显，设为auto)</li>
+<li>Advanced Items &gt; System Agent (SA) Graphics Configuration &gt; IGPU Multi-Monitor &gt; 独显：Enabled，集显：Disabled</li>
+<li>保存并重启到BIOS</li>
+<li>Advanced Items &gt; System Agent (SA) Graphics Configuration &gt; RC6(Render Standby) &gt; Off</li>
+<li>Advanced Items &gt; System Agent (SA) Configuration &gt; Above 4G Decoding &gt; Enable</li>
+<li>Advanced Items &gt; System Agent (SA) Graphics Configuration &gt; DVMT Pre-Allocated &gt; 128M</li>
+<li>Advanced Items &gt; USB Configuration &gt; Legacy USB Support &gt; Disabled</li>
+<li>Advanced Items &gt; USB Configuration &gt; XHCI Hand Off &gt; Enabled</li>
+<li>保存并重启</li>
+</ul>
+
+<p>一些其他可选设置：</p>
+
+<p>Boot&gt; Boot Configuration&gt; Boot Logo Display&gt; Disabled
+Boot&gt; Boot Configuration&gt; Post Report&gt; 1 Sec
+Boot &gt; Setup Mode &gt; Advanced</p>
+
+<p>保存BIOS设置：</p>
+
+<p>Tools &gt; Asus User Profile &gt; Profile Name &gt; Mac
+Tools &gt; Asus User Profile &gt; Save to Profile &gt; 1</p>
+
+<h3 id="安装系统">安装系统</h3>
+
+<ul>
+<li>将安装U盘插入待安装的机器，从Clover菜单中启动并选择Installer作为启动盘，安装系统，过程中将多次重启，在Clover中选择从本地磁盘启动就可以继续。建议进入系统后再登录iCloud</li>
+<li>下载，解压缩，安装<a href="https://mackie100projects.altervista.org/download/ccg/">Clover Configurator</a></li>
+<li>单击工具下的Mount EFI，挂载U盘和本地磁盘的EFI分区，用U盘的EFI文件夹替换本地磁盘的EFI文件夹</li>
+<li>重新启动进入BIOS，设置本地磁盘为第一引导顺序</li>
+
+<li><p>启动并检查以下项目是否正常运行：</p></li>
+
+<li><p>Continuity:</p>
+
+<ul>
+<li>Handoff</li>
+<li>iMessage</li>
+<li>Continuity Camera</li>
+<li>Universal Clipboard</li>
+<li>Instant Hotspot</li>
+<li>Air Drop</li>
+<li>iPhone Cellular Calls</li>
+<li>Auto Unlock</li>
+<li>Apple Pay​</li>
+</ul></li>
+
+<li><p>Sleep (fans and RGB LEDs included)</p></li>
+
+<li><p>Power Nap (sleep with background operations such as Time Machine)</p></li>
+
+<li><p>Wake</p></li>
+
+<li><p>CPU frequency tuning</p></li>
+
+<li><p>H264/HEVC hardware encoding and decoding</p></li>
+
+<li><p>Audio (select internal speakers)</p></li>
+
+<li><p>Ethernet</p></li>
+
+<li><p>Bluetooth</p></li>
+
+<li><p>WiFi</p></li>
+
+<li><p>All USB and USB 3.1 ports</p></li>
+
+<li><p>Function keys(such as brightness or volume)</p></li>
+
+<li><p>Nightshift (no kexts required)</p></li>
+</ul>
+
+<p>如果还有一些USB或睡眠相关的问题，原帖还提供了SSDT修复文件，置于<code>/EFI/CLOVER/ACPI/patched</code>下。</p>
+
+<h3 id="成果">成果</h3>
+
+<p>完美运行：</p>
+
+<ul>
+<li>Continuity:
+
+<ul>
+<li>Handoff</li>
+<li>iMessage</li>
+<li>Continuity Camera</li>
+<li>Universal Clipboard</li>
+<li>Instant Hotspot</li>
+<li>Air Drop</li>
+<li>iPhone Cellular Calls</li>
+<li>Auto Unlock</li>
+</ul></li>
+<li>Sleep (fans and RGB LEDs included)</li>
+<li>Power Nap (sleep with background operations such as Time Machine)</li>
+<li>Wake</li>
+<li>CPU frequency tuning</li>
+<li>H264/HEVC hardware encoding and decoding</li>
+<li>Audio (select internal speakers)</li>
+<li>Ethernet</li>
+<li>Bluetooth</li>
+<li>WiFi</li>
+<li>All USB and USB 3.1 ports</li>
+<li>Nightshift (no kexts required)</li>
+</ul>
+
+<p>无效：</p>
+
+<ul>
+<li>Apple Pay​：无硬件</li>
+<li>Function keys(such as brightness or volume)：外接显示器无法调节，但我的IKBC G104按住fn键+F9-F11可以调节音量</li>
+</ul>
+
+<h2 id="windows安装">Windows安装</h2>
+
+<p>使用另一个U盘刷入PE，装在另一块硬盘即可，Clover会自动检查到启动项。</p>
+
+<h2 id="参考">参考</h2>
+
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/67807395">【2019年6月】6月份装机走向与推荐</a></li>
+<li><a href="http://bbs.pcbeta.com/viewthread-1799271-1-1.html">macOS Mojave 台式机黑苹果硬件选购指南-远景论坛-微软极客社区</a></li>
+<li><a href="https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/">The everything works Asus Z390-I Gaming * i7-8700K * Sapphire RX580 Pulse build| tonymacx86.com</a></li>
+<li><a href="http://icyleaf.com/2019/01/itx-coffee-lake-hackintosh-build-for-4k-video-editing/">攒了一台 4K 视频剪辑黑苹果 · icyleaf</a></li>
+<li><a href="http://icyleaf.com/2019/03/asrock-z390-gaming-itx-install-hackintosh-tutorial/">华擎 Z390 Gaming ITX 黑苹果安装教程 · icyleaf</a></li>
+<li><a href="https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojave/">Broadcom BCM4350 cards under High Sierra/Mojave - Wireless and Bluetooth - osxlatitude.com</a></li>
+<li><a href="https://www.tonymacx86.com/">tonymacx86</a></li>
+<li><a href="https://blog.daliansky.net/">黑果小兵的部落阁</a></li>
+</ul>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Mac App 列表定时备份脚本</title>
+			<link>https://ladit.me/posts/mac-app-auto-backup/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ladit.me/posts/mac-app-auto-backup/</guid>
+			<description>参考 给 Mac 优雅地一键「装机」 定期自动云备份 macOS 软件列表，维护一份属于自己的必备 App 清单 OSX 系统添加定时任务 crontab 中 PATH 的坑 概述 有感少数派的文章，也尝试整合</description>
+			<content type="html"><![CDATA[
+
+<h2 id="参考">参考</h2>
+
+<ul>
+<li><a href="https://sspai.com/post/43239">给 Mac 优雅地一键「装机」</a></li>
+<li><a href="https://sspai.com/post/43265">定期自动云备份 macOS 软件列表，维护一份属于自己的必备 App 清单</a></li>
+<li><a href="http://honglu.me/2014/09/20/OSX%E7%B3%BB%E7%BB%9F%E6%B7%BB%E5%8A%A0%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/">OSX 系统添加定时任务</a></li>
+<li><a href="https://my.oschina.net/aven92/blog/486037">crontab 中 PATH 的坑</a></li>
+</ul>
+
+<h2 id="概述">概述</h2>
+
+<p>有感少数派的文章，也尝试整合实现了 macOS 的软件列表自动定时备份，并生成自动安装命令的脚本，以便加快重装后的部署速度。</p>
+
+<p>mas 是 brew 的一个包，可以命令行实现部分 Mac App Store 的功能，例如安装、搜索、更新。</p>
+
+<p>此脚本将在当前用户文件夹的 Documents 文件夹下生成 AppList 文件夹，每次备份在其中生成 <code>/Applications</code> 文件夹下 App 的列表（<code>Applications_Folder_List.txt</code>）、mas 安装的 App 的列表（<code>MAS_List.txt</code>）、brew 安装的包的列表（<code>Brew_List.txt</code>）、brew cask 安装的包的列表（<code>BrewCask_List.txt</code>）、供重装后自动安装的脚本（<code>AppInstaller.command</code>，双击即可安装）。</p>
+
+<p>可以改动脚本变量实现自动备份到 OneDrive、iCloud 等。</p>
+
+<h2 id="前置需求">前置需求</h2>
+
+<ul>
+<li>brew(<code>/usr/bin/ruby -e &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;</code>)</li>
+<li>brew cask(<code>brew tap caskroom/cask</code>)</li>
+<li>mas(<code>brew install mas</code>)</li>
+</ul>
+
+<h2 id="脚本">脚本</h2>
+
+<p>将以下代码保存为 <code>AppListAutoBackup.sh</code> 并 <code>chmod +x ./AppListAutoBackup.sh</code> 即可。</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell"><span class="cp">#!/bin/bash
+</span><span class="cp"></span>
+<span class="c1"># 备份</span>
+
+<span class="nv">AppList_Folder</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$HOME</span><span class="s2">/Documents/AppList&#34;</span>
+<span class="nv">Applications_Folder_List</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$AppList_Folder</span><span class="s2">/Applications_Folder_List.txt&#34;</span>
+<span class="nv">MAS_List</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$AppList_Folder</span><span class="s2">/MAS_List.txt&#34;</span>
+<span class="nv">Brew_List</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$AppList_Folder</span><span class="s2">/Brew_List.txt&#34;</span>
+<span class="nv">BrewCask_List</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$AppList_Folder</span><span class="s2">/BrewCask_List.txt&#34;</span>
+<span class="nv">AppInstaller</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$AppList_Folder</span><span class="s2">/AppInstaller.command&#34;</span>
+
+<span class="k">if</span> <span class="o">[</span> ! -d <span class="nv">$AppList_Folder</span> <span class="o">]</span><span class="p">;</span> <span class="k">then</span>
+  mkdir <span class="nv">$AppList_Folder</span>
+<span class="k">fi</span>
+
+<span class="c1"># All Apps</span>
+ls -lh /Applications &gt; <span class="nv">$Applications_Folder_List</span>
+
+<span class="c1"># MAS Apps</span>
+mas list &gt; <span class="nv">$MAS_List</span>
+
+<span class="c1"># brew Apps</span>
+brew list &gt; <span class="nv">$Brew_List</span>
+
+<span class="c1"># brew cask Apps</span>
+brew cask list &gt; <span class="nv">$BrewCask_List</span>
+
+<span class="c1"># 生成 MAS_List 安装命令</span>
+cat <span class="nv">$MAS_List</span> <span class="p">|</span> sed <span class="s2">&#34;s/(.*)//g&#34;</span> <span class="p">|</span> sed -Ee <span class="s1">&#39;s/([0-9]+) (.+)/mas install \1 #\2/g&#39;</span> &gt; <span class="nv">$AppInstaller</span>
+
+<span class="c1"># 生成 Brew_List 安装命令</span>
+<span class="nb">echo</span> <span class="s2">&#34;brew install </span><span class="k">$(</span>cat <span class="nv">$Brew_List</span> <span class="p">|</span> tr <span class="s1">&#39;\n&#39;</span> <span class="s1">&#39; &#39;</span><span class="k">)</span><span class="s2">&#34;</span> &gt;&gt; <span class="nv">$AppInstaller</span>
+
+<span class="c1"># 生成 BrewCask_List 安装命令</span>
+<span class="nb">echo</span> <span class="s2">&#34;brew cask install </span><span class="k">$(</span>cat <span class="nv">$BrewCask_List</span> <span class="p">|</span> tr <span class="s1">&#39;\n&#39;</span> <span class="s1">&#39; &#39;</span><span class="k">)</span><span class="s2">&#34;</span> &gt;&gt; <span class="nv">$AppInstaller</span>
+
+<span class="c1"># 赋予权限</span>
+<span class="k">if</span> <span class="o">[</span> ! -x <span class="nv">$AppInstaller</span> <span class="o">]</span><span class="p">;</span> <span class="k">then</span>
+  chmod +x <span class="nv">$AppInstaller</span>
+<span class="k">fi</span></code></pre></div>
+<h2 id="定时任务">定时任务</h2>
+
+<p>使用自带的 crontab 命令来创建和运行定时任务。</p>
+
+<p>编辑当前用户的任务：</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">crontab -e</code></pre></div>
+<p>在末尾插入 <code>0 14 * * 7 export PATH=/usr/local/bin:$PATH &amp;&amp; /Users/yourname/Documents/AppList/AppListAutoBackup.sh</code>，此例为在每周日 14 点运行这个脚本。</p>
+
+<p>前面五个数字代表的意义，星号为 Any：</p>
+
+<table>
+<thead>
+<tr>
+<th>代表意义</th>
+<th>分钟</th>
+<th>小时</th>
+<th>日期</th>
+<th>月份</th>
+<th>周</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>数字范围</td>
+<td>0-59</td>
+<td>0-23</td>
+<td>1-31</td>
+<td>1-12</td>
+<td>0-7</td>
+</tr>
+</tbody>
+</table>
+
+<p>保存即可。</p>
+
+<p>注意 crontab 的 PATH 变量是 <code>/usr/bin:/bin</code>，可能无法识别 brew 和 mas 等命令，可以根据第四篇参考文章或其他方法指定 PATH，例如我将 crontab 命令内容改为 <code>0 14 * * 7 export PATH=/usr/local/bin:$PATH &amp;&amp; /Users/yourname/Documents/AppList/AppListAutoBackup.sh</code>。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>OpenCppCoverage 的使用</title>
+			<link>https://ladit.me/posts/opencppcoverage-usage/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ladit.me/posts/opencppcoverage-usage/</guid>
+			<description>OpenCppCoverage 是一款好用方便的 C++ 代码覆盖率检测工具，可以独立在命令行运行也可以作为 Visual Studio 13/15/17 的插件。 Github：https://github.com/Op</description>
+			<content type="html"><![CDATA[
+
+<p>OpenCppCoverage 是一款好用方便的 C++ 代码覆盖率检测工具，可以独立在命令行运行也可以作为 Visual Studio 13/15/17 的插件。</p>
+
+<p>Github：<a href="https://github.com/OpenCppCoverage/OpenCppCoverage">https://github.com/OpenCppCoverage/OpenCppCoverage</a>
+命令行用法：<a href="https://github.com/OpenCppCoverage/OpenCppCoverage/wiki">https://github.com/OpenCppCoverage/OpenCppCoverage/wiki</a>
+插件 Github：<a href="https://github.com/OpenCppCoverage/OpenCppCoveragePlugin">https://github.com/OpenCppCoverage/OpenCppCoveragePlugin</a>
+插件用法：<a href="https://github.com/OpenCppCoverage/OpenCppCoveragePlugin/wiki">https://github.com/OpenCppCoverage/OpenCppCoveragePlugin/wiki</a>
+Visual Studio Marketplace 安装：<a href="https://marketplace.visualstudio.com/items?itemName=OpenCppCoverage.OpenCppCoveragePlugin">https://marketplace.visualstudio.com/items?itemName=OpenCppCoverage.OpenCppCoveragePlugin</a></p>
+
+<hr />
+
+<h2 id="安装">安装</h2>
+
+<p>我用的是插件方式。</p>
+
+<p>可以在 Visual Studio Marketplace 下载安装，也可以直接在 Visual Studio -&gt; 工具 -&gt; 扩展和更新 -&gt; 联机 -&gt; Visual Studio Marketplace -&gt; 右上角搜索 OpenCppCoverage Plugin 安装。按照提示无脑下一步即可，注意网络问题可能需要解决。</p>
+
+<p>安装后重启 Visual Studio 就可以在 工具 -&gt; Run OpenCppCoverage 启动。</p>
+
+<h2 id="配置和使用">配置和使用</h2>
+
+<p>启动后无需过多配置，一般保持默认即可。在 Settings -&gt; Arguments 中可以指定程序运行参数。</p>
+
+<p>点击 Run Coverage 即可自动运行、分析、显示结果。点击运行完成后 cmd 窗口会提示你 press any key to continue ，但是我怎么 press 都关不掉，手动关掉即可。</p>
+
+<p>结果会以绿色（覆盖）和红色（未覆盖）的样式直接在你的代码上显示，也有一个 Coverage 窗口显示详细信息，点击其中的 Display coverage  复选框可以隐藏覆盖显示，或者重启 Visual Studio。</p>
+
+<p><img src="http://ouk4b9x96.bkt.clouddn.com/openCppCoverage-20170911174602.png" alt="OpenCppCoverage" /></p>
+
+<hr />
+
+<p>本文发布于 <a href="https://ladit.me/posts/opencppcoverage-usage/">ladit.me/posts/opencppcoverage-usage</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>iPod shuffle 开箱</title>
+			<link>https://ladit.me/posts/ipod-shuffle-opening/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ladit.me/posts/ipod-shuffle-opening/</guid>
+			<description>iPod 作为 Apple 在推出 iPhone 之前的主打产品， 承载了许多令人叹服的设计。例如 iPod touch 6.1毫米的惊人厚度，甚至第一次拿起同学的 iPod touch 时，我怀疑再薄一些就变成了一</description>
+			<content type="html"><![CDATA[<p>iPod 作为 Apple 在推出 iPhone 之前的主打产品， 承载了许多令人叹服的设计。例如 iPod touch 6.1毫米的惊人厚度，甚至第一次拿起同学的 iPod touch 时，我怀疑再薄一些就变成了一柄刀刃；例如最新的 iPod nano 沿袭了 iPod 的弧形边缘，传承了 iPhone 的音量键、Home 键、睡眠/唤醒键设计，易于使用；例如你掂量起来和 EarPods 差不多重量的iPod shuffle，竟然可以是一个音乐播放器——</p>
+
+<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/1217229147.jpg" alt="IMG_0153.jpg" /></p>
+
+<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/1489154707.jpg" alt="IMG_0154.jpg" /></p>
+
+<h5 align="center">礼品盒式的包装给 Apple 产品平日的高傲添一丝人情味</h5>
+
+<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/2641643030.jpg" alt="IMG_0152.jpg" /></p>
+
+<p>展开上盖，iPod shuffle 便直接映入眼帘，这样的设计在 Apple 当今几乎所有的产品都可以看到，想必为的是给消费者带去第一眼的惊喜。</p>
+
+<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/1215189000.jpg" alt="IMG_0151.jpg" /></p>
+
+<p>去掉纸盒，透明塑料外壳包装的 iPod shuffle 完整地展示在我们面前，现今的 iPod 系列产品皆采用了透明塑料外壳，私以为难免有些廉价和过时。</p>
+
+<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/4133764078.jpg" alt="IMG_0150.jpg" /></p>
+
+<p>打开塑料上盖，取下 iPod shuffle ，仅仅 29×31.6×8.7 mm 的尺寸，使你可以轻易将其握在手心。
+iPod shuffle 下，写有「 Designed by Apple in California 」的字样，国内诸多厂商吹嘘所谓情怀、工匠精神，我想，这样才是一种不动声色的工匠精神。</p>
+
+<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/640815427.jpg" alt="IMG_0149.jpg" /></p>
+
+<p>打开所有包装，包括：iPod shuffle、写有「 iPod shuffle 」的塑料外壳、iPod shuffle USB 连接线、一页保修单、一册写着「从这里开始」的使用指南，和一条 iPhone 4 时代的 Apple 耳机。是的，iPod shuffle 并不提供 EarPods 耳机，而是过时的 iPhone 4 耳机，但联想到 iPod shuffle、EarPods 和 Apple 大部分产品的售价，也就令人释然了。另外，使用最新的1.0.3版本固件可以出色地支持 EarPods 的线控，包括音量加减，切换歌曲，暂停/继续。</p>
+
+<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/4043381667.jpg" alt="IMG_0148.jpg" /></p>
+
+<p>那一册使用指南中，只是一些有害化学品的含量声明，使用条款，但喜人的是有一张 Apple logo 的贴纸，这在 iPhone、Macbook 中都可以找到。</p>
+
+<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/4106443561.jpg" alt="IMG_0147.jpg" /></p>
+
+<p>「从这里开始」的使用指南介绍了如何快速上手你的 iPod shuffle。</p>
+
+<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/4234393552.jpg" alt="IMG_0158.jpg" /></p>
+
+<p>近距离观察 iPod shuffle，铝合金的机身虽然在 iPhone、Macbook 上已经领略过了，但再次注视，你不能不被它透出的坚实、冰冷、艺术的质感所吸引。
+圆形的控制盘不仅在 iPod 系列各个产品中经常可见，而且在 iOS 的 UI 上同样曾经融合。</p>
+
+<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/1294785160.jpg" alt="IMG_0156.jpg" /></p>
+
+<p>iPod shuffle 的上部，是 3.5 mm 的标准耳机接口、电量/播放指示灯、VoiceOver 按键和 关闭/顺序/随机 模式切换拨片。拨片设计与 iPhone 的 静音/响铃 拨片有同样的设计语言，VoiceOver 更是十分神奇——按一下说出当前曲目，按两下播报电量，按住念出播放列表——一个按键的充分利用，这是 iPhone Home 键的天才设计，但再加上全语音回应，我第一次使用的时候，就感到十分惊奇。</p>
+
+<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/3721118512.jpg" alt="IMG_0155.jpg" /></p>
+
+<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/3839813957.jpg" alt="IMG_0157.jpg" /></p>
+
+<p>iPod shuffle 背面，是同样的铝合金材质背夹， Apple 标志性 logo，和 Apple 镌刻服务刻下的 slogan：
+「踏歌长行 梦想永在」</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>使用 VirtualBox 启动已有的 Boot Camp</title>
+			<link>https://ladit.me/posts/using-virtualbox-to-run-boot-camp/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ladit.me/posts/using-virtualbox-to-run-boot-camp/</guid>
+			<description>前言 由于又想入一下 Mac 和 Swift 的坑，这几天在配置 Mac，但是当前写的项目又大部分基于 Win 的组件，而且 Windows 有很多不可或缺的软件和功能，所以想着要么新创建</description>
+			<content type="html"><![CDATA[
+
+<h2 id="前言">前言</h2>
+
+<p>由于又想入一下 Mac 和 Swift 的坑，这几天在配置 Mac，但是当前写的项目又大部分基于 Win 的组件，而且 Windows 有很多不可或缺的软件和功能，所以想着要么新创建一个 Windows 的虚拟机，要么把现在有的 Boot Camp 用某种方式在 Mac 下启动。</p>
+
+<p>新创建虚拟机有三个选择：Parallels Desktop、VMware Fusion、VirtualBox，前两者价格昂贵，安装包巨大，并且声称有强大的功能，后者免费小巧。迫于穷，我只能选择 VirtualBox，VirtualBox 建议的 Windows 10 虚拟机分配硬盘大小为 35G，网上查了一下 Windows 10 全新安装后的占用也在 20G 左右，但是我 Mac 下的剩余容量不够——我之前把大部分的硬盘在创建 Boot Camp 的时候分配给了 Boot Camp——并且使用到现在 Mac 和 Boot Camp 都剩余不多，我用了 Camptune X 把 Boot Camp  的容量重新分配了 20G 到  Mac，然后发现 Mac 的剩余容量是 37G。。</p>
+
+<p>因此我只能放弃新创建虚拟机，寻找方法把现在有的 Boot Camp 用某种方式在 Mac 下启动。Parallels Desktop 和 VMware Fusion 的特性里都有提到可以把现有的 Boot Camp 分区在 Mac 下直接启动，VirtualBox 似乎在官方说明里没有提到这点，Parallels Desktop 贵又坑，直接放弃，似乎 VMware Fusion 是不错的替代，我尝试了一下，十分无语：VMware Fusion 一直提示我没找到这台 Mac 上的 Boot Camp 分区，我直到后来用  <code>diskutil list</code> 发现我的 Boot Camp 分区的 Name 是我创建的时候改过的 <code>Windows</code>，不是默认的 <code>BOOTCAMP</code>，从而导致找不到 Boot Camp 分区。。
+那么，只能用 VirtualBox 来启动 Boot Camp 了，VirtualBox 并没有明显的文档说支持 Boot Camp，我本来并不抱希望，但是网上找了一下有人这么做，我就跟着尝试了一下，并且做了一些改进，最后凑合能用了。</p>
+
+<h2 id="环境准备">环境准备</h2>
+
+<ul>
+<li>Boot Camp 安装的 Windows 10 x64；</li>
+<li>VirtualBox 5.1.26 （我安装的是 <code>VirtualBox-5.1.26-117224-OSX</code>）；</li>
+<li>VirtualBox 对应版本的拓展包 （ <code>Oracle_VM_VirtualBox_Extension_Pack-5.1.26-117224.vbox-extpack</code> ），原作者说并不确定拓展包是否需要，我觉得应该是不需要，但装了可以在宿主机和虚拟机之间共享粘贴板、共享文件夹等，建议安装；</li>
+<li><a href="https://developer.apple.com/library/mac/documentation/Security/Conceptual/System_Integrity_Protection_Guide/ConfiguringSystemIntegrityProtection/ConfiguringSystemIntegrityProtection.html">关闭 SIP</a>，原作者说在 El Capitan (OS X 10.11) 上必须关闭 SIP 才能正常使用，更高的系统应该也是一样。</li>
+</ul>
+
+<h2 id="设置磁盘权限">设置磁盘权限</h2>
+
+<p>首先，在终端运行  <code>diskutil list</code> 以列出系统中挂载的磁盘，记住 <code>Name</code> 为 <code>EFI</code> 和 <code>BOOTCAMP</code> 的磁盘号， <code>BOOTCAMP</code> 磁盘可能在创建 Boot Camp 分区的时候命名成不同名字，注意 <code>Type</code> 是 <code>Microsoft Basic Data</code> 的磁盘。 例如，我的 <code>EFI</code> 和 <code>BOOTCAMP</code> 的磁盘号是1和4。</p>
+
+<p>运行以下命令来取消挂载 Boot Camp 磁盘，设置磁盘权限以使 VirtualBox 可读写它们。其中 <code>BOOTCAMP</code> 可能不同，注意上面的列表中的名字。*每次重启都需要重新运行以下命令*：</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">diskutil unmount /Volumes/BOOTCAMP
+
+sudo chmod <span class="m">777</span> /dev/disk0s1 &lt;--- EFI 磁盘的磁盘号
+
+sudo chmod <span class="m">777</span> /dev/disk0s4 &lt;--- BOOTCAMP 磁盘的磁盘号</code></pre></div>
+<p><em><code>chmod 777</code> 是不被推荐的权限设置方式，可参考 Linux 的文件权限设置，使磁盘可被 VirtualBox 读写。</em></p>
+
+<h2 id="创建虚拟机镜像">创建虚拟机镜像</h2>
+
+<p>运行以下命令来创建 VirtualBox 的虚拟机镜像。用 <code>EFI</code> 和 <code>BOOTCAMP</code> 磁盘的磁盘号替换 <code>1,4</code>，用你的 macOS 用户名替换 <code>your_username_here</code>。</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">sudo VBoxManage internalcommands createrawvmdk -rawdisk /dev/disk0 -filename windows10.vmdk -partitions <span class="m">1</span>,4
+
+sudo chown your_username_here *.vmdk</code></pre></div>
+<h2 id="virtualbox-设置">VirtualBox 设置</h2>
+
+<ol>
+<li>打开 VirtualBox，新建一个虚拟机；</li>
+<li>名称输入 <code>Windows10</code> 将自动选择 Windows 10 x64 版本；</li>
+<li>分配内存建议选择 4G；</li>
+<li>选择使用已有的虚拟硬盘文件，位置在 <code>你的个人文件夹/windows10.vmdk</code>；</li>
+<li>进入刚创建好的虚拟机的设置-系统-主板-拓展特性-启用 I/O APIC、启用 EFI，选中；</li>
+<li>虚拟机的设置-系统-处理器-处理器数量，设置为和你的 Mac 的 CPU 核心数相同，设置-系统-处理器-拓展特性-启用 PAE/NX，选中；</li>
+<li>设置-显示-屏幕-硬件加速-启用 3D 和 2D 加速，选中设置-显示-屏幕-显存大小，设置为 256MB，必须要选中一次 3D 加速才可以设置成 256MB，否则最大只有 128MB。也可以选中高清 HiDPI 支持，但我测试此项会和 3D 加速冲突，使虚拟机屏幕闪烁，只能选择其一。高清 HiDPI 支持可以更加清晰，但更卡， 3D 加速清晰度和分辨率较低，启动时载入更慢，但相对卡顿小，我建议选择启用 3D 加速；</li>
+<li>设置-存储-属性-使用主机输入输出(I/O)缓存，选中。确认控制器是否 SATA，经测试 NVMe 将导致启动失败。</li>
+</ol>
+
+<h2 id="启动虚拟机">启动虚拟机</h2>
+
+<p>等待进入系统后，多尝试几次调节右下角显示器设置-自动调节显示器尺寸选项、虚拟显示屏1的分辨率，达到最好的显示效果，还可以配合 Moom 调整窗口大小。</p>
+
+<p>VirtualBox 似乎不能正常关闭虚拟机，可以直接用 Windows 的关机。</p>
+
+<p><strong>虚拟机启动 Windows 后需要重新激活。</strong></p>
+
+<p><strong>Enjoy!</strong></p>
+
+<h2 id="恢复挂载-boot-camp-分区">恢复挂载 Boot Camp 分区</h2>
+
+<p>使用系统自带的 磁盘工具.app 可以方便地装载/卸载 Windows 分区，卸载时虚拟机才可以启动，装载时才可以在 Finder 浏览文件和利用 Boot Camp 启动 Windows。</p>
+
+<p>参考链接：<a href="http://danielphil.github.io/windows/virtualbox/osx/2015/08/25/virtualbox-boot-camp.html">http://danielphil.github.io/windows/virtualbox/osx/2015/08/25/virtualbox-boot-camp.html</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>嘻咦啊看更新有感</title>
+			<link>https://ladit.me/posts/feelings-on-xiakan-update/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ladit.me/posts/feelings-on-xiakan-update/</guid>
+			<description>阅后即瞎→瞎看什么→嘻咦啊看，这个挺有趣的节目的名字在随着资本，观众，审查的口味而变化，但是它核心的，解构一个故事并提炼，转化，甚至创造一些</description>
+			<content type="html"><![CDATA[<p>阅后即瞎→瞎看什么→嘻咦啊看，这个挺有趣的节目的名字在随着资本，观众，审查的口味而变化，但是它核心的，解构一个故事并提炼，转化，甚至创造一些新的内容的能力没有过多变化，令人欣喜。
+电影这种表达方式本身就是对故事的创作和提炼，瞎看什么（使用较久的名字，比较习惯）这样的二次创作，像冰淇凌上外加的蓝莓酱，甜得别出心裁。
+这次的电影是美国1986年的《伴我同行》，讲述几个12岁左右的伙伴一同去找和看尸体的「历险」与「回忆」的故事。我之前虽然没看过这部电影，但整个瞎看什么介绍下来，感觉和姜文的《阳光灿烂的日子》极其相像，在节目里也有提到这部影片。两者都有着坏孩子之间的友谊，青春懵懂的性，以及长大后不可思议地回想自己怎么会做过这么不切实际的事的感觉。最为让我感到相似的是，两部电影的光影，都是那样追忆式的，朝阳式的，充沛的阳光打在每个人的身上，脸上，手上，一切似乎铁定被这样的阳光深深定格了，但回想起来又是因为这样的阳光而充满朦胧，不真切感，令人回味无穷。
+两部电影也有一些不同，《伴我同行》更多的是童年，朋友，未来的不确定感，追忆，《阳光灿烂的日子》更偏重性，大院子弟，人随时代逐流而青春难以追寻的迷惘。
+但它们的内核是一致的，我甚至觉得这样的电影是独立的一个类别，比如说战争电影讲的是冲击与伤痛，科幻电影讲的是浩瀚与渺小，亘古与须臾，爱情电影讲的是情比金坚，或者无限错过，或者沉迷互掐。而这样的电影，反射出来的是童年与青春，懵懂与美好，不真实与不可挽回，让人产生独特的共鸣。
+希望我们在回忆到这一段记忆的时候，永远都是会心一笑吧。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>夜语</title>
+			<link>https://ladit.me/posts/20150926/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ladit.me/posts/20150926/</guid>
+			<description>这是一种奇妙的感觉。 在中学，小学，一两天不见亲友，你便会忧虑，落泪。 在大学，你会很忙，忙到来不及想想亲友，来不及想象一下他们在此时此刻做些什</description>
+			<content type="html"><![CDATA[<p>这是一种奇妙的感觉。
+在中学，小学，一两天不见亲友，你便会忧虑，落泪。
+在大学，你会很忙，忙到来不及想想亲友，来不及想象一下他们在此时此刻做些什么，因而更别提思念。
+是啊，思念，不是中学的那种缺欠依靠的感觉，不是被外面的世界包裹到不知所措的感觉，而是你晃过神来，突然发现好久不见，每个人真的有了自己的生活，开始了新的征途，在你的记忆里大概只留下了照毕业照那天的各种笑脸，和各处的把酒言欢。
+是啊，你挽不回了。如果让我为此情此景加一个滤镜，我希望是复古的，70年代那样的相片特效。
+此刻眼前还会模糊地闪过那些片段。每天早上紧赶慢赶地上学，踩过每一天踩过的每一寸土地，循着再熟悉不过的路线，进入教室，放下书包，坐定，也许此刻就开始交谈，言笑，互黑，问候。然后固定的周几，固定的课程，固定的每一个老师，固定的讲课风格，固定的同学，固定的环境。然后放学，吃饭，睡觉，上学，放学，吃饭，晚自习，放学……
+这样的循环令人感到枯燥，令人向往大学的自由，多面。
+但你不知道，这样的循环令人安然，你不必担心整个世界。
+哪个更好呢？这是没有定论的。
+但我怀念那样的生活，那种不可能再过一遍的生活。
+愿与你们享受这世界的每一丝空气，每一寸土壤。</p>
+
+<p>亲爱的朋友们，
+晚安。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>数独 - 软件工程实践 2017 第二次作业</title>
+			<link>https://ladit.me/posts/use-dfs-and-backtracking-algorithm-to-generate-sudoku/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ladit.me/posts/use-dfs-and-backtracking-algorithm-to-generate-sudoku/</guid>
+			<description>Github 地址 https://github.com/ladit/Sudoku 解题思路 数独生成 我算法方面差一些，数独以前也是没有玩过的。了解了数独的规则后，想到的方法也只是暴力计算——也就是随机法——循环生成一</description>
+			<content type="html"><![CDATA[
+
+<hr />
+
+<h2 id="github-地址">Github 地址</h2>
+
+<p><a href="https://github.com/ladit/Sudoku">https://github.com/ladit/Sudoku</a></p>
+
+<hr />
+
+<h2 id="解题思路">解题思路</h2>
+
+<h3 id="数独生成">数独生成</h3>
+
+<p>我算法方面差一些，数独以前也是没有玩过的。了解了数独的规则后，想到的方法也只是暴力计算——也就是随机法——循环生成一行随机数字，依次填入数独棋盘第一到第九行，每行每个位置填入时，检查当前是否符合数独规则。</p>
+
+<p>花费一些时间实现这个算法并 De 掉层出不穷的 Bug （太久没写 C++ 了）后，测试过程中发现理想很丰满，现实很骨感——仅仅第二行就一直无法插入，即使 循环生成一行随机数字 对应的方法调用了上千次。的确，这样效率太低，因为第二行很容易就和第一行冲突了。</p>
+
+<p>这意味着算法需要改进，冥思苦想后没太大结果，在网上阅读了一些生成数独的算法的文章：</p>
+
+<ul>
+<li><a href="https://segmentfault.com/a/1190000004641936">[Java] 数独生成和求解</a>：使用深度优先搜索和回溯法填写数独；</li>
+<li><a href="https://my.oschina.net/wangmengjun/blog/781984">数独终盘生成的几种方法</a>：矩阵转换法和随机法；</li>
+<li><a href="http://blog.csdn.net/peng_wu01/article/details/6026103">数独 &ndash; 一个高效率生成数独的算法</a>：另一种随机法，评论中说规律性强；</li>
+</ul>
+
+<p>其中第二种的矩阵转换法和第三种的“随机法”虽然效率都较高，但在其文章和评论中都提到不够随机，有规律可循，因此我决定参考第一篇文章中说的深度优先搜索和回溯法。</p>
+
+<p>这种方法先随机把九个数字填入数独，然后递归寻找整个数独棋盘 可填写数字 数量最少的格子，最后生成整个棋盘，遇到 可填写数字 数量为0的格子时，向前回溯。</p>
+
+<p>后来看到网上讨论（如下），Dancing Links （DLX）应该是目前求解数独较快的算法，对于题目中的1000000个数独，可能这种算法比较好实现。但当时已经基本完成了深度优先搜索和回溯法，所以这种方法有待之后改进再实现。</p>
+
+<ul>
+<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689">【算法】Dancing Links (DLX) I</a></li>
+<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13168391">【算法】Dancing Links (DLX) II</a></li>
+<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689">DLX 算法介绍</a></li>
+<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689">Sudoku DLX 算法求解</a></li>
+<li><a href="http://blog.gssxgss.me/use-dlx-to-solve-sudoku-1/">用 DLX 解 sudoku(数独)</a></li>
+<li><a href="https://www.oschina.net/code/snippet_1159061_22803">数独 Sudoku DLX 算法</a></li>
+</ul>
+
+<h3 id="文件输出">文件输出</h3>
+
+<p>文件输出无非使用 C/C++ 标准的 <code>fread</code> 和 <code>fwrite</code> 或 <code>fstream</code> 来实现，但这两种方式的使用有值得探讨的地方。</p>
+
+<p>在网上找了一些文件输出效率对比的文章（以下列出），似乎它们都一致认为 C 标准的函数效率更高，但这些文章都较为老旧，不知道是否都使用  Visual Studio，有使用  Visual Studio 的版本又较低，新的  Visual Studio 使用 MSBuild 作为编译器，据说 C++ 标准的函数效率有所改进，同时重要的是，为了统一代码标准，应当先使用 C++ 标准的 <code>fstream</code>。</p>
+
+<ul>
+<li><a href="http://blog.csdn.net/shudaxia123/article/details/50491451">C/C++ 文件操作效率比较——FILE/fstream</a></li>
+<li><a href="http://blog.csdn.net/kevin_ut/article/details/6088489">fstream 与 C 风格（例如 fread 和 fwrite ）两种读写文件方法的效率比较</a></li>
+<li><a href="https://www.byvoid.com/zhs/blog/fast-readfile">探寻 C++ 最快的读取文件的方案</a></li>
+<li><a href="http://dantvt.is-programmer.com/posts/12701.html">File I/O 效率 C vs C++ (一)</a></li>
+</ul>
+
+<p>然而看到同学们的博客中有的使用了 C 标准的函数很大地提高了效率，这我就陷入纠结：是应该遵守统一标准，还是追求效率？或者其实两者本来就被允许通用？</p>
+
+<h3 id="使用规范">使用规范</h3>
+
+<p>在题目中提到，</p>
+
+<blockquote>
+<p>值得一提的是，测试数据中有可能出现错误，比如出现 sudoku.exe -c abc 这样的命令，你的程序需要自行处理错误情况，并给出合适的错误提示信息。</p>
+</blockquote>
+
+<p>因此需要对程序限制使用规范，以增强其健壮性。这个程序我设置了两种使用方式：</p>
+
+<ul>
+<li>直接运行程序，输入需要生成的数独数量；</li>
+<li><code>sudoku.exe -c N</code> （0 &lt; N &lt;= 1000000， N 为需要生成的数独数量，整数）（也可以是 <code>-C</code>）；</li>
+</ul>
+
+<p>这样的话，由于有输入，需要对输入检测是否合法，例如是否整数，是否 0 &lt; N &lt;= 1000000。</p>
+
+<hr />
+
+<h2 id="设计实现">设计实现</h2>
+
+<p>我的设计实现经历了一些比较大的变化。开始的时候为了快速实现算法，把一切东西都写在 <code>main</code> 和其他附属方法中，完成基本的输出一个数独的功能后，我开始对文件结构、类、函数整理。</p>
+
+<h3 id="文件结构">文件结构</h3>
+<div class="highlight"><pre class="chroma"><code class="language-filetree" data-lang="filetree">/root
+  /BIN                   // 可执行文件目录
+    sudoku.exe           // 可执行文件
+  /src                   // 源文件目录
+    stdafx.h             //  Visual Studio 自带头文件
+    stdafx.cpp           //  Visual Studio 自带头文件
+    targetver.h          //  Visual Studio 自带头文件
+    sudokuMaker.h        // 数独生成类声明
+    sudokuMaker.cpp      // 数独生成类实现
+    fileController.h     // 文件控制类声明
+    fileController.cpp   // 文件控制类实现
+    usageValidator.h     // 使用规范类声明
+    usageValidator.cpp   // 使用规范类实现
+    Sudoku.cpp           // 主程序入口
+  README.md              // 说明</code></pre></div>
+<h3 id="类与方法结构">类与方法结构</h3>
+
+<p>共有三个类，分别为 <code>sudokuMaker</code>、<code>fileController</code>、<code>usageValidator</code>，其中<code>sudokuMaker</code> 和 <code>usageValidator</code> 在主函数 <code>main</code> 中实例化，用来实现数独生成和输入验证，<code>fileController</code> 的实例是 <code>sudokuMaker</code> 的私有成员，用来生成完数独后输出到文件。</p>
+<div class="highlight"><pre class="chroma"><code class="language-c++" data-lang="c++"><span class="k">class</span><span class="err"> </span><span class="nc">sudokuMaker</span> <span class="p">{</span>
+  <span class="k">public</span><span class="o">:</span>
+    <span class="kt">bool</span> <span class="n">generateAndPrint</span><span class="p">(</span><span class="k">const</span> <span class="kt">int</span> <span class="o">&amp;</span><span class="n">sudokuQuantity</span><span class="p">);</span>  <span class="c1">// 循环生成数独并且打印到文件
+</span><span class="c1"></span>
+  <span class="k">private</span><span class="o">:</span>
+    <span class="kt">int</span> <span class="n">blank</span><span class="p">;</span>  <span class="c1">// 数独棋盘待填格数，新的待填数独棋盘模板初始化后有 72 格待填
+</span><span class="c1"></span>    <span class="kt">int</span> <span class="n">hint</span><span class="p">;</span>  <span class="c1">// 数独棋盘提示格数
+</span><span class="c1"></span>    <span class="kt">int</span> <span class="n">fullBoard</span><span class="p">[</span><span class="mi">9</span><span class="p">][</span><span class="mi">9</span><span class="p">];</span>  <span class="c1">// 完整数独棋盘
+</span><span class="c1"></span>    <span class="n">fileController</span> <span class="n">fc</span><span class="p">;</span>  <span class="c1">// 文件控制器，用来输出到文件
+</span><span class="c1"></span>    <span class="kt">void</span> <span class="nf">newTemplate</span><span class="p">();</span>  <span class="c1">// 产生新的待填数独棋盘模板
+</span><span class="c1"></span>    <span class="kt">bool</span> <span class="nf">dfs</span><span class="p">();</span>  <span class="c1">// 深度优先搜索填写数独棋盘
+</span><span class="c1"></span>    <span class="kt">int</span> <span class="nf">validNumbersQuantity</span><span class="p">(</span><span class="k">const</span> <span class="kt">int</span> <span class="o">&amp;</span><span class="n">row</span><span class="p">,</span> <span class="k">const</span> <span class="kt">int</span> <span class="o">&amp;</span><span class="n">col</span><span class="p">,</span> <span class="kt">int</span> <span class="p">(</span><span class="o">&amp;</span><span class="n">mark</span><span class="p">)[</span><span class="mi">10</span><span class="p">]);</span>
+        <span class="c1">// 某一格可填写数字数量计算
+</span><span class="c1"></span><span class="p">};</span>
+</code></pre></div><div class="highlight"><pre class="chroma"><code class="language-c++" data-lang="c++"><span class="k">class</span><span class="err"> </span><span class="nc">fileController</span> <span class="p">{</span>
+  <span class="k">public</span><span class="o">:</span>
+    <span class="kt">bool</span> <span class="n">open</span><span class="p">(</span><span class="k">const</span> <span class="n">string</span> <span class="o">&amp;</span><span class="n">outputPath</span><span class="p">);</span>  <span class="c1">// 打开文件以输出
+</span><span class="c1"></span>    <span class="kt">void</span> <span class="nf">write</span><span class="p">(</span><span class="kt">int</span> <span class="p">(</span><span class="o">&amp;</span><span class="n">fullBoard</span><span class="p">)[</span><span class="mi">9</span><span class="p">][</span><span class="mi">9</span><span class="p">]);</span>  <span class="c1">// 写入
+</span><span class="c1"></span>    <span class="kt">void</span> <span class="nf">close</span><span class="p">();</span>  <span class="c1">// 关闭文件
+</span><span class="c1"></span>
+  <span class="k">private</span><span class="o">:</span>
+    <span class="n">ofstream</span> <span class="n">outFile</span><span class="p">;</span>
+<span class="p">};</span>
+</code></pre></div><div class="highlight"><pre class="chroma"><code class="language-c++" data-lang="c++"><span class="k">class</span><span class="err"> </span><span class="nc">usageValidator</span> <span class="p">{</span>
+  <span class="k">public</span><span class="o">:</span>
+    <span class="kt">int</span> <span class="n">check</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="o">**</span><span class="n">argv</span><span class="p">);</span>  <span class="c1">// 检查输入
+</span><span class="c1"></span>
+  <span class="k">private</span><span class="o">:</span>
+    <span class="kt">int</span> <span class="n">checkStringAndConvertToInteger</span><span class="p">(</span><span class="k">const</span> <span class="n">string</span> <span class="o">&amp;</span><span class="n">str</span><span class="p">);</span> <span class="c1">// 检查字符串并转换成整数
+</span><span class="c1"></span><span class="p">};</span>
+</code></pre></div>
+<hr />
+
+<h2 id="代码说明">代码说明</h2>
+
+<p>一些主要方法的说明：</p>
+
+<p>输入要生成的数独数量，生成完整数独棋盘并输出到文件</p>
+<div class="highlight"><pre class="chroma"><code class="language-c++" data-lang="c++"><span class="kt">bool</span> <span class="n">sudokuMaker</span><span class="o">::</span><span class="n">generateAndPrint</span><span class="p">(</span><span class="k">const</span> <span class="kt">int</span> <span class="o">&amp;</span><span class="n">sudokuQuantity</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="n">fc</span><span class="p">.</span><span class="n">open</span><span class="p">(</span><span class="s">&#34;.</span><span class="se">\\</span><span class="s">sudoku.txt&#34;</span><span class="p">))</span> <span class="p">{</span>
+    <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;=</span> <span class="n">sudokuQuantity</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+      <span class="k">while</span> <span class="p">(</span><span class="nb">true</span><span class="p">)</span> <span class="p">{</span>
+        <span class="n">newTemplate</span><span class="p">();</span>  <span class="c1">// 随机生成模板，除了第一行第一个，把其他八个数字随机填入数独棋盘
+</span><span class="c1"></span>        <span class="k">if</span> <span class="p">(</span><span class="n">dfs</span><span class="p">())</span> <span class="p">{</span>  <span class="c1">// 深度优先搜索
+</span><span class="c1"></span>          <span class="n">fc</span><span class="p">.</span><span class="n">write</span><span class="p">(</span><span class="n">fullBoard</span><span class="p">);</span>  <span class="c1">// 若成功则输出到文件
+</span><span class="c1"></span>          <span class="k">break</span><span class="p">;</span>
+        <span class="p">}</span>
+        <span class="c1">// 失败则重新循环
+</span><span class="c1"></span>      <span class="p">}</span>
+    <span class="p">}</span>
+    <span class="n">fc</span><span class="p">.</span><span class="n">close</span><span class="p">();</span>
+    <span class="k">return</span> <span class="nb">true</span><span class="p">;</span>
+  <span class="p">}</span>
+  <span class="k">return</span> <span class="nb">false</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+<p>深度优先搜索</p>
+<div class="highlight"><pre class="chroma"><code class="language-c++" data-lang="c++"><span class="kt">bool</span> <span class="n">sudokuMaker</span><span class="o">::</span><span class="n">dfs</span><span class="p">()</span> <span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="n">blank</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="nb">true</span><span class="p">;</span>  <span class="c1">// 填写完毕，无空格
+</span><span class="c1"></span>  <span class="p">}</span>
+
+  <span class="kt">int</span> <span class="n">minQuantity</span> <span class="o">=</span> <span class="mi">10</span><span class="p">;</span>  <span class="c1">// 当前可填写数字最少的数量
+</span><span class="c1"></span>  <span class="kt">int</span> <span class="n">mini</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="n">minj</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>  <span class="c1">// 当前 可填写数字数量最少 的格子位置
+</span><span class="c1"></span>
+  <span class="kt">int</span> <span class="n">mark</span><span class="p">[</span><span class="mi">10</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span><span class="mi">0</span><span class="p">};</span>  <span class="c1">// 标记已填写和未填写的数字
+</span><span class="c1"></span>
+  <span class="c1">// 寻找可填写数字数量最少的格子
+</span><span class="c1"></span>  <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="mi">9</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">j</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">j</span> <span class="o">&lt;</span> <span class="mi">9</span><span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+      <span class="k">if</span> <span class="p">(</span><span class="n">fullBoard</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+        <span class="k">continue</span><span class="p">;</span>
+      <span class="p">}</span>
+
+      <span class="kt">int</span> <span class="n">count</span> <span class="o">=</span> <span class="n">validNumbersQuantity</span><span class="p">(</span><span class="n">i</span><span class="p">,</span> <span class="n">j</span><span class="p">,</span> <span class="n">mark</span><span class="p">);</span>  <span class="c1">// 计算可填写数字数量
+</span><span class="c1"></span>      <span class="k">if</span> <span class="p">(</span><span class="n">count</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+        <span class="k">return</span> <span class="nb">false</span><span class="p">;</span>
+      <span class="p">}</span>
+      <span class="k">if</span> <span class="p">(</span><span class="n">count</span> <span class="o">&lt;</span> <span class="n">minQuantity</span><span class="p">)</span> <span class="p">{</span>
+        <span class="n">minQuantity</span> <span class="o">=</span> <span class="n">count</span><span class="p">;</span>
+        <span class="n">mini</span> <span class="o">=</span> <span class="n">i</span><span class="p">;</span>
+        <span class="n">minj</span> <span class="o">=</span> <span class="n">j</span><span class="p">;</span>
+      <span class="p">}</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+
+  <span class="c1">// 优先填写 可填写数字数量最少 的格子
+</span><span class="c1"></span>  <span class="n">validNumbersQuantity</span><span class="p">(</span><span class="n">mini</span><span class="p">,</span> <span class="n">minj</span><span class="p">,</span> <span class="n">mark</span><span class="p">);</span>
+  <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;=</span> <span class="mi">9</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">if</span> <span class="p">(</span><span class="n">mark</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+      <span class="n">fullBoard</span><span class="p">[</span><span class="n">mini</span><span class="p">][</span><span class="n">minj</span><span class="p">]</span> <span class="o">=</span> <span class="n">i</span><span class="p">;</span>
+      <span class="n">blank</span><span class="o">--</span><span class="p">;</span>
+      <span class="n">dfs</span><span class="p">();</span>
+      <span class="k">if</span> <span class="p">(</span><span class="n">blank</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+        <span class="k">return</span> <span class="nb">true</span><span class="p">;</span>
+      <span class="p">}</span>
+      <span class="n">fullBoard</span><span class="p">[</span><span class="n">mini</span><span class="p">][</span><span class="n">minj</span><span class="p">]</span> <span class="o">=</span>  <span class="mi">0</span><span class="p">;</span> <span class="c1">// 回溯
+</span><span class="c1"></span>      <span class="n">blank</span><span class="o">++</span><span class="p">;</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+  <span class="k">return</span> <span class="nb">true</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+<p>计算可填写数字数量</p>
+<div class="highlight"><pre class="chroma"><code class="language-c++" data-lang="c++"><span class="kt">int</span> <span class="n">sudokuMaker</span><span class="o">::</span><span class="n">validNumbersQuantity</span><span class="p">(</span><span class="k">const</span> <span class="kt">int</span> <span class="o">&amp;</span><span class="n">row</span><span class="p">,</span> <span class="k">const</span> <span class="kt">int</span> <span class="o">&amp;</span><span class="n">col</span><span class="p">,</span> <span class="kt">int</span> <span class="p">(</span><span class="o">&amp;</span><span class="n">mark</span><span class="p">)[</span><span class="mi">10</span><span class="p">])</span> <span class="p">{</span>
+  <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="mi">10</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">mark</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+  <span class="p">}</span>
+  <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="mi">9</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>  <span class="c1">// 某一格所在的行和列已填写数字记录
+</span><span class="c1"></span>    <span class="n">mark</span><span class="p">[</span><span class="n">fullBoard</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">col</span><span class="p">]]</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
+    <span class="n">mark</span><span class="p">[</span><span class="n">fullBoard</span><span class="p">[</span><span class="n">row</span><span class="p">][</span><span class="n">i</span><span class="p">]]</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
+  <span class="p">}</span>
+  <span class="kt">int</span> <span class="n">baseRow</span> <span class="o">=</span> <span class="n">row</span> <span class="o">/</span> <span class="mi">3</span> <span class="o">*</span> <span class="mi">3</span><span class="p">;</span>
+  <span class="kt">int</span> <span class="n">baseCol</span> <span class="o">=</span> <span class="n">col</span> <span class="o">/</span> <span class="mi">3</span> <span class="o">*</span> <span class="mi">3</span><span class="p">;</span>
+  <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="mi">3</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>  <span class="c1">// 某一格所在的九宫格已填写数字记录
+</span><span class="c1"></span>    <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">j</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">j</span> <span class="o">&lt;</span> <span class="mi">3</span><span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+      <span class="n">mark</span><span class="p">[</span><span class="n">fullBoard</span><span class="p">[</span><span class="n">baseRow</span> <span class="o">+</span> <span class="n">i</span><span class="p">][</span><span class="n">baseCol</span> <span class="o">+</span> <span class="n">j</span><span class="p">]]</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+  <span class="kt">int</span> <span class="n">count</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+  <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;=</span> <span class="mi">9</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>  <span class="c1">// 可填写数字计算
+</span><span class="c1"></span>    <span class="k">if</span> <span class="p">(</span><span class="n">mark</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+      <span class="n">count</span><span class="o">++</span><span class="p">;</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+  <span class="k">return</span> <span class="n">count</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+<p>检查字符串是否整数形式并转换成整数</p>
+<div class="highlight"><pre class="chroma"><code class="language-c++" data-lang="c++"><span class="kt">int</span> <span class="n">usageValidator</span><span class="o">::</span><span class="n">checkStringAndConvertToInteger</span><span class="p">(</span><span class="k">const</span> <span class="n">string</span> <span class="o">&amp;</span><span class="n">str</span><span class="p">)</span> <span class="p">{</span>
+  <span class="n">size_t</span> <span class="n">sizeOfString</span> <span class="o">=</span> <span class="n">str</span><span class="p">.</span><span class="n">size</span><span class="p">();</span>
+  <span class="k">for</span> <span class="p">(</span><span class="n">size_t</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">sizeOfString</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+    <span class="kt">int</span> <span class="n">temp</span> <span class="o">=</span> <span class="kt">int</span><span class="p">(</span><span class="n">str</span><span class="p">[</span><span class="n">i</span><span class="p">]);</span>
+    <span class="k">if</span> <span class="p">(</span><span class="n">temp</span> <span class="o">&gt;=</span> <span class="mi">48</span> <span class="o">&amp;&amp;</span> <span class="n">temp</span> <span class="o">&lt;=</span> <span class="mi">57</span><span class="p">)</span> <span class="p">{</span>
+      <span class="k">continue</span><span class="p">;</span>
+    <span class="p">}</span>
+    <span class="k">else</span> <span class="p">{</span>
+      <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>  <span class="c1">// 字符串中某个字符不是数字则返回 0，即失败
+</span><span class="c1"></span>    <span class="p">}</span>
+  <span class="p">}</span>
+  <span class="kt">int</span> <span class="n">convertedInteger</span> <span class="o">=</span> <span class="n">stoi</span><span class="p">(</span><span class="n">str</span><span class="p">);</span>  <span class="c1">// 字符串转换为整数
+</span><span class="c1"></span>  <span class="k">if</span> <span class="p">(</span><span class="n">convertedInteger</span> <span class="o">&lt;=</span> <span class="mi">0</span> <span class="o">||</span> <span class="n">convertedInteger</span> <span class="o">&gt;</span> <span class="mi">1000000</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>  <span class="c1">// 不在 0 到 1000000 则返回失败
+</span><span class="c1"></span>  <span class="p">}</span>
+  <span class="k">return</span> <span class="n">convertedInteger</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+<hr />
+
+<h2 id="测试运行">测试运行</h2>
+
+<p><img src="http://ouk4b9x96.bkt.clouddn.com/sudoku-running-20170910202010.png" alt="运行测试" /></p>
+
+<hr />
+
+<h2 id="改进记录与性能分析">改进记录与性能分析</h2>
+
+<h3 id="改进记录">改进记录</h3>
+
+<ul>
+<li>使用形如 <code>const int &amp;row</code> 这样的参数代替 <code>int row</code> 这样的参数，提升效率，防止修改；</li>
+<li>使用定长数组代替 vector；</li>
+<li>文件打开和关闭操作只执行一次；</li>
+<li>文件写入方式改进，从每一个数字都使用文件流输出变成把一个数独棋盘转换成一个字符串后一起输出；</li>
+<li>其他改进……；</li>
+</ul>
+
+<h3 id="性能分析">性能分析</h3>
+
+<p>文件写入改进前：</p>
+
+<p><img src="http://ouk4b9x96.bkt.clouddn.com/performance-before-20170910211012.png" alt="文件写入改进前" /></p>
+
+<p>文件写入改进后：</p>
+
+<p><img src="http://ouk4b9x96.bkt.clouddn.com/performance-after-20170910210953.png" alt="文件写入改进后" /></p>
+
+<p><img src="http://ouk4b9x96.bkt.clouddn.com/cpu-usage-20170910212844.png" alt="CPU 占用" /></p>
+
+<p>可以看到，在改进前 <code>fileController::write()</code> 消耗很大，改进后 <code>sudokuMaker::validNumbersQuantity()</code> 是最大消耗的函数。如果想要进一步改进的话，应该需要使用上面说的 DLX 算法。</p>
+
+<h3 id="代码覆盖率">代码覆盖率</h3>
+
+<p>助教在群里推荐的 C++ Coverage Validator，我没办法配置成功，这款工具的教程网上少、旧。所以我去找了一下其他替代的工具。</p>
+
+<p>OpenCppCoverage（<a href="https://ladit.me/opencppcoverage-usage/">使用教程</a>）是一款好用方便的 C++ 代码覆盖率检测工具，可以独立在命令行运行也可以作为 Visual Studio 13/15/17 的插件。</p>
+
+<p>我使用 OpenCppCoverage 测试代码覆盖率的结果如下：</p>
+
+<p><img src="http://ouk4b9x96.bkt.clouddn.com/coverage-20170911175949.png" alt="代码覆盖率" /></p>
+
+<h3 id="单元测试">单元测试</h3>
+
+<p>待填写。</p>
+
+<hr />
+
+<h2 id="psp-表格">PSP 表格</h2>
+
+<table>
+<thead>
+<tr>
+<th>PSP2.1</th>
+<th>Personal Software Process Stages</th>
+<th>预估耗时（分钟）</th>
+<th>实际耗时（分钟）</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Planning</td>
+<td>计划</td>
+<td>40</td>
+<td>35</td>
+</tr>
+
+<tr>
+<td>· Estimate</td>
+<td>· 估计这个任务需要多少时间</td>
+<td>40</td>
+<td>35</td>
+</tr>
+
+<tr>
+<td>Development</td>
+<td>开发</td>
+<td>915</td>
+<td>1055</td>
+</tr>
+
+<tr>
+<td>· Analysis</td>
+<td>· 需求分析 (包括学习新技术)</td>
+<td>300</td>
+<td>360</td>
+</tr>
+
+<tr>
+<td>· Design Spec</td>
+<td>· 生成设计文档</td>
+<td>10</td>
+<td>15</td>
+</tr>
+
+<tr>
+<td>· Design Review</td>
+<td>· 设计复审 (和同事审核设计文档)</td>
+<td>5</td>
+<td>5</td>
+</tr>
+
+<tr>
+<td>· Coding Standard</td>
+<td>· 代码规范 (为目前的开发制定合适的规范)</td>
+<td>5</td>
+<td>5</td>
+</tr>
+
+<tr>
+<td>· Design</td>
+<td>· 具体设计</td>
+<td>25</td>
+<td>30</td>
+</tr>
+
+<tr>
+<td>· Coding</td>
+<td>· 具体编码</td>
+<td>240</td>
+<td>250</td>
+</tr>
+
+<tr>
+<td>· Code Review</td>
+<td>· 代码复审</td>
+<td>30</td>
+<td>40</td>
+</tr>
+
+<tr>
+<td>· Test</td>
+<td>· 测试（自我测试，修改代码，提交修改）</td>
+<td>300</td>
+<td>350</td>
+</tr>
+
+<tr>
+<td>Reporting</td>
+<td>报告</td>
+<td>240</td>
+<td>295</td>
+</tr>
+
+<tr>
+<td>· Test Report</td>
+<td>· 测试报告</td>
+<td>40</td>
+<td>40</td>
+</tr>
+
+<tr>
+<td>· Size Measurement</td>
+<td>· 计算工作量</td>
+<td>20</td>
+<td>15</td>
+</tr>
+
+<tr>
+<td>· Postmortem &amp; Process Improvement Plan</td>
+<td>· 事后总结, 并提出过程改进计划</td>
+<td>180</td>
+<td>240</td>
+</tr>
+
+<tr>
+<td>All</td>
+<td>合计</td>
+<td>1195</td>
+<td>1385</td>
+</tr>
+</tbody>
+</table>
+
+<hr />
+
+<h2 id="后话">后话</h2>
+
+<p>感觉这次的作业还是挺赶的，之前本来以为应该工作量不大，先写其他项目去了。然而较久没有写 C++ 给我带来许多麻烦，有一些忘记了，有一些不知道怎么用/实现。另外  Visual Studio 和其他工具的安装配置、性能测试了解和实施其实都需要挺多时间。所以本来想实现一下 GUI 的界面，看起来也只能是后话的后话了。</p>
+
+<hr />
+
+<p>本文发布于 <a href="https://ladit.me/posts/use-dfs-and-backtracking-algorithm-to-generate-sudoku/">ladit.me/posts/use-dfs-and-backtracking-algorithm-to-generate-sudoku</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>断章</title>
+			<link>https://ladit.me/posts/fragment/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ladit.me/posts/fragment/</guid>
+			<description>回忆 我回忆 还是当时满天的飞絮 娟发 雕琢般秀丽 是你无法磨灭的印迹 琴音 悠远的旋律 是我挥之不去的情绪 梦里的幽叹 撩拨起谁的声声叹息 手边的余温 残存着谁淡</description>
+			<content type="html"><![CDATA[<p>回忆 我回忆
+还是当时满天的飞絮
+娟发 雕琢般秀丽
+是你无法磨灭的印迹
+琴音 悠远的旋律
+是我挥之不去的情绪
+梦里的幽叹
+撩拨起谁的声声叹息
+手边的余温
+残存着谁淡淡的香气
+苦涩的回忆
+充斥在混乱的脑海里
+又是哪个身影那么清晰
+是你
+是你
+朦胧烟雨 昏黄的夕
+断桥边 我奋力抓住
+记忆中 依旧温婉的你</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>砥砺前行</title>
+			<link>https://ladit.me/posts/moving-forward-2017/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ladit.me/posts/moving-forward-2017/</guid>
+			<description>软件工程实践 2017 第一次作业 今年又重拾 cnblogs，上一次也是张栋老师教的面向对象程序设计，在我所经历过的教学方式中，这样的可以说是较为独特的</description>
+			<content type="html"><![CDATA[
+
+<h2 id="软件工程实践-2017-第一次作业-https-www-cnblogs-com-easteast-p-7403491-html"><a href="https://www.cnblogs.com/easteast/p/7403491.html">软件工程实践 2017 第一次作业</a></h2>
+
+<p><audio src="http://ladit-me-1251731554.file.myqcloud.com/%E4%BB%99%E5%89%91%E9%97%AE%E6%83%85_%E9%92%A2%E7%90%B4%E6%BC%94%E5%A5%8F_cut.mp3" controls="controls" autoplay playsinline="" webkit-playsinline=""></audio></p>
+
+<hr />
+
+<p>今年又重拾 cnblogs，上一次也是张栋老师教的面向对象程序设计，在我所经历过的教学方式中，这样的可以说是较为独特的——强烈的实践和理论相结合的模式，鼓励探讨和交流，我是挺喜欢这样的教学方式的，虽然偶尔会哀叹繁重的作业和代码，但对于动手能力的提升感觉是实实在在看得到的。
+就个人而言，相比以前有一些进步，但还是有一些迷惘。我对软件工程的理解，除了课堂上 C 和 C++ 的教学，较大的实践是在暑假尝试了用 PHP 还有许多框架/库和同学合作了一个服务外包的项目，没有参考书的话，面向 Google 编程，总是容易磕磕绊绊，但庆幸最后终于大致完成，使我对合作编程/软件工程有一点浅薄的理解。
+以上是就着网易云音乐脑子里的一些碎片和碎碎叨叨，以下是对第一次作业的回答。</p>
+
+<hr />
+
+<blockquote>
+<p>（1）回想一下你初入大学时对计算机专业的畅想
+* <strong>当初你是如何做出选择计算机专业的决定的？</strong></p>
+</blockquote>
+
+<p>哈哈，看到作业里给出的引用里说 「不要轻易在简历上写我热爱编程，我热爱学习（你对计算机的热情是怎样的？）」（这里似乎编写者粗心忘了添加链接了），但是其实我当初就是抱着一腔热情啊。
+从小学的时候开始，有宝贵的玩哥哥/姐姐家的电脑（当时比较穷家里买不起）的机会时，除了领略4399的魅力，最大的热情（游戏打得不好剩下的乐趣？）就是折腾电脑上形形色色的软件。例如杀毒软件、Office、<a href="http://www.youhua.com/">Windows 优化大师</a>、压缩软件、浏览器以及 XP 时代的各种垃圾软件等等，那个时候就觉得电脑软件这东西真神奇，它是如何变出来的呢？以后有机会我也想了解一下。后来的小学、初中、高中，通过不断革新的电脑，做了许多作业，打了许多游戏，也学习（折腾）了各种各样的电脑技术，但一直对编程这种较为高深和专业性强的事物没有接触和了解，大部分依靠当时网上热心网友现成的 exe 和其他解决方案。
+所以我一直怀抱着希望学习计算机技术的心情，高考结束后，我的分数报考福大是较为恰当的，而福大的其他专业我又提不太起兴趣，所以计算机专业是我的首选。</p>
+
+<blockquote>
+<ul>
+<li><strong>你认为过去两年中接触到的课程是否符合你对计算机专业的期待，为什么？</strong></li>
+</ul>
+</blockquote>
+
+<p>如果这个期待符合可以数字化的话，我觉得期待符合值=7.5/10，一方面，我的确入门并学习着小时候所好奇的「软件是怎么来的」，另一方面，计算机专业的课程也是理论和专业的，涉及面广而泛，有编程知识的同时，也有各种各样的物理（数字电路与逻辑设计）/数学（离散数学）知识，这些都是计算机科学的范畴，我在上大学前没料到这些知识也是需要学习的，它们偏于枯燥，但不可或缺。另外还有一些公共课程，历史、大物之类，是比较在预期之外的。所以之前学习的课程，有一些意料之外，但大都是情理之中。</p>
+
+<blockquote>
+<ul>
+<li><strong>你觉得计算机是你喜欢的领域吗，它是你擅长的领域吗？</strong></li>
+</ul>
+</blockquote>
+
+<p>正如上文所言，从小以来计算机就是我喜欢的领域，现在让我去学习电子做一个电工，去研读法律做一个律师，去掌握生理结构做一个医生，我都是缺乏兴趣的。
+至于擅长与否，就我自己而言，我现在所能掌握的技能中，它是我擅长的领域，我没办法说当初如果我选了其他专业，那个专业的擅长程度是否能超越现下计算机的擅长程度，没有做过的事情，还是不好妄言的。</p>
+
+<blockquote>
+<p>（2）即将大三的你，对照前人们走过的路和描述未来发展，现在的你
+* <strong>自我感觉你已经具备的专业知识、技能、能力有哪些？</strong></p>
+</blockquote>
+
+<ul>
+<li>计算机体系、历史的了解；</li>
+<li>对计算机组成和运行过程浅薄的理解；</li>
+<li>数据库的理解和操作；</li>
+<li>对计算机网络的大致概念；</li>
+<li>C 语言、C++ 的理解；</li>
+<li>Windows 和 Unix-like 系统的一些基本操作；</li>
+<li>使用 Google、百度等搜索引擎查阅需要的中英文资料并解决遇到的问题；</li>
+<li>一些编程工具的使用；</li>
+<li>利用 HTML5、CSS、JS、PHP 与一些框架组件构造一个勉强能用的产品；</li>
+<li><em>各种奇怪而复杂的计算机技能，如配置路由器和计算机的网络、从域名到主机等建立一个博客、Windows/Mac 系统的疑难杂症维护和重装。。。</em></li>
+</ul>
+
+<blockquote>
+<ul>
+<li><strong>离成为一个合格的计算机专业本科毕业生，在专业知识、技能、能力上还差距哪些？</strong></li>
+</ul>
+</blockquote>
+
+<ul>
+<li>基础理论知识的进一步掌握和理解，例如模型、算法、离散数学之类；</li>
+<li>进一步的计算机专业的知识学习，如接下来的汇编语言编译方法等；</li>
+<li>代码的风格、规范的一些欠缺；</li>
+<li>Git 等工具的大量实践使用；</li>
+<li>MVC 等架构的理解和实践；</li>
+<li>使用某种语言合作并正式开发一个较大的项目的经历；</li>
+<li>选取前端/后端/移动端方向并专精一门语言，更丰富的开发经历，作为寻求工作的基石；</li>
+</ul>
+
+<blockquote>
+<p>（3）大三是一个人生选择的十字路口，考研、工作、考公、出国，不同的选择在大三就有不同的努力方向。而无论考研还是工作的每条路径，也有许多不同的分支。
+* <strong>对照以上你阅读的前人们的经历，你的选择是什么？</strong></p>
+</blockquote>
+
+<p>我更希望投身工作。一是学习是较为辛苦的，特别是考研，感觉做过手术的身体并不是特别允许没日没夜地学习堆成小山的书本😉，二是喜欢工作带来的技术实现后解决问题的满足感，我对计算机科学的理解和研究的兴趣没有那么高，意料中的研究生是需要对计算机科学进行努力钻研研究的，较为偏离实际技术应用。考取公务员个人并不喜欢，出国不够实际和缺乏准备。</p>
+
+<blockquote>
+<ul>
+<li><strong>在这种选择下，你认为你相比其他同学来说有何优势，有何劣势？</strong></li>
+</ul>
+</blockquote>
+
+<p>优势：</p>
+
+<ul>
+<li>由热爱计算机所激发的更加愿意探索和钻研的热情；</li>
+<li>实际合作尝试开发经历；</li>
+<li>一些技术的大致了解和使用，如 HTML5、CSS、JS、PHP、SQL 等；</li>
+<li>一些计算机技能的掌握，如上文所述；</li>
+</ul>
+
+<p>劣势：</p>
+
+<ul>
+<li>基础计算机专业知识掌握可能相对不牢靠；</li>
+<li>更多比赛、实践经验的欠缺；</li>
+</ul>
+
+<blockquote>
+<ul>
+<li><strong>针对你的选择，你给自己的大三设定的规划安排是什么？</strong></li>
+</ul>
+</blockquote>
+
+<p>无疑地，想要工作，甚至好的工作，需要：</p>
+
+<ul>
+<li>丰富的基础知识；</li>
+<li>扎实的开发能力；</li>
+<li>实战项目经验；</li>
+<li>一门语言和一个方向的专精；</li>
+<li>实习经验、合作开发能力；</li>
+<li>持续学习的能力；</li>
+<li>其他；</li>
+</ul>
+
+<p>我想，以上都是我想在简历上填写的并欠缺的。
+具体来说，我更希望在大三：</p>
+
+<ul>
+<li>Git、IDE 等工具的大量实践；</li>
+<li><strong>丰富实战经验</strong>；</li>
+<li><strong>丰富合作经验</strong>；</li>
+<li>确立前端/后端/移动端方向并专精一门语言（目前有许多思考，较为偏向移动端的 iOS，因为前端革新太快，框架繁复，后端兴趣较低一些，移动端的 Android 也是可选项，但可惜没有报上这学期的 Java 课程，要么得自学了。但 iOS 也有一些弊端，比如 *Swift 是世界上最好的4种语言*😏。所以综合来说，将来想从事的工作可能是一名 iOS 开发工程师）；</li>
+<li>可能的话找一份实习，进一步实践；</li>
+</ul>
+
+<p>参考<a href="https://github.com/geekcompany/ResumeSample/blob/master/ios.md">这份简历模板</a>，我觉得我最需要做的就是努力增加自己的技能清单上的项目。</p>
+
+<p>以上是大三的一些笼统规划，在软件工程这门课中，可以略微管中窥豹一番。希望自己能学好软工，并触及与掌握想要的能力。</p>
+
+<blockquote>
+<p>（4）是否有从学长学姐那，听过对于这个班级或这门实践课的要求或经验？促使你选择这门课这个班的动力是什么？</p>
+</blockquote>
+
+<p>并无听说，期待。
+动力是：</p>
+
+<ul>
+<li>同学推荐；</li>
+<li>之前上过张栋老师的面向对象程序设计，感觉不错；</li>
+<li>软工是实践的重要平台，理论的应用，是必不可少的；</li>
+<li>软工能帮助我锻炼上述规划安排中的能力需求；</li>
+</ul>
+
+<blockquote>
+<p>（5）针对上述问题（2）、（3）、（4），<strong>你对这门课的期待是什么？你打算平均每周拿出多少个小时用在这门课上</strong>，以达成你的期待以及你在（2）或（3）或（4）上的目标？</p>
+</blockquote>
+
+<p>如上述（3）、（4）所说，我期待能在软工这门课中锻炼需要的能力，为工作做好准备。同时解决一些之前出现的问题，例如合作开发过程中的合作不畅等。
+由于上述的目标宏大，承载的事物又多，软工又是主要学习的途径，所以我打算每周投入大量时间。但我无法预测其他科目和其他事务的所需时间，所以无法给出具体平均小时，只能说尽量和加油。</p>
+
+<hr />
+
+<p>一些题外话：</p>
+
+<p>关于 Markdown 写作，我建议在线使用 <a href="http://dillinger.io/">dillinger.io</a>，客户端使用 <a href="https://ivarptr.github.io/yu-writer.site/">Yu Writer</a>，它目前支持 Windows 和 macOS，有良好的体验和界面：
+<img src="https://ivarptr.github.io/yu-writer.site/resources/images/screenshot/optimize/theme4@2x.png" alt="Yu Writer" /></p>
+
+<p>文章的中文和英文、数字间请手动使用空格分离开，以达到较好的排版效果，例如
+<code>iOS 11 让 iPhone 变得更为智能</code>
+而不是
+<code>iOS 11让iPhone变得更为智能</code>
+事实上，这应该由排版系统来完成，但这是一个暂时的做法。使用 Chrome 的拓展程序 <a href="https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd">为什么你们就是不能加个空格呢？</a> 可以自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白。</p>
+
+<hr />
+
+<p>本文发布于 <a href="https://ladit.me/posts/moving-forward-2017/">ladit.me/posts/moving-forward-2017</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>简易 Token 验证的实现</title>
+			<link>https://ladit.me/posts/simple-token-design/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ladit.me/posts/simple-token-design/</guid>
+			<description>前言 在我们的服务器和客户端的交互中，由于我们的业务中使用 RESTful API 的形式和客户端交互，而 API 又是无状态的，无法帮助我们识别这一次和上一次的请求由谁发</description>
+			<content type="html"><![CDATA[
+
+<h2 id="前言">前言</h2>
+
+<p>在我们的服务器和客户端的交互中，由于我们的业务中使用 RESTful API 的形式和客户端交互，而 API 又是无状态的，无法帮助我们识别这一次和上一次的请求由谁发出、是否合法，因此我们需要想一个办法来确认用户身份，检查是否请求合法，经调研，较为流行的解决方式是使用 Token 进行验证。</p>
+
+<p>我将介绍如何设计实现一个简单的 Token 验证逻辑，本文的说法仅是基于我自己的一点想法和参考来的知识，如有谬误麻烦不吝指出。</p>
+
+<h2 id="参考资料">参考资料</h2>
+
+<p>基于 Token 的 WEB 后台认证机制：<a href="https://www.cnblogs.com/xiekeli/p/5607107.html">https://www.cnblogs.com/xiekeli/p/5607107.html</a></p>
+
+<h2 id="token-设计">Token 设计</h2>
+
+<h3 id="有了密码认证为什么需要-token">有了密码认证为什么需要 Token？</h3>
+
+<p>Token 就像一把钥匙，当用户登录之后，服务器就把这把钥匙随着返回的 json 包发送给用户，用户在接下来的请求中，涉及到需要验证身份和权限的，就按照和服务器的约定，把这把钥匙放在请求包合适的地方，随着请求包一起发送，服务器检查 Token 是否合法有效以确认身份，然后决定要执行请求的操作还是拒绝服务并返回错误。这样就用可过期的 Token 替代了每次需要验证身份时都需要发送的重要的、不变的密码。</p>
+
+<p>使用 Token 还有一些其他的优点，例如参考资料中提到的 Token 机制相对于 Cookie 机制有支持跨域访问、无状态 (也称：服务端可扩展行)、更适用 CDN、去耦、更适用于移动应用、CSRF、性能、不需要为登录页面做特殊处理、基于标准化的优点。</p>
+
+<h3 id="token-里有什么">Token 里有什么？</h3>
+
+<p>Token 的目的是用于表明身份，所以它应该包含一些独特的、只属于此用户的、不容易伪造的信息。例如，创建此 Token 的 Unix 时间戳、用户的唯一 id、唯一账号、经过特殊算法生成的用户识别码等等。但也不能包含一些敏感信息，比如用户的密码。如果用户的明文密码存在于 Token 中，那么有心人劫取并解析 Token 后，就可以直接登录了。</p>
+
+<h3 id="安全性">安全性</h3>
+
+<p>由上所述，安全性是我们需要考虑的很重要的一部分，我们面临的安全风险主要有跨站脚本攻击（XSS（Cross Site Scripting）Attacks）、请求篡改、重放攻击（Replay Attacks）、中间人攻击（MITM（Man-In-The-Middle）Attacks）。</p>
+
+<p>由于我们使用 RESTful API 的形式，应该不需要考虑 XSS 攻击的事情，只要注意客户端传上来的 json 包内容合法安全即可。如果你有网页需要显示，在 PHP 中使用 <code>htmlspecialchars</code> 函数来避免 XSS 攻击。</p>
+
+<p>请求篡改和中间人攻击的问题，我们可以通过利用 SSL/TLS 来加密数据包，也就是使用 HTTPS。</p>
+
+<p>参考资料中介绍的重放攻击概念如下：</p>
+
+<blockquote>
+<blockquote>
+<p>所谓重放攻击就是攻击者发送一个目的主机已接收过的包，来达到欺骗系统的目的，主要用于身份认证过程。比如在浏览器端通过用户名 / 密码验证获得签名的 Token 被木马窃取。即使用户登出了系统，黑客还是可以利用窃取的 Token 模拟正常请求，而服务器端对此完全不知道，因为 JWT 机制是无状态的。</p>
+</blockquote>
+</blockquote>
+
+<p>解决方式有：</p>
+
+<ul>
+<li>时间戳 + 共享秘钥</li>
+<li>时间戳 + 共享秘钥 + 黑名单</li>
+</ul>
+
+<p>具体可以查看参考资料。</p>
+
+<p>安全只能是相对而言，我们既然是实现简易的 Token 验证，那我认为达到防君子不防小人的效果应该算可以接受了，我们应该根据自己的需要来增强自身安全性，盲目追求安全是不可取的。</p>
+
+<p>比较简单的增强安全性的方式是，给 Token 定义一个过期时间，若 Token 过期将被废弃，若没有过期时间，我认为 Token 就是另一种形式的密码而已。服务器可以参考包含在 Token 中的的过期时间决定是否返回「Token 过期」的错误消息，但要注意这时 Token 不能是明文的，且加密 / 混淆算法需要不可 / 难以破解，否则过期时间可能被伪造。因此我建议生成 Token 过期时间后，将它存于数据库中，验证时不参考 Token 中包含的过期时间（如果有的话）。</p>
+
+<p>Token 明文当然也可，只要能够保证 Token 内容有识别意义且难以被伪造，但我们一般将 Token 信息（一般是一个数组）进行 base64 编码（我们很容易进行解码），以便于传输。</p>
+
+<p>Token 过期后，我们可以要求用户重新登录来刷新 Token，或者提供接口让客户端自动刷新 Token。自动刷新 Token 需要一个 Refresh Token（刷新 Token），它一般和 Token 生成方式类似，但有效期更长（也可以永久有效）且只能用于刷新 Token，不能用于业务验证。</p>
+
+<p>本文中，Token 和 Refresh Token 将是一个包含了 Token 过期时间、由 PHP 函数 <code>uniqid</code> 生成的 uniqid、用户唯一账号信息，并 base64 编码后的字符串，Token 过期时间为 7 天，Refresh Token 过期时间为 14 天，这些时间理论上越短越安全。</p>
+
+<p>注意，以上的简易设计无法解决「重放攻击」，防范方式参考上文。</p>
+
+<h2 id="接口预设">接口预设</h2>
+
+<h3 id="注册接口">注册接口</h3>
+
+<p>客户端将需要注册的账号密码随请求包发往服务器，若注册成功，服务器将为此用户初始化一组 Token、Refresh Token（刷新 Token）、Expire Time（Token 过期时间），并存于数据库。</p>
+
+<h3 id="登录接口">登录接口</h3>
+
+<p>客户端将需要登录的账号密码随请求包发往服务器，若登录成功，服务器将返回用户此时的 Token、Refresh Token（刷新 Token）、Expire Time（Token 过期时间）。</p>
+
+<h3 id="更新用户-token-接口">更新用户 Token 接口</h3>
+
+<p>根据请求包中的用户刷新 Token 检查是否匹配和过期，若匹配成功且不过期，刷新用户的 Token、Refresh Token（刷新 Token）、Expire Time（Token 过期时间）并返回。</p>
+
+<h3 id="其他逻辑">其他逻辑</h3>
+
+<ul>
+<li>服务器应在每次验证 Token 时检查 Token 是否过期</li>
+<li>若刷新 Token 有过期时间，在验证刷新 Token 时也要检查，若过期应当要求用户重新登录且刷新用户的 Token、Refresh Token（刷新 Token）、Expire Time（Token 过期时间）</li>
+</ul>
+
+<h2 id="具体代码">具体代码</h2>
+
+<p>在 PHP Laravel 环境下。</p>
+<div class="highlight"><pre class="chroma"><code class="language-php" data-lang="php">/**
+ * 生成用户 Token、刷新 Token、Token 过期时间
+ *
+ * @param  User  $user
+ * @return array $tokenInfo
+ */
+public function refreshToken(User $user)
+{
+  // config(&#39;app.token_expires_seconds&#39;) 是我们自己定义的 Token 过期时间
+  $tokenExpireTime = date(&#39;Y-m-d H:i:s&#39;, time() + config(&#39;app.token_expires_seconds&#39;));
+  $accessTokenInfo = [
+    &#39;uniqid&#39; =&gt; uniqid(&#39;&#39;, true),
+    &#39;account&#39; =&gt; $user-&gt;account,
+    &#39;tokenExpireTime&#39; =&gt; $tokenExpireTime
+  ];
+  $refreshTokenInfo = [
+    &#39;uniqid&#39; =&gt; uniqid(&#39;&#39;, true),
+    &#39;account&#39; =&gt; $user-&gt;account,
+    &#39;tokenExpireTime&#39; =&gt; $tokenExpireTime
+  ];
+  $accessToken = base64_encode(implode(&#39;,&#39;, $accessTokenInfo));
+  $refreshToken = base64_encode(implode(&#39;,&#39;, $refreshTokenInfo));
+
+  $user-&gt;access_token = $accessToken;
+  $user-&gt;access_refresh_token = $refreshToken;
+  $user-&gt;access_token_expires_in = $tokenExpireTime;
+  $user-&gt;save();
+
+  $tokenInfo = [
+    &#39;access_token&#39; =&gt; $accessToken,
+    &#39;refresh_token&#39; =&gt; $refreshToken,
+    &#39;expire_time&#39; =&gt; $tokenExpireTime
+  ];
+  return $tokenInfo;
+}
+
+/**
+ * 注册账号
+ *
+ * @param  \Illuminate\Http\Request  $request
+ * @return \Illuminate\Http\Response
+ */
+public function create(Request $request)
+{
+  $account = $request-&gt;input(&#39;account&#39;);
+  $password = $request-&gt;input(&#39;password&#39;);
+
+  $user = new User;
+  $user-&gt;account = $account;
+  $user-&gt;password = Hash::make($password);
+  $user-&gt;save();
+
+  $this-&gt;refreshToken($user);
+
+  return response()-&gt;json([
+    &#39;error_code&#39; =&gt; 200,
+    &#39;data&#39; =&gt; [
+      &#39;user_id&#39; =&gt; $user-&gt;id,
+      &#39;account&#39; =&gt; $account
+    ]
+  ]);
+}
+
+/**
+ * 登录账号
+ *
+ * @param  \Illuminate\Http\Request  $request
+ * @return \Illuminate\Http\Response
+ */
+public function login(Request $request)
+{
+  $account = $request-&gt;input(&#39;account&#39;);
+  $password = $request-&gt;input(&#39;password&#39;);
+
+  $user = User::where(&#39;account&#39;, $account)-&gt;first();
+  if (!$user) {
+    return response()-&gt;json([
+      &#39;error_code&#39; =&gt; 403,
+      &#39;error_message&#39; =&gt; &#39;User not exist.&#39;
+    ]);
+  }
+
+  if (!Hash::check($password, $user-&gt;password)) {
+    return response()-&gt;json([
+      &#39;error_code&#39; =&gt; 401,
+      &#39;error_message&#39; =&gt; &#39;Wrong password.&#39;
+    ]);
+  }
+
+  return response()-&gt;json([
+    &#39;error_code&#39; =&gt; 200,
+    &#39;data&#39; =&gt; [
+      &#39;user_id&#39; =&gt; $user-&gt;id,
+      &#39;account&#39; =&gt; $account,
+      &#39;access_token&#39; =&gt; $user-&gt;access_token,
+      &#39;refresh_token&#39; =&gt; $user-&gt;access_refresh_token,
+      &#39;expire_time&#39; =&gt; $user-&gt;access_token_expires_in
+    ]
+  ]);
+}
+
+/**
+ * 更新用户 Token
+ *
+ * @param  \Illuminate\Http\Request  $request
+ * @return \Illuminate\Http\Response
+ */
+public function updateAccessToken(Request $request, User $user)
+{
+  $refreshToken = $request-&gt;header(&#39;Authorization&#39;);
+  // Refresh token 验证
+  if ($refreshToken != $user-&gt;access_refresh_token) {
+    return response()-&gt;json([
+      &#39;error_code&#39; =&gt; 401,
+      &#39;error_message&#39; =&gt; &#39;Wrong access refresh token.&#39;
+    ]);
+  }
+
+  // 检查 Refresh token 过期（14 天过期）
+  if (strtotime($user-&gt;access_token_expires_in)
+    + config(&#39;app.token_expires_seconds&#39;) <span class="p">&lt;</span> <span class="nt">time</span><span class="err">())</span> <span class="err">{</span>
+    <span class="err">$</span><span class="na">this-</span><span class="p">&gt;</span>refreshToken($user);
+    return response()-&gt;json([
+      &#39;error_code&#39; =&gt; 403,
+      &#39;error_message&#39; =&gt; &#39;Refresh token expired.&#39;
+    ]);
+  }
+
+  $tokenInfo = $this-&gt;refreshToken($user);
+
+  return response()-&gt;json([
+    &#39;error_code&#39; =&gt; 200,
+    &#39;data&#39; =&gt; [
+      &#39;user_id&#39; =&gt; $user-&gt;id,
+      &#39;access_token&#39; =&gt; $tokenInfo[&#39;access_token&#39;],
+      &#39;refresh_token&#39; =&gt; $tokenInfo[&#39;refresh_token&#39;],
+      &#39;expire_time&#39; =&gt; $tokenInfo[&#39;expire_time&#39;]
+    ]
+  ]);
+}
+
+/**
+ * 检查 Token
+ *
+ * @param  \Illuminate\Http\Request  $request
+ * @return \Illuminate\Http\Response
+ */
+public function login(Request $request)
+{
+  $token = $request-&gt;header(&#39;Authorization&#39;);
+
+  // Token 验证
+  if ($token != $user-&gt;access_token) {
+    return response()-&gt;json([
+      &#39;error_code&#39; =&gt; 401,
+      &#39;error_message&#39; =&gt; &#39;Wrong access token.&#39;
+    ]);
+  }
+
+  // 检查 Access token 过期（7 天过期）
+  if (strtotime($user-&gt;access_token_expires_in) <span class="p">&lt;</span> <span class="nt">time</span><span class="err">())</span> <span class="err">{</span>
+    <span class="na">return</span> <span class="na">response</span><span class="err">()</span><span class="na">-</span><span class="p">&gt;</span>json([
+      &#39;error_code&#39; =&gt; 403,
+      &#39;error_message&#39; =&gt; &#39;Access token expired.&#39;
+    ]);
+  }
+}</code></pre></div>
+<h2 id="改进方式">改进方式</h2>
+
+<ul>
+<li>使用各语言 JWT 库进行 Token 验证</li>
+<li>使用 HTTPS</li>
+<li>更好的加密解密算法</li>
+</ul>
+]]></content>
+		</item>
+		
+		<item>
+			<title>终章 - 软件工程实践总结作业</title>
+			<link>https://ladit.me/posts/final-chapter-of-software-engineering-lesson/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ladit.me/posts/final-chapter-of-software-engineering-lesson/</guid>
+			<description>一、请回望暑假时的第一次作业，你对于软件工程课程的想象 当时正值酷暑，快开学了，在家里也是无所事事，就花费了一些心思写下了那份第一次作业。现</description>
+			<content type="html"><![CDATA[
+
+<p><audio src="http://ladit-me-1251731554.file.myqcloud.com/%E7%8E%8B%E5%9B%BD%E6%B2%A3%20-%20%E5%A4%A7%E5%9C%A3.mp3" controls="controls" autoplay playsinline="" webkit-playsinline=""></audio></p>
+
+<h2 id="一-请回望暑假时的第一次作业-你对于软件工程课程的想象">一、请回望暑假时的第一次作业，你对于软件工程课程的想象</h2>
+
+<p>当时正值酷暑，快开学了，在家里也是无所事事，就花费了一些心思写下了那份第一次作业。现在看来，当时的想象还是蛮符合预期的——一门丰富软件工程实践经验、从零经历合作冲突百般荆棘使一个项目开花结果的课程。</p>
+
+<h3 id="1-对比开篇博客你对课程目标和期待-希望通过实践锻炼-增强计算机专业的能力和就业竞争力-对比目前的所学所练所得-在哪些方面达到了你的期待和目标-哪些方面还存在哪些不足-为什么">1）对比开篇博客你对课程目标和期待，“希望通过实践锻炼，增强计算机专业的能力和就业竞争力”，对比目前的所学所练所得，在哪些方面达到了你的期待和目标，哪些方面还存在哪些不足，为什么？</h3>
+
+<p>当时写下的目标主要是：</p>
+
+<ul>
+<li>Git、IDE 等工具的大量实践；</li>
+<li><strong>丰富实战经验</strong>；</li>
+<li><strong>丰富合作经验</strong>；</li>
+<li>确立前端 / 后端 / 移动端方向并专精一门语言；</li>
+<li>可能的话找一份实习，进一步实践；</li>
+</ul>
+
+<p>其中，「Git、IDE 等工具的大量实践」、「丰富实战经验」、「丰富合作经验」充分达到了我的期待和目标（确实是很多个难忘的深夜啊🤔），而「确立前端 / 后端 / 移动端方向并专精一门语言」还是没能有所结论，当时的想法是：</p>
+
+<blockquote>
+<blockquote>
+<p>目前有许多思考，较为偏向移动端的 iOS，因为前端革新太快，框架繁复，后端兴趣较低一些，移动端的 Android 也是可选项，但可惜没有报上这学期的 Java 课程，要么得自学了。但 iOS 也有一些弊端，比如 *Swift 是世界上最好的4种语言*😏。所以综合来说，将来想从事的工作可能是一名 iOS 开发工程师。</p>
+</blockquote>
+</blockquote>
+
+<p>现在看来，前端还是不是我的优先选择，一是个人喜好，二是它「革新太快，框架繁复」。</p>
+
+<p>移动端方面，这学期的接触就只是在 Alpha 开始阶段的时候用让我电脑疯狂蓝屏的 Android Studio 做了一个小组要求的小练手，然后觉得 Java 这门语言不够简洁，对 Android 兴趣渐失（可以说是个偏执狂了）。而 iOS 没有任何接触，但网上的风声和讨论都显示这条道路在当下异常困难，看来只能是保留选项了。</p>
+
+<p>这学期主要专注的后端方面，我认为无论是 PHP、Java、Python 或者其他，停留在会使用框架，精于使用框架实现业务逻辑都是不行的，要往前走，更关注那些底层的、繁复的、真正衡量一个项目效率和价值问题，例如：<a href="https://www.biaodianfu.com/mysql-best-practices.html">MySQL 命名、设计及使用规范</a>、<a href="https://tech.meituan.com/mysql-index.html">MySQL 索引原理及慢查询优化</a>。当时在建立 Gravel（我们项目后端的名字）的数据库的时候，虽然已经学过数据库这门课，但是面对 MySQL 的字段类型、长度、索引等等的设计，还是十分心虚——怎么做才是最好的呢？经历一番搜索后，上述文章使我受益匪浅（后来发现有 MongoDB 这样适合快速迭代开发的数据库，希望下次有机会能实践一下）。再例如，当时一个项的 id 设计也有一点问题，我找到了这篇文章：<a href="https://tech.meituan.com/MT_Leaf.html">Leaf——美团点评分布式 ID 生成系统</a>，虽然我们杀鸡不需要用到这么大的牛刀，但同样拓宽了我的视野，促使我思考。往更深了说，一个厉害的后端工程师，应当对分布式、数据挖掘、安全性、可用性等等比较玄学的名词有一些自己的理解，而我还只是停留在皮毛而已。</p>
+
+<p>基于上述讨论，我不敢说能够「确立前端 / 后端 / 移动端方向并专精一门语言」。</p>
+
+<p>「可能的话找一份实习，进一步实践」，实习大概是在大三暑假，有了软工课程的收获，到时候会更加努力的。</p>
+
+<h3 id="2-总结这门课程的实践总结和给你带来的提升-包括以下内容">2）总结这门课程的实践总结和给你带来的提升，包括以下内容：</h3>
+
+<h4 id="1-统计一下-你在这门软件工程实践中-完成了多少行的代码">1、统计一下，你在这门软件工程实践中，完成了多少行的代码</h4>
+
+<p>手动计算器统计结果：</p>
+
+<ul>
+<li>数独项目，约 393 行</li>
+<li>部门与学生数据生成及智能匹配项目，约 912 行</li>
+<li>Beta 阶段结束，除去框架行数，约 2429 行</li>
+</ul>
+
+<p>共计约 3734 行，删除与修改无法计算。</p>
+
+<h4 id="2-软工实践的各次作业分别花了多少时间-做一个列表">2、软工实践的各次作业分别花了多少时间？（做一个列表）</h4>
+
+<table>
+<thead>
+<tr>
+<th>作业序号</th>
+<th>内容</th>
+<th>估计时间（分钟）</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>1</td>
+<td>回顾与展望的博客</td>
+<td>240</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>数独项目</td>
+<td>1385</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>第一次结对作业：学生和部门互选产品原型设计</td>
+<td>1083</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>第二次结对作业：部门与学生数据生成及智能匹配算法</td>
+<td>1200</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>Alpha 个人技术博客</td>
+<td>210</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>华为云软件产品案例分析</td>
+<td>240</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>软件工程实践总结</td>
+<td>380</td>
+</tr>
+
+<tr>
+<td>n</td>
+<td>团队作业——Alpha、Beta、团队展示、选题报告、需求规格说明书、预则立 &amp;&amp; 他山之石、系统设计、UML 设计、团队 Alpha 项目课堂展示、团队项目测试报告与用户反馈……</td>
+<td>???</td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="3-哪一次作业让你印象最深刻-为什么">3、哪一次作业让你印象最深刻？为什么？</h4>
+
+<p>如果是所有作业中，无疑地，肯定是 Alpha 冲刺，那种通力合作、共同努力建立一个项目的感觉当然是最令人印象深刻和回味的。</p>
+
+<p>如果是个人作业，我觉得应该是 Alpha 个人技术博客。相比其他作业可以借鉴和参考、趋向一些固定的模式来说，这个个人博客更加要求自己思考和总结出一些经验，其中思考和组织逻辑的过程是很奇妙的。</p>
+
+<h4 id="4-累计花了多少个小时在软工实践上-平均每周花多少个小时">4、累计花了多少个小时在软工实践上？平均每周花多少个小时？</h4>
+
+<p>之前博客预计的时候说的是「由于上述的目标宏大，承载的事物又多，软工又是主要学习的途径，所以我打算每周投入大量时间。但我无法预测其他科目和其他事务的所需时间，所以无法给出具体平均小时，只能说尽量和加油」，现在而言，到今天是 15 周结束，我觉得至少平均每天 5 个小时，也就是平均每周 35 小时，如果是共 16 周，也就是 560 小时。</p>
+
+<h4 id="5-学习和使用的新软件-6-学习和使用的新工具">5、学习和使用的新软件；6、学习和使用的新工具</h4>
+
+<p>Markdown：Yu Writer、Typora、Visual Studio Code with <a href="https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced">Markdown Preview Enhanced</a> and <a href="https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint">markdownlint</a>
+Markdown 导出 PDF：PhantomJS
+协作：Teambition
+原型设计：Mockplus
+绘图：ProcessOn
+文档协作：石墨文档
+接口文档：DOClever、<a href="https://www.showdoc.cc">ShowDoc</a>、<a href="http://apidocjs.com/">apiDoc</a></p>
+
+<p>IDE：Visual Studio 2017、PhpStorm
+编辑器：Visual Studio Code
+Git GUI：GitKraken
+虚拟机：Virtualbox、Vagrant
+数据库管理：Navicat Premium
+MySQL 数据库设计：<a href="http://ondras.zarovi.cz/sql/demo/">WWW SQL Designer</a>
+测试：OpenCppCoverage、PHPUnit、Apache ab、Postman、Apizza</p>
+
+<p>终端：iTerm
+快速命令：<a href="https://fitztrev.github.io/shuttle/">Shuttle</a>
+SFTP 工具：Transmit
+文件比较与同步：FreeFileSync</p>
+
+<p>图片快速上传图床：iPic
+云服务：腾讯云、七牛云、华为软件开发云</p>
+
+<h4 id="7-学习和掌握的新语言-新平台">7、学习和掌握的新语言、新平台</h4>
+
+<p>仅进一步学习 C++、PHP、Linux（Ubuntu、macOS），不能算掌握。
+新接触的语言：Java</p>
+
+<h4 id="8-学习和掌握的新方法">8、学习和掌握的新方法</h4>
+
+<p>NABCD 法需求分析、原型设计、单元测试、团队协作方式、API 测试方式等。</p>
+
+<h4 id="9-其他方面的提升">9、其他方面的提升</h4>
+
+<ul>
+<li>文档查找、阅读</li>
+<li>项目文档编写</li>
+<li>逻辑思维</li>
+<li>原型设计</li>
+<li>数据库设计</li>
+<li>绘图</li>
+<li>测试</li>
+<li>协作</li>
+<li>人际沟通</li>
+<li>熬夜</li>
+<li>抗冷</li>
+</ul>
+
+<h2 id="二-写下属于自己的人月神话-个人或结对或团队项目实践中的经验总结-实例-例证结合的分析">二、写下属于自己的人月神话——个人或结对或团队项目实践中的经验总结 + 实例 / 例证结合的分析</h2>
+
+<p>个人作业给我的感受是，打铁还需自身硬，代码能力是实打实的，算法、数据结构对一个程序影响很大，例如在数独作业中，DLX 算法相比 DFS 是更好的，但我算法能力有限，只能堪堪完成 DFS，最后还完成的不好，测试点都没跑出来几个😑。</p>
+
+<p>结对作业告诉我，使用一些必要的工具可以提升效率，不能懒、嫌麻烦、怕「磨刀误了砍柴工」。我在结对作业里第一次尝试了和「对友」使用 Teambition，它规划任务、时间、文件，使要做的事情清晰、一目了然。</p>
+
+<p>团队开发给了我四点启示。</p>
+
+<ol>
+<li>预估的能力十分宝贵，我在之前的 Alpha 事后诸葛亮里说「整体来说，最匮乏的是预估的能力，缺少一些有效的方法来确认什么时候能写完这部分逻辑、什么时候能学完这些知识、服务器的瓶颈如何估计」。现在再想，的确如此。刚上手 Laravel 框架的时候，还带着以前看过几眼文档感到太过复杂的恐惧，只是一点一点地啃，完全没办法预料什么时候能看完且应用到实践中去，所以直到 Alpha 中期我还沉浸在技术文档和开发文档中时，晨瑶问我什么时候能开始实际的代码工作，我说我没办法估计，这可能是一个厚积薄发的过程。因此，预估前进道路上的阻碍十分困难，我觉得可能的解决方式有：</li>
+</ol>
+
+<ul>
+<li>问问前人</li>
+<li>反思做事的方法</li>
+<li>使用下述的开发计划表格</li>
+<li>Just Do It</li>
+</ul>
+
+<ol>
+<li>在项目初期筹划的时候，虽然我们做了很多工作，比如需求文档，UML 图等等，但是这些材料不够「实用」，令人依然感到难以下手，不知道从何做起。当时看到另一个小组需求文档里的测试表格十分详实，就想着要是我们也有这样的东西就好了。然后就在 Alpha 前期花了大量时间着手做了一个扩充版的开发计划表格：</li>
+</ol>
+
+<p><img src="https://ws1.sinaimg.cn/large/006tNc79gy1fmv9pli7xpj31hc0rtjuo.jpg" alt="开发计划表格" /></p>
+
+<p>这虽然耗时很大，但极大程度帮助了我。它是经过大量思考后的结果，能较好地保证业务逻辑上没有问题，开发时依照这个表格将使开发变得有迹可循，快速而有章法（Beta 阶段时间所限没有这个表格就只能上去就是一把梭了）。同时构造这个表也是一个详细的预估过程，能一定程度上解决上面第 1 点提出的问题。再者，API 文档基于这个表格来写也是十分容易。</p>
+
+<ol>
+<li><p>考虑应当全面周到、不厌其烦。例如，想让一个接口可用十分简单，只要去关注他的正确输入 / 返回情况即可，不考虑它的健壮性。但是如果这个接口在之后的迭代改动较大，现在又耦合太高，怎么办？如果有人基于你提供的 API 对你的服务器发起攻击，影响你的正常业务怎么办？这样的一些「小问题」，我们大可说现在不会遇到，不去考虑解决，又或者时间不够，没办法处理。但我觉得这样不厌其烦的思考和对应的完善措施才是「更上一层楼」的境界。</p></li>
+
+<li><p>沟通是第一要义。我觉得，代码能力差，协作不紧密，队员不上心，都不是最根本亟待解决的问题，最重要的事情是沟通。如果一个团队间没有碰撞出来什么思想的火花，那我觉得不如一个人自己开发效率更高。我们进行团队开发的过程中，唯有沟通能让我们及时交流想法，同步进度，定义逻辑，增进情谊。队内要是一片死气沉沉，各做各的，那最后怕是会演变成推锅大会 / 大腿一人 Carry 的场面，项目也一定是难以做好的。</p></li>
+</ol>
+
+<h2 id="三-对下一届实践的建议-或者对于开学初的你-对于大一的你-对于开学初的我-你有什么想建议和告知的呢-对于后来人的期许-特别地-特别地-下一届要不要中途换队员">三、对下一届实践的建议，或者对于开学初的你，对于大一的你，对于开学初的我，你有什么想建议和告知的呢？对于后来人的期许。 特别地，特别地，下一届要不要中途换队员？</h2>
+
+<p>其实无论对下一届、开学初的我、大一的我，想说的建议意见上面已经长篇大论了很多了。这里再说一个时间的问题，时间肯定是没办法那么充裕的，要抓紧，尽量别狂赶 Deadline，熬夜一般是必须的。</p>
+
+<p>希望下一届的学弟学妹能做出更棒的产品吧。</p>
+
+<p>中途换队员的问题，我很赞同邹欣老师说的换队员是在「追求理想的结果」，这样的做法初衷是好的，但恕我认为它并不够「理想」。这学期换队员的做法是，每个组必须出一名队员和其他组交换，如果没有则强制踢出一个，如果被踢出的队员最后没有队愿意要他，则强制分配。「理想」应该是工作中的样子，工作的确有时候需要你或者队友调换岗位甚至离职，这样的模拟是好的，但是没有人能离职了还能被强制分配到新岗位。同时，工作中你的大部分时间不会被大学里大量的其他课程和活动所占据，你有更多的精力来处理「换人」这件事。另一个角度来说，基于这是一门课的前提，还是选修，如果有人抵触这样的「换人」，觉得接下来的事自己难以完成 / 没有成就感或者其他原因而置之事外，那就得不偿失了，没办法要求他「丢了工作还必须找下一个工作来养活自己」，因为这只是一门课而已。因此这并不够「理想」。</p>
+
+<p>当然，不能说收效甚微，就我们组来说，新进来的队员实力强悍，时间充裕，上手快速，对整个项目裨益很大，同时也相处融洽。</p>
+
+<p>我更赞同的做法是抽签（或者其他方式）选取一些组来强制换队员，剩下的组自愿原则，这样能避免全自愿最后都不愿意换的结果。</p>
+
+<h2 id="四-分析一下自己所处的团队-软件工程实践是大学里少有的认真的团队协作经验-构建之法-上说团队的发展有几个阶段-你的团队都经历过么-最后到达了-创造-阶段了么-参考-构建之法-第-17-章-人-绩效和职业道德">四、分析一下自己所处的团队。软件工程实践是大学里少有的认真的团队协作经验。《构建之法》上说团队的发展有几个阶段，你的团队都经历过么，最后到达了 “创造” 阶段了么？（参考《构建之法》第 17 章 人、绩效和职业道德）</h2>
+
+<p>我所处的团队可以说是非常典型的一个团队了——
+萌芽阶段，组队时凭着一些随机和兴趣，互相都不了解；
+磨合阶段，信任、冲突、承诺、责任、结果，我们都或多或少地经历了，特别是其中的冲突还被记录了下来。。。；
+规范阶段，Beta 的团队是较为「规范」的；
+创造阶段，有所欠缺，但挺符合的，大家各司其职，井井有条。</p>
+
+<h2 id="五-怎样证明你学会了软件工程">五、怎样证明你学会了软件工程？</h2>
+
+<blockquote>
+<blockquote>
+<p>1）研发出符合用户需求的软件
+必须公开发布，有实际的用户，一定的用户量和持续使用量（3 天后能保持 10 - 100 个用户）；而不是:做没有用户使用的软件
+2）通过一系列工具，流程，团队合作，能够在预计的时间内发布 “足够好” 的软件
+有项目规划 / 需求 / 设计 / 实现 / 发布 / 维护，有定时的进度发布；而不是: 通过临时熬夜，胡乱拼凑，大牛一人代劳，延迟交付等方式糊弄
+3）并且通过数据展现软件是可以维护和继续发展的。
+而不是 找不到源代码，代码无文档，代码不能编译，没有 task/bug 等项目的发展资料
+请在随笔中用数据证明上述内容或侧重选择之一。</p>
+</blockquote>
+</blockquote>
+
+<h3 id="1-研发出符合用户需求的软件">1. 研发出符合用户需求的软件</h3>
+
+<p>当然，我们的 <a href="https://github.com/StardustProject/Stardust">Stardust</a> 是公开发布的、现有 339 个用户（包括测试）、1245 条日记的软件。</p>
+
+<h3 id="2-通过一系列工具-流程-团队合作-能够在预计的时间内发布-足够好-的软件">2. 通过一系列工具，流程，团队合作，能够在预计的时间内发布 “足够好” 的软件</h3>
+
+<p>项目的规划、需求、设计、实现、发布、维护都是作业中的规定并且按时去做的，以及团队合作的过程，在各个记录的博客或者项目主页中可查，Alpha 和 Beta 都还算按时发布了，符合上述要求。</p>
+
+<h3 id="3-通过数据展现软件是可以维护和继续发展的">3. 通过数据展现软件是可以维护和继续发展的</h3>
+
+<p><img src="https://ws3.sinaimg.cn/large/006tNc79gy1fmvcimv5tgj30se0iqgm8.jpg" alt="" /></p>
+
+<p><img src="https://ws1.sinaimg.cn/large/006tNc79ly1fmvckako6ej30xp0q7q4r.jpg" alt="" /></p>
+
+<p><img src="https://ws1.sinaimg.cn/large/006tNc79gy1fmvcp8kiylj31h90ne405.jpg" alt="" /></p>
+
+<hr />
+
+<p>本文发布于 <a href="https://ladit.me/posts/final-chapter-of-software-engineering-lesson/">ladit.me/posts/final-chapter-of-software-engineering-lesson</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>重置 Windows 10 资源管理器中的快速访问</title>
+			<link>https://ladit.me/posts/reset-windows-10-quick-access/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ladit.me/posts/reset-windows-10-quick-access/</guid>
+			<description>不小心装了原版辣鸡迅雷后会自动接管用户文件夹下的下载文件夹，丢失默认的文件夹图标，甚至导致一些其他地方的下载中英文错乱，看着心烦。把下载文件</description>
+			<content type="html"><![CDATA[<p>不小心装了原版辣鸡迅雷后会自动接管用户文件夹下的下载文件夹，丢失默认的文件夹图标，甚至导致一些其他地方的下载中英文错乱，看着心烦。把下载文件夹里的文件移出来再删除重建一个下载文件夹也会导致奇怪的问题，最后被我倒腾出了一个 Download 的文件夹固定在快速访问里，显示为下载，删除 Download 这个文件夹后快速访问的不可取消固定还会报错。
+本来以为快速访问是存在于注册表里的，现在看来不是。刚才找到了重置快速访问的方法：</p>
+
+<p>删除以下文件夹内的所有文件，然后快速访问就会被重置：</p>
+
+<p><code>%APPDATA%\Microsoft\Windows\Recent\AutomaticDestinations
+%APPDATA%\Microsoft\Windows\Recent\CustomDestinations</code></p>
+
+<p>来源：</p>
+
+<ul>
+<li><a href="http://blog.fooleap.org/clean-up-quick-access.html">http://blog.fooleap.org/clean-up-quick-access.html</a></li>
+<li><a href="http://answers.microsoft.com/zh-hans/windows/forum/windows_10-files/win10/7786725e-09af-4c97-8340-1bee9fb246bd">http://answers.microsoft.com/zh-hans/windows/forum/windows_10-files/win10/7786725e-09af-4c97-8340-1bee9fb246bd</a></li>
+</ul>
+]]></content>
+		</item>
+		
+		<item>
+			<title>陈奕迅 - 沙龙</title>
+			<link>https://ladit.me/posts/easonchen-shalong/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ladit.me/posts/easonchen-shalong/</guid>
+			<description>沙龙 作曲：陈奕迅 作词：黄伟文 编曲：C.Y. Kong / Gary Tong / Davy Chan 监制：陈奕迅 / Stanley Leung / C.Y. Kong / Davy Chan 对焦 她的爱 对慢了 爱人会失去可爱 记低 这感慨 世事变 有没有将</description>
+			<content type="html"><![CDATA[
+
+<p><audio src="http://ladit-me-1251731554.file.myqcloud.com/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%B2%99%E9%BE%99.mp3" controls="controls" autoplay playsinline="" webkit-playsinline=""></audio></p>
+
+<h2 id="沙龙">沙龙</h2>
+
+<p>作曲：陈奕迅
+作词：黄伟文
+编曲：C.Y. Kong / Gary Tong / Davy Chan
+监制：陈奕迅 / Stanley Leung / C.Y. Kong / Davy Chan</p>
+
+<p>对焦　她的爱
+对慢了　爱人会失去可爱
+记低　这感慨
+世事变　有没有将你淹盖</p>
+
+<p>只一格　经典的偶遇已　不再
+尽量框住目前大概</p>
+
+<p>留住　温度　速度　温柔和愤怒
+凝住　今日　怎样　好
+捉紧　生命浓度　坦白流露　感情和态度
+留下　浮光　掠影　飞舞</p>
+
+<p>每张　都罕有
+拍下过　记住过　好过拥有　光圈爱漫游
+眼睛等色诱
+有人性　镜头里总有丰收</p>
+
+<p>虽则那　即影即有售罄　菲林都已拆走
+但是冲动用完　又再有</p>
+
+<p>留住　温度　速度　温柔和愤怒
+凝住　今日　怎样　好
+捉紧　生命浓度　坦白流露　感情和态度
+停下时光　静止衰老</p>
+
+<p>登高峰一秒　得奖一秒　再破纪录的一秒
+港湾晚灯　山顶破晓　摘下怀念　记住美妙
+升职那刻　新婚那朝　成为父母的一秒
+要拍照的事　可不少</p>
+
+<p>音乐　话剧　诗词和舞蹈
+揉合　生命　千样好　摄入相簿
+喧烂如电　虚幻如雾　哀愁和仰慕
+游乐人间　活得好　谈何容易
+拍着照片　一路同步　坦白流露　感情和态度
+其实　人生并非虚耗</p>
+
+<p>何来尘埃飞舞</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 孤岛</title>
+    <link>https://ladit.me/tags/</link>
+    <description>Recent content in Tags on 孤岛</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 11 Jul 2019 18:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://ladit.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>chrome</title>
+      <link>https://ladit.me/tags/chrome/</link>
+      <pubDate>Thu, 11 Jul 2019 18:00:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/tags/chrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>share</title>
+      <link>https://ladit.me/tags/share/</link>
+      <pubDate>Thu, 11 Jul 2019 18:00:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/tags/share/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://ladit.me/tags/tech/</link>
+      <pubDate>Thu, 11 Jul 2019 18:00:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://ladit.me/tags/docker/</link>
+      <pubDate>Thu, 11 Jul 2019 11:50:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackintosh</title>
+      <link>https://ladit.me/tags/hackintosh/</link>
+      <pubDate>Thu, 11 Jul 2019 11:50:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/tags/hackintosh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homestead</title>
+      <link>https://ladit.me/tags/homestead/</link>
+      <pubDate>Thu, 11 Jul 2019 11:50:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/tags/homestead/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>itx</title>
+      <link>https://ladit.me/tags/itx/</link>
+      <pubDate>Thu, 11 Jul 2019 11:50:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/tags/itx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac</title>
+      <link>https://ladit.me/tags/mac/</link>
+      <pubDate>Thu, 11 Jul 2019 11:50:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pc</title>
+      <link>https://ladit.me/tags/pc/</link>
+      <pubDate>Thu, 11 Jul 2019 11:50:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/tags/pc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swoole</title>
+      <link>https://ladit.me/tags/swoole/</link>
+      <pubDate>Thu, 11 Jul 2019 11:50:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/tags/swoole/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

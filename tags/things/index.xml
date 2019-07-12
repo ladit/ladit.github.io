@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>things on 孤岛</title>
+    <link>https://ladit.me/tags/things/</link>
+    <description>Recent content in things on 孤岛</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 11 Jul 2019 11:50:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://ladit.me/tags/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的 ITX Hackintosh / PC 购买、组装、安装系统心得</title>
+      <link>https://ladit.me/posts/my-itx-hackintosh-and-pc-buying-build-installation-experience/</link>
+      <pubDate>Thu, 11 Jul 2019 11:50:00 +0800</pubDate>
+      
+      <guid>https://ladit.me/posts/my-itx-hackintosh-and-pc-buying-build-installation-experience/</guid>
+      <description>前言 即将毕业了，一直以来缺少一台自己的有一定性能的台式机，从五月份开始思考需求，到处爬楼，多次增删，得到以下结果，仅以记之。 需求 ITX台式机</description>
+    </item>
+    
+    <item>
+      <title>iPod shuffle 开箱</title>
+      <link>https://ladit.me/posts/ipod-shuffle-opening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ladit.me/posts/ipod-shuffle-opening/</guid>
+      <description>iPod 作为 Apple 在推出 iPhone 之前的主打产品， 承载了许多令人叹服的设计。例如 iPod touch 6.1毫米的惊人厚度，甚至第一次拿起同学的 iPod touch 时，我怀疑再薄一些就变成了一</description>
+    </item>
+    
+  </channel>
+</rss>

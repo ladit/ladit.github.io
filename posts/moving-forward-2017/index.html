@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="theme-color" content="#494f5c">
+	<meta name="msapplication-TileColor" content="#494f5c">
+
+<meta itemprop="name" content="砥砺前行">
+<meta itemprop="description" content="软件工程实践 2017 第一次作业 今年又重拾 cnblogs，上一次也是张栋老师教的面向对象程序设计，在我所经历过的教学方式中，这样的可以说是较为独特的">
+
+
+
+<meta itemprop="wordCount" content="3186">
+
+
+
+<meta itemprop="keywords" content="assignment,college," />
+<meta property="og:title" content="砥砺前行" />
+<meta property="og:description" content="软件工程实践 2017 第一次作业 今年又重拾 cnblogs，上一次也是张栋老师教的面向对象程序设计，在我所经历过的教学方式中，这样的可以说是较为独特的" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ladit.me/posts/moving-forward-2017/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="砥砺前行"/>
+<meta name="twitter:description" content="软件工程实践 2017 第一次作业 今年又重拾 cnblogs，上一次也是张栋老师教的面向对象程序设计，在我所经历过的教学方式中，这样的可以说是较为独特的"/>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<title>砥砺前行</title>
+	<link rel="stylesheet" href="https://ladit.me/css/style.min.568c54a56780af2a70c45272522247710b69dbfc080b315211fb98381e3796f8.css" integrity="sha256-VoxUpWeArypwxFJyUiJHcQtp2/wICzFSEfuYOB43lvg=">
+	
+</head>
+
+<body id="page">
+	
+	<header id="site-header" class="animated slideInUp faster">
+		<div class="hdr-wrapper section-inner">
+			<div class="hdr-left">
+				<div class="site-branding">
+					<a href="https://ladit.me">孤岛</a>
+				</div>
+				<nav class="site-nav hide-in-mobile">
+					
+				<a href="https://ladit.me/posts/">文章</a>
+				<a href="https://ladit.me/about/">关于</a>
+
+				</nav>
+			</div>
+			<div class="hdr-right hdr-icons">
+				<button id="toc-btn" class="hdr-btn desktop-only-ib" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-list"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3" y2="6"></line><line x1="3" y1="12" x2="3" y2="12"></line><line x1="3" y1="18" x2="3" y2="18"></line></svg></button><span class="hdr-social hide-in-mobile"><a href="mailto:i@ladit.me" target="_blank" rel="noopener me" title="Email"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg></a><a href="https://github.com/ladit" target="_blank" rel="noopener me" title="Github"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a></span><button id="menu-btn" class="hdr-btn" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button>
+			</div>
+		</div>
+	</header>
+	<div id="mobile-menu" class="animated fast">
+		<ul>
+			<li><a href="https://ladit.me/posts/">文章</a></li>
+			<li><a href="https://ladit.me/about/">关于</a></li>
+		</ul>
+	</div>
+
+
+	<main class="site-main section-inner animated fadeIn faster">
+		<article class="thin">
+			<header class="post-header">
+				<div class="post-meta"><span>Jan 1, 0001</span></div>
+				<h1>砥砺前行</h1>
+			</header>
+			<div class="content">
+				
+
+<h2 id="软件工程实践-2017-第一次作业-https-www-cnblogs-com-easteast-p-7403491-html"><a href="https://www.cnblogs.com/easteast/p/7403491.html">软件工程实践 2017 第一次作业</a><a href="#软件工程实践-2017-第一次作业-https-www-cnblogs-com-easteast-p-7403491-html" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p><audio src="http://ladit-me-1251731554.file.myqcloud.com/%E4%BB%99%E5%89%91%E9%97%AE%E6%83%85_%E9%92%A2%E7%90%B4%E6%BC%94%E5%A5%8F_cut.mp3" controls="controls" autoplay playsinline="" webkit-playsinline=""></audio></p>
+
+<hr />
+
+<p>今年又重拾 cnblogs，上一次也是张栋老师教的面向对象程序设计，在我所经历过的教学方式中，这样的可以说是较为独特的——强烈的实践和理论相结合的模式，鼓励探讨和交流，我是挺喜欢这样的教学方式的，虽然偶尔会哀叹繁重的作业和代码，但对于动手能力的提升感觉是实实在在看得到的。
+就个人而言，相比以前有一些进步，但还是有一些迷惘。我对软件工程的理解，除了课堂上 C 和 C++ 的教学，较大的实践是在暑假尝试了用 PHP 还有许多框架/库和同学合作了一个服务外包的项目，没有参考书的话，面向 Google 编程，总是容易磕磕绊绊，但庆幸最后终于大致完成，使我对合作编程/软件工程有一点浅薄的理解。
+以上是就着网易云音乐脑子里的一些碎片和碎碎叨叨，以下是对第一次作业的回答。</p>
+
+<hr />
+
+<blockquote>
+<p>（1）回想一下你初入大学时对计算机专业的畅想
+* <strong>当初你是如何做出选择计算机专业的决定的？</strong></p>
+</blockquote>
+
+<p>哈哈，看到作业里给出的引用里说 「不要轻易在简历上写我热爱编程，我热爱学习（你对计算机的热情是怎样的？）」（这里似乎编写者粗心忘了添加链接了），但是其实我当初就是抱着一腔热情啊。
+从小学的时候开始，有宝贵的玩哥哥/姐姐家的电脑（当时比较穷家里买不起）的机会时，除了领略4399的魅力，最大的热情（游戏打得不好剩下的乐趣？）就是折腾电脑上形形色色的软件。例如杀毒软件、Office、<a href="http://www.youhua.com/">Windows 优化大师</a>、压缩软件、浏览器以及 XP 时代的各种垃圾软件等等，那个时候就觉得电脑软件这东西真神奇，它是如何变出来的呢？以后有机会我也想了解一下。后来的小学、初中、高中，通过不断革新的电脑，做了许多作业，打了许多游戏，也学习（折腾）了各种各样的电脑技术，但一直对编程这种较为高深和专业性强的事物没有接触和了解，大部分依靠当时网上热心网友现成的 exe 和其他解决方案。
+所以我一直怀抱着希望学习计算机技术的心情，高考结束后，我的分数报考福大是较为恰当的，而福大的其他专业我又提不太起兴趣，所以计算机专业是我的首选。</p>
+
+<blockquote>
+<ul>
+<li><strong>你认为过去两年中接触到的课程是否符合你对计算机专业的期待，为什么？</strong></li>
+</ul>
+</blockquote>
+
+<p>如果这个期待符合可以数字化的话，我觉得期待符合值=7.5/10，一方面，我的确入门并学习着小时候所好奇的「软件是怎么来的」，另一方面，计算机专业的课程也是理论和专业的，涉及面广而泛，有编程知识的同时，也有各种各样的物理（数字电路与逻辑设计）/数学（离散数学）知识，这些都是计算机科学的范畴，我在上大学前没料到这些知识也是需要学习的，它们偏于枯燥，但不可或缺。另外还有一些公共课程，历史、大物之类，是比较在预期之外的。所以之前学习的课程，有一些意料之外，但大都是情理之中。</p>
+
+<blockquote>
+<ul>
+<li><strong>你觉得计算机是你喜欢的领域吗，它是你擅长的领域吗？</strong></li>
+</ul>
+</blockquote>
+
+<p>正如上文所言，从小以来计算机就是我喜欢的领域，现在让我去学习电子做一个电工，去研读法律做一个律师，去掌握生理结构做一个医生，我都是缺乏兴趣的。
+至于擅长与否，就我自己而言，我现在所能掌握的技能中，它是我擅长的领域，我没办法说当初如果我选了其他专业，那个专业的擅长程度是否能超越现下计算机的擅长程度，没有做过的事情，还是不好妄言的。</p>
+
+<blockquote>
+<p>（2）即将大三的你，对照前人们走过的路和描述未来发展，现在的你
+* <strong>自我感觉你已经具备的专业知识、技能、能力有哪些？</strong></p>
+</blockquote>
+
+<ul>
+<li>计算机体系、历史的了解；</li>
+<li>对计算机组成和运行过程浅薄的理解；</li>
+<li>数据库的理解和操作；</li>
+<li>对计算机网络的大致概念；</li>
+<li>C 语言、C++ 的理解；</li>
+<li>Windows 和 Unix-like 系统的一些基本操作；</li>
+<li>使用 Google、百度等搜索引擎查阅需要的中英文资料并解决遇到的问题；</li>
+<li>一些编程工具的使用；</li>
+<li>利用 HTML5、CSS、JS、PHP 与一些框架组件构造一个勉强能用的产品；</li>
+<li><em>各种奇怪而复杂的计算机技能，如配置路由器和计算机的网络、从域名到主机等建立一个博客、Windows/Mac 系统的疑难杂症维护和重装。。。</em></li>
+</ul>
+
+<blockquote>
+<ul>
+<li><strong>离成为一个合格的计算机专业本科毕业生，在专业知识、技能、能力上还差距哪些？</strong></li>
+</ul>
+</blockquote>
+
+<ul>
+<li>基础理论知识的进一步掌握和理解，例如模型、算法、离散数学之类；</li>
+<li>进一步的计算机专业的知识学习，如接下来的汇编语言编译方法等；</li>
+<li>代码的风格、规范的一些欠缺；</li>
+<li>Git 等工具的大量实践使用；</li>
+<li>MVC 等架构的理解和实践；</li>
+<li>使用某种语言合作并正式开发一个较大的项目的经历；</li>
+<li>选取前端/后端/移动端方向并专精一门语言，更丰富的开发经历，作为寻求工作的基石；</li>
+</ul>
+
+<blockquote>
+<p>（3）大三是一个人生选择的十字路口，考研、工作、考公、出国，不同的选择在大三就有不同的努力方向。而无论考研还是工作的每条路径，也有许多不同的分支。
+* <strong>对照以上你阅读的前人们的经历，你的选择是什么？</strong></p>
+</blockquote>
+
+<p>我更希望投身工作。一是学习是较为辛苦的，特别是考研，感觉做过手术的身体并不是特别允许没日没夜地学习堆成小山的书本😉，二是喜欢工作带来的技术实现后解决问题的满足感，我对计算机科学的理解和研究的兴趣没有那么高，意料中的研究生是需要对计算机科学进行努力钻研研究的，较为偏离实际技术应用。考取公务员个人并不喜欢，出国不够实际和缺乏准备。</p>
+
+<blockquote>
+<ul>
+<li><strong>在这种选择下，你认为你相比其他同学来说有何优势，有何劣势？</strong></li>
+</ul>
+</blockquote>
+
+<p>优势：</p>
+
+<ul>
+<li>由热爱计算机所激发的更加愿意探索和钻研的热情；</li>
+<li>实际合作尝试开发经历；</li>
+<li>一些技术的大致了解和使用，如 HTML5、CSS、JS、PHP、SQL 等；</li>
+<li>一些计算机技能的掌握，如上文所述；</li>
+</ul>
+
+<p>劣势：</p>
+
+<ul>
+<li>基础计算机专业知识掌握可能相对不牢靠；</li>
+<li>更多比赛、实践经验的欠缺；</li>
+</ul>
+
+<blockquote>
+<ul>
+<li><strong>针对你的选择，你给自己的大三设定的规划安排是什么？</strong></li>
+</ul>
+</blockquote>
+
+<p>无疑地，想要工作，甚至好的工作，需要：</p>
+
+<ul>
+<li>丰富的基础知识；</li>
+<li>扎实的开发能力；</li>
+<li>实战项目经验；</li>
+<li>一门语言和一个方向的专精；</li>
+<li>实习经验、合作开发能力；</li>
+<li>持续学习的能力；</li>
+<li>其他；</li>
+</ul>
+
+<p>我想，以上都是我想在简历上填写的并欠缺的。
+具体来说，我更希望在大三：</p>
+
+<ul>
+<li>Git、IDE 等工具的大量实践；</li>
+<li><strong>丰富实战经验</strong>；</li>
+<li><strong>丰富合作经验</strong>；</li>
+<li>确立前端/后端/移动端方向并专精一门语言（目前有许多思考，较为偏向移动端的 iOS，因为前端革新太快，框架繁复，后端兴趣较低一些，移动端的 Android 也是可选项，但可惜没有报上这学期的 Java 课程，要么得自学了。但 iOS 也有一些弊端，比如 *Swift 是世界上最好的4种语言*😏。所以综合来说，将来想从事的工作可能是一名 iOS 开发工程师）；</li>
+<li>可能的话找一份实习，进一步实践；</li>
+</ul>
+
+<p>参考<a href="https://github.com/geekcompany/ResumeSample/blob/master/ios.md">这份简历模板</a>，我觉得我最需要做的就是努力增加自己的技能清单上的项目。</p>
+
+<p>以上是大三的一些笼统规划，在软件工程这门课中，可以略微管中窥豹一番。希望自己能学好软工，并触及与掌握想要的能力。</p>
+
+<blockquote>
+<p>（4）是否有从学长学姐那，听过对于这个班级或这门实践课的要求或经验？促使你选择这门课这个班的动力是什么？</p>
+</blockquote>
+
+<p>并无听说，期待。
+动力是：</p>
+
+<ul>
+<li>同学推荐；</li>
+<li>之前上过张栋老师的面向对象程序设计，感觉不错；</li>
+<li>软工是实践的重要平台，理论的应用，是必不可少的；</li>
+<li>软工能帮助我锻炼上述规划安排中的能力需求；</li>
+</ul>
+
+<blockquote>
+<p>（5）针对上述问题（2）、（3）、（4），<strong>你对这门课的期待是什么？你打算平均每周拿出多少个小时用在这门课上</strong>，以达成你的期待以及你在（2）或（3）或（4）上的目标？</p>
+</blockquote>
+
+<p>如上述（3）、（4）所说，我期待能在软工这门课中锻炼需要的能力，为工作做好准备。同时解决一些之前出现的问题，例如合作开发过程中的合作不畅等。
+由于上述的目标宏大，承载的事物又多，软工又是主要学习的途径，所以我打算每周投入大量时间。但我无法预测其他科目和其他事务的所需时间，所以无法给出具体平均小时，只能说尽量和加油。</p>
+
+<hr />
+
+<p>一些题外话：</p>
+
+<p>关于 Markdown 写作，我建议在线使用 <a href="http://dillinger.io/">dillinger.io</a>，客户端使用 <a href="https://ivarptr.github.io/yu-writer.site/">Yu Writer</a>，它目前支持 Windows 和 macOS，有良好的体验和界面：
+<img src="https://ivarptr.github.io/yu-writer.site/resources/images/screenshot/optimize/theme4@2x.png" alt="Yu Writer" /></p>
+
+<p>文章的中文和英文、数字间请手动使用空格分离开，以达到较好的排版效果，例如
+<code>iOS 11 让 iPhone 变得更为智能</code>
+而不是
+<code>iOS 11让iPhone变得更为智能</code>
+事实上，这应该由排版系统来完成，但这是一个暂时的做法。使用 Chrome 的拓展程序 <a href="https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd">为什么你们就是不能加个空格呢？</a> 可以自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白。</p>
+
+<hr />
+
+<p>本文发布于 <a href="https://ladit.me/posts/moving-forward-2017/">ladit.me/posts/moving-forward-2017</a></p>
+
+			</div>
+			<hr class="post-end">
+			<footer class="post-info">
+				<p>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://ladit.me/tags/assignment">assignment</a></span><span class="tag"><a href="https://ladit.me/tags/college">college</a></span>
+				</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg></p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>0001-01-01 08:00 &#43;0800</p>
+			</footer>
+		</article>
+		<aside id="toc">
+			<div class="toc-title"></div>
+			<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#软件工程实践-2017-第一次作业-https-www-cnblogs-com-easteast-p-7403491-html"><a href="https://www.cnblogs.com/easteast/p/7403491.html">软件工程实践 2017 第一次作业</a></a></li>
+</ul></li>
+</ul>
+</nav>
+		</aside>
+		<div class="post-nav thin">
+			<a class="next-post" href="https://ladit.me/posts/fragment/">
+				<span class="post-nav-label"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-left"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>&nbsp;</span><br><span>断章</span>
+			</a>
+			<a class="prev-post" href="https://ladit.me/posts/simple-token-design/">
+				<span class="post-nav-label">&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span><br><span>简易 Token 验证的实现</span>
+			</a>
+		</div>
+		<div id="comments" class="thin">
+<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "ladit" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+	</main>
+
+	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+		<p>&copy; 2019 <a href="https://ladit.me">Ladit</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+		<p>
+			Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a> &#183; <a href="https://ladit.me/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
+		</p>
+	</footer>
+
+
+	<script src="https://ladit.me/js/main.min.35ccbf1cdceb91e4c64c06b5d009d6e2977fafe56beda7762febd4e67528d2ac.js" integrity="sha256-Ncy/HNzrkeTGTAa10AnW4pd/r+Vr7ad2L+vU5nUo0qw="></script>
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-143732051-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+</body>
+
+</html>

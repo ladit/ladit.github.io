@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on 孤岛</title>
+    <link>https://ladit.me/tags/music/</link>
+    <description>Recent content in music on 孤岛</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://ladit.me/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>陈奕迅 - 沙龙</title>
+      <link>https://ladit.me/posts/easonchen-shalong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ladit.me/posts/easonchen-shalong/</guid>
+      <description>沙龙 作曲：陈奕迅 作词：黄伟文 编曲：C.Y. Kong / Gary Tong / Davy Chan 监制：陈奕迅 / Stanley Leung / C.Y. Kong / Davy Chan 对焦 她的爱 对慢了 爱人会失去可爱 记低 这感慨 世事变 有没有将</description>
+    </item>
+    
+  </channel>
+</rss>

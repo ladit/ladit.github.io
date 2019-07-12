@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="theme-color" content="#494f5c">
+	<meta name="msapplication-TileColor" content="#494f5c">
+
+<meta itemprop="name" content="我的 ITX Hackintosh / PC 购买、组装、安装系统心得">
+<meta itemprop="description" content="前言 即将毕业了，一直以来缺少一台自己的有一定性能的台式机，从五月份开始思考需求，到处爬楼，多次增删，得到以下结果，仅以记之。 需求 ITX台式机">
+
+
+<meta itemprop="datePublished" content="2019-07-11T11:50:00&#43;08:00" />
+<meta itemprop="dateModified" content="2019-07-11T11:50:00&#43;08:00" />
+<meta itemprop="wordCount" content="4544">
+
+
+
+<meta itemprop="keywords" content="things,mac,hackintosh,pc,itx," />
+<meta property="og:title" content="我的 ITX Hackintosh / PC 购买、组装、安装系统心得" />
+<meta property="og:description" content="前言 即将毕业了，一直以来缺少一台自己的有一定性能的台式机，从五月份开始思考需求，到处爬楼，多次增删，得到以下结果，仅以记之。 需求 ITX台式机" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ladit.me/posts/my-itx-hackintosh-and-pc-buying-build-installation-experience/" />
+<meta property="article:published_time" content="2019-07-11T11:50:00&#43;08:00"/>
+<meta property="article:modified_time" content="2019-07-11T11:50:00&#43;08:00"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="我的 ITX Hackintosh / PC 购买、组装、安装系统心得"/>
+<meta name="twitter:description" content="前言 即将毕业了，一直以来缺少一台自己的有一定性能的台式机，从五月份开始思考需求，到处爬楼，多次增删，得到以下结果，仅以记之。 需求 ITX台式机"/>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<title>我的 ITX Hackintosh / PC 购买、组装、安装系统心得</title>
+	<link rel="stylesheet" href="https://ladit.me/css/style.min.568c54a56780af2a70c45272522247710b69dbfc080b315211fb98381e3796f8.css" integrity="sha256-VoxUpWeArypwxFJyUiJHcQtp2/wICzFSEfuYOB43lvg=">
+	
+</head>
+
+<body id="page">
+	
+	<header id="site-header" class="animated slideInUp faster">
+		<div class="hdr-wrapper section-inner">
+			<div class="hdr-left">
+				<div class="site-branding">
+					<a href="https://ladit.me">孤岛</a>
+				</div>
+				<nav class="site-nav hide-in-mobile">
+					
+				<a href="https://ladit.me/posts/">文章</a>
+				<a href="https://ladit.me/about/">关于</a>
+
+				</nav>
+			</div>
+			<div class="hdr-right hdr-icons">
+				<button id="toc-btn" class="hdr-btn desktop-only-ib" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-list"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3" y2="6"></line><line x1="3" y1="12" x2="3" y2="12"></line><line x1="3" y1="18" x2="3" y2="18"></line></svg></button><span class="hdr-social hide-in-mobile"><a href="mailto:i@ladit.me" target="_blank" rel="noopener me" title="Email"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg></a><a href="https://github.com/ladit" target="_blank" rel="noopener me" title="Github"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a></span><button id="menu-btn" class="hdr-btn" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button>
+			</div>
+		</div>
+	</header>
+	<div id="mobile-menu" class="animated fast">
+		<ul>
+			<li><a href="https://ladit.me/posts/">文章</a></li>
+			<li><a href="https://ladit.me/about/">关于</a></li>
+		</ul>
+	</div>
+
+
+	<main class="site-main section-inner animated fadeIn faster">
+		<article class="thin">
+			<header class="post-header">
+				<div class="post-meta"><span>Jul 11, 2019</span></div>
+				<h1>我的 ITX Hackintosh / PC 购买、组装、安装系统心得</h1>
+			</header>
+			<div class="content">
+				
+
+<h2 id="前言">前言<a href="#前言" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>即将毕业了，一直以来缺少一台自己的有一定性能的台式机，从五月份开始思考需求，到处爬楼，多次增删，得到以下结果，仅以记之。</p>
+
+<h2 id="需求">需求<a href="#需求" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<ul>
+<li>ITX台式机</li>
+<li>甜品级性能</li>
+<li>较久的使用寿命，极少的更换、升级、维修可能，未来直接配新的电脑</li>
+<li>Hackintosh</li>
+<li>Windows</li>
+<li>很少大于3A的游戏需求</li>
+<li>尽量无光污染</li>
+</ul>
+
+<h2 id="配置单">配置单<a href="#配置单" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>名称</th>
+<th>价格</th>
+<th>平台</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>CPU</td>
+<td>英特尔i7 8700散片</td>
+<td>1789</td>
+<td>淘宝</td>
+</tr>
+
+<tr>
+<td>主板</td>
+<td>玩家国度（REPUBLIC OF GAMERS）ROG STRIX Z390-I GAMING 主板（Intel Z390/LGA 1151）</td>
+<td>1809</td>
+<td>京东</td>
+</tr>
+
+<tr>
+<td>显卡</td>
+<td>蓝宝石（Sapphire）RX590 8G D5 超白金极光特别版1545-1560MHz/8000-8400MHz 8GB/256bit GDDR5 DX12显卡</td>
+<td>1399</td>
+<td>京东</td>
+</tr>
+
+<tr>
+<td>内存</td>
+<td>美商海盗船(USCORSAIR)DDR4 3200 16GBX2 台式机内存条 复仇者LPX系列 游戏型</td>
+<td>1078</td>
+<td>京东</td>
+</tr>
+
+<tr>
+<td>散热</td>
+<td>美商海盗船 (USCORSAIR) H100i PRO RGB冷头 一体式CPU水冷散热器 （240MM冷排/2×120磁悬浮风扇/五年质保）</td>
+<td>748</td>
+<td>京东</td>
+</tr>
+
+<tr>
+<td>电源</td>
+<td>【SGPC】海盗船SF600/SF750全模组A4迷你ITX小机箱SFX小电源600w+模组线</td>
+<td>799</td>
+<td>淘宝</td>
+</tr>
+
+<tr>
+<td>macOS系统盘</td>
+<td>WD西部数据 SN750 黑盘 500G PCI-E M.2 NVME固态硬盘SSD</td>
+<td>539</td>
+<td>淘宝</td>
+</tr>
+
+<tr>
+<td>Windows系统盘</td>
+<td>WD西部数据 SN750 黑盘 500G PCI-E M.2 NVME固态硬盘SSD</td>
+<td>539</td>
+<td>淘宝</td>
+</tr>
+
+<tr>
+<td>机箱</td>
+<td>SKTC游戏机箱itx机箱电脑机箱台式全铝钢化玻璃机箱240水冷机箱S02 红色单钢化玻璃（含PCIE延长线）</td>
+<td>517</td>
+<td>京东</td>
+</tr>
+
+<tr>
+<td>Wi-Fi和蓝牙</td>
+<td>博通BCM94352Z 戴尔DW1560 802.11AC无线网卡 ngff接口 黑苹果</td>
+<td>278</td>
+<td>淘宝</td>
+</tr>
+
+<tr>
+<td>显示器（已有）</td>
+<td>Dell U2417H</td>
+<td>0</td>
+<td></td>
+</tr>
+
+<tr>
+<td>DP线</td>
+<td>绿联（UGREEN）DP高清线1.2版 2K*4KDisplayPort公对公接线 笔记本电脑连接显示器视频线支持戴尔1.5米 10245</td>
+<td>45</td>
+<td>京东</td>
+</tr>
+
+<tr>
+<td>总计</td>
+<td></td>
+<td>9540</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="为什么这么选">为什么这么选<a href="#为什么这么选" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<h3 id="cpu">CPU<a href="#cpu" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<p>我的CPU选择标准/理由：</p>
+
+<ul>
+<li>适合Hackintosh，目前Intel更方便</li>
+<li>ITX散热性能较差，不超频</li>
+<li>少于2000元的预算，感觉超过2000元的产品价格和能耗都提升了一个档次</li>
+</ul>
+
+<p>本来选择的是i5-9600K，但是根据朋友建议和<a href="https://cpu.userbenchmark.com/Compare/Intel-Core-i7-8700-vs-Intel-Core-i5-9600K/3940vs4031">这个对比</a>，放弃10%左右的单核性能提升，选择无超频、低TDP、多核多线程更强的i7-8700。两者差别其实不是很大，可以根据价格决定。</p>
+
+<h3 id="主板">主板<a href="#主板" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<p>选择ROG STRIX Z390-I是因为：</p>
+
+<ul>
+<li>Z370和Z390系列较新，且适合Hackintosh，DP/HDMI/DVI核显输出黑屏概率低</li>
+<li>需要ITX版型</li>
+<li>tonymacx86中的大部分新帖子都是Z390，适合参考</li>
+<li>相比华擎同款，没有我不需要的PS/2接口、半速Thunderbolt接口，且自带Wi-Fi天线</li>
+</ul>
+
+<p>缺点是性价比低，海淘性价比较高，但无保修。</p>
+
+<h3 id="显卡">显卡<a href="#显卡" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<ul>
+<li>Nvdia显卡不易驱动，考虑AMD，macOS可以直接驱动RX590</li>
+<li>蓝宝石适合Hackintosh，稳定</li>
+<li>不那么高的性能需求</li>
+<li>Vega56价格、能耗高，ITX机箱限制</li>
+</ul>
+
+<h3 id="内存">内存<a href="#内存" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<ul>
+<li>降价非常明显，尽量一步到位（2x16GB）</li>
+<li>不需要灯光</li>
+<li>3200MHz和其他频率的产品价格差别不大</li>
+<li>尽量套条</li>
+</ul>
+
+<h3 id="散热">散热<a href="#散热" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<p>ITX机箱对风冷限高比较严格，找来找去没有发现特别适合的方案，又发现SKTC S02这款机箱支持240一体式水冷，于是考虑使用水冷。不需要光，京东按销量排序，选中了这款，虽然有点贵，但有5年质保和2400RPM的风扇转速和75CFM的风量，压制i5-9600K或i7-8700应该都可以。</p>
+
+<h3 id="电源">电源<a href="#电源" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<ul>
+<li>ITX机箱要求SFX</li>
+<li>显卡推荐电源600W以上</li>
+</ul>
+
+<p>京东按上面条件搜索，比较合适的就是海盗船这款和EVGA的一款，爬楼时发现大量ITX装机都使用海盗船这款，在淘宝某家店发现带定制线还比京东更便宜（SF600的原装线非常硬）。</p>
+
+<h3 id="硬盘">硬盘<a href="#硬盘" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<ul>
+<li>双系统，双硬盘，不分区</li>
+<li>macOS主要是日常使用，Windows主要是游戏，各500GB应该可以满足我的需求</li>
+<li>由上面两条，不需要机械硬盘</li>
+</ul>
+
+<p>根据下图和Hackintosh硬件推荐，SN750应该是近期性价比最高（淘宝）的NVMe SSD。</p>
+
+<p><img src="http://spider.ws.126.net/5c1b0b595fff3e8a61bf0fc454bde3d1.jpeg" alt="SSD对比" /></p>
+
+<h3 id="机箱">机箱<a href="#机箱" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<p>机箱来回挑选了很久，大概的需求是：</p>
+
+<ul>
+<li>能放下显卡</li>
+<li>只需要ITX版型</li>
+<li>只需要SFX大小的电源</li>
+<li>散热、做工不错</li>
+</ul>
+
+<p>这样得出的结果大致是10升的A4机箱，需要显卡转接线，市面上有许多产品。</p>
+
+<p>国外论坛上的SFF Build帖子大多是用Ghost S1、Dan Case之类的A4机箱，但这些需要转运并且特别贵。也有老外在淘宝买然后转运出去的。然后自己在淘宝搜也是一头雾水。B站up主 @玩笑笑笑笑笑 的视频<a href="https://www.bilibili.com/video/av51769793">[B站最详细]ITX装机指南(收录25款散热器&amp;98款机箱)</a>使我对ITX机箱有了比较清晰的认识，大致对比了一下选择了SKTC S02这款，红色的颜值还是挺舒服的。</p>
+
+<p>另外一提，银河W1非常好看，适合经济宽裕动手能力强的人入手。</p>
+
+<h3 id="wi-fi和蓝牙卡">Wi-Fi和蓝牙卡<a href="#wi-fi和蓝牙卡" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<p>Wi-Fi、蓝牙、Handoff和Airdrop功能需要合适的无线网卡，根据<a href="https://osxlatitude.com/forums/topic/11138-inventory-of-supportedunsupported-wireless-cards-2-sierra-catalina/">这个列表</a>和<a href="https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/">这个帖子</a>，ROG STRIX Z390-I这块主板可以把M.2 Intel网卡替换成DW1560，但淘宝的DW1560溢价太严重，有的还断货，根据<a href="https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojave/">这个帖子</a>，DW1820A某些型号也是可以的，需要额外驱动，淘宝的售价是DW1560的五分之一。</p>
+
+<p>尝试DW1820A后发现此卡非常不稳定，会出现卡顿、无法连接的现象，尝试了多种驱动方式也无效。根据帖子的信息，贴纸上标记的料号似乎也不符合软件查看的<code>subsystem-id</code>，怀疑店家贴了标签，遂退货，入手278元的DW1560，十分稳定。</p>
+
+<h2 id="组装">组装<a href="#组装" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>第一次组装ITX，实在非常困难，螺丝、组件、线材、机箱都非常小，排列紧凑。</p>
+
+<p>建议使用DP接口以避免图形问题。</p>
+
+<p>对于这些零件（机箱、主板、水冷、电源、显卡）的配合，我建议的安装顺序是：</p>
+
+<ul>
+<li>打开机箱前后上外壳</li>
+<li>安装主板背部水冷支架</li>
+<li>插入内存</li>
+<li>更换DW1560</li>
+<li>安装电源</li>
+<li>安装显卡：显卡延长线从显卡底部连接，180度弯折绕到显卡背部和中板之间，伸到顶部，180度弯折绕过中板顶部以连接到主板，插入8+6pin电源，注意电源线和第二次弯折的显卡延长线不能太高，防止碰到冷排</li>
+<li>合上显卡侧机箱外壳</li>
+<li>安装风扇到冷排，安装冷排到机箱，合上机箱上外壳</li>
+<li>安装主板、水冷头、剩余接线。此时要注意走线，我的做法是把风扇线、水冷管、机箱USB3线、电源按钮跳线等需要绕的线都塞在电源、主板、中板间的区域；把电源按钮跳线、水冷头USB2线穿过显卡延长线再接</li>
+<li>合上主板侧机箱外壳</li>
+</ul>
+
+<h3 id="更换dw1560流程-来自帖子">更换DW1560流程（来自帖子）<a href="#更换dw1560流程-来自帖子" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<p>卸下主板背部固定灰色马甲的4个黑色螺丝。取下散热器并放在一边</p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-MB%20Screws.jpg" alt="MB Screws.jpg" /></p>
+
+<p>卸下主板背部固定WiFi模块的2个银色螺丝
+将固定IO挡板的弹簧夹掰开取下，别担心，它的铰链结构不会弯曲</p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-Clip.jpg" alt="Clip.jpg" /></p>
+
+<p>将IO挡板取下，小心地将M.2 Wi-Fi模块向上拉出</p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-Module.jpg" alt="Module.jpg" /></p>
+
+<p>卸下模块侧面固定螺丝</p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-Sidescrew.jpg" alt="Sidescrew.jpg" /></p>
+
+<p>向上滑动前盖并将其完全取下，您可能需要稍微拆下后贴纸</p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-Cover.jpg" alt="Cover.jpg" /></p>
+
+<p>小心卸下两条天线，上面的天线连接的是左边的接口</p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-board.jpg" alt="board.jpg" /></p>
+
+<p>拧开固定螺丝，取下旧模块，小心不要撕破小海绵垫片，换上新模块并装上螺丝
+小心连接天线，连接头不好安装，确保它们咔哒一声到位，不要太大力，防止压碎它们
+反向重复该过程，装回主板。</p>
+
+<h3 id="最终成果">最终成果<a href="#最终成果" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0177.jpg" alt="IMG_0177.jpg" /></p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0178.jpg" alt="IMG_0178.jpg" /></p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0179.jpg" alt="IMG_0179.jpg" /></p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0180.jpg" alt="IMG_0180.jpg" /></p>
+
+<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0181.jpg" alt="IMG_0181.jpg" /></p>
+
+<h2 id="hackintosh安装">Hackintosh安装<a href="#hackintosh安装" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>主要参考了<a href="https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/">The everything works Asus Z390-I Gaming * i7-8700K * Sapphire RX580 Pulse build| tonymacx86.com</a>这个帖子。</p>
+
+<h3 id="前置准备">前置准备<a href="#前置准备" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<ul>
+<li>一台可用的Mac（使用Windows PC的话需要参考网上其他教程，配置iCloud的部分可能要在Hackintosh上做）</li>
+<li>一个8GB或更大的U盘</li>
+<li>待安装的Hackintosh机器</li>
+<li>下载，解压缩，安装<a href="https://mackie100projects.altervista.org/download/ccg/">Clover Configurator</a>。在制作安装U盘过程中用来配置iCloud等，在安装完成后用来在Hackintosh上挂载EFI分区，所以在Mac和待安装的Hackintosh机器上都要安装</li>
+</ul>
+
+<h3 id="制作安装u盘">制作安装U盘<a href="#制作安装u盘" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<ul>
+<li>在Mac中插入8GB或更大的U盘</li>
+<li>打开<code>/Applications/Utilities/Disk Utility.app</code>并在左侧面板中选择U盘</li>
+<li>点击“抹掉”按钮</li>
+<li>命名U盘，可以稍后重命名</li>
+<li>格式：选择OS X Extended（Journaled）</li>
+<li>Scheme：选择GUID Partition Map</li>
+<li>单击“擦除”然后“完成”</li>
+<li>下载<a href="https://www.tonymacx86.com/resources/unibeast-9-2-0-mojave.426/download">Unibast for Mojave</a>（tonymacx86当前可能不能上，我使用tw线路可以上，也可以找找镜像或选择手动命令行制作）</li>
+<li>从应用商店下载Mojave安装程序</li>
+<li>运行UniBeast并选择U盘，Mojave安装程序和UEFI。将其他所有内容留空，然后单击继续以创建安装程序。这可能需要很长时间，所以要耐心等待</li>
+<li>下载<a href="https://github.com/ladit/hackintosh/tree/master/EFI">提供的EFI</a>并替换U盘EFI分区中的EFI文件夹，双击使用Clover Configurator打开U盘EFI分区下的<code>/EFI/CLOVER/config.plist</code></li>
+<li>单击Clover Configurator 左侧的SMBIOS</li>
+<li>单击System下的Serial Number右侧的Generate New</li>
+<li>点击右侧iMac图片下的Check Coverage</li>
+<li>你将被带到苹果网站，输入验证码，如果出现以下消息，说明序列号是有效的，否则重新Generate New</li>
+</ul>
+
+<blockquote>
+<blockquote>
+<p>很抱歉，此序列号无效。请检查您的信息，然后再试一次。</p>
+</blockquote>
+</blockquote>
+
+<ul>
+<li>一旦你得到一个有效的序列号，点击SmUUID右侧的Generate New，将iMac图片左侧的Board Serial Number复制到左边Rt Variables中的MLB栏，点击左下角第二个按钮保存配置，弹出U盘</li>
+</ul>
+
+<h3 id="bios设置">BIOS设置<a href="#bios设置" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<ul>
+<li>开机，按Delete进入BIOS</li>
+<li>更新BIOS</li>
+<li>将BIOS恢复到默认设置</li>
+<li>在左侧主屏幕中，将XMP设置为“enabled”</li>
+<li>Advanced Items &gt; CPU Configuration &gt; Intel (VMX) Virtualization Technology &gt; Enable - 打开虚拟化支持</li>
+<li>Advanced Items &gt; System Agent (SA) Graphics Configuration &gt; Primary Display &gt; PEG (如果使用集显，设为auto)</li>
+<li>Advanced Items &gt; System Agent (SA) Graphics Configuration &gt; IGPU Multi-Monitor &gt; 独显：Enabled，集显：Disabled</li>
+<li>保存并重启到BIOS</li>
+<li>Advanced Items &gt; System Agent (SA) Graphics Configuration &gt; RC6(Render Standby) &gt; Off</li>
+<li>Advanced Items &gt; System Agent (SA) Configuration &gt; Above 4G Decoding &gt; Enable</li>
+<li>Advanced Items &gt; System Agent (SA) Graphics Configuration &gt; DVMT Pre-Allocated &gt; 128M</li>
+<li>Advanced Items &gt; USB Configuration &gt; Legacy USB Support &gt; Disabled</li>
+<li>Advanced Items &gt; USB Configuration &gt; XHCI Hand Off &gt; Enabled</li>
+<li>保存并重启</li>
+</ul>
+
+<p>一些其他可选设置：</p>
+
+<p>Boot&gt; Boot Configuration&gt; Boot Logo Display&gt; Disabled
+Boot&gt; Boot Configuration&gt; Post Report&gt; 1 Sec
+Boot &gt; Setup Mode &gt; Advanced</p>
+
+<p>保存BIOS设置：</p>
+
+<p>Tools &gt; Asus User Profile &gt; Profile Name &gt; Mac
+Tools &gt; Asus User Profile &gt; Save to Profile &gt; 1</p>
+
+<h3 id="安装系统">安装系统<a href="#安装系统" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<ul>
+<li>将安装U盘插入待安装的机器，从Clover菜单中启动并选择Installer作为启动盘，安装系统，过程中将多次重启，在Clover中选择从本地磁盘启动就可以继续。建议进入系统后再登录iCloud</li>
+<li>下载，解压缩，安装<a href="https://mackie100projects.altervista.org/download/ccg/">Clover Configurator</a></li>
+<li>单击工具下的Mount EFI，挂载U盘和本地磁盘的EFI分区，用U盘的EFI文件夹替换本地磁盘的EFI文件夹</li>
+<li>重新启动进入BIOS，设置本地磁盘为第一引导顺序</li>
+
+<li><p>启动并检查以下项目是否正常运行：</p></li>
+
+<li><p>Continuity:</p>
+
+<ul>
+<li>Handoff</li>
+<li>iMessage</li>
+<li>Continuity Camera</li>
+<li>Universal Clipboard</li>
+<li>Instant Hotspot</li>
+<li>Air Drop</li>
+<li>iPhone Cellular Calls</li>
+<li>Auto Unlock</li>
+<li>Apple Pay​</li>
+</ul></li>
+
+<li><p>Sleep (fans and RGB LEDs included)</p></li>
+
+<li><p>Power Nap (sleep with background operations such as Time Machine)</p></li>
+
+<li><p>Wake</p></li>
+
+<li><p>CPU frequency tuning</p></li>
+
+<li><p>H264/HEVC hardware encoding and decoding</p></li>
+
+<li><p>Audio (select internal speakers)</p></li>
+
+<li><p>Ethernet</p></li>
+
+<li><p>Bluetooth</p></li>
+
+<li><p>WiFi</p></li>
+
+<li><p>All USB and USB 3.1 ports</p></li>
+
+<li><p>Function keys(such as brightness or volume)</p></li>
+
+<li><p>Nightshift (no kexts required)</p></li>
+</ul>
+
+<p>如果还有一些USB或睡眠相关的问题，原帖还提供了SSDT修复文件，置于<code>/EFI/CLOVER/ACPI/patched</code>下。</p>
+
+<h3 id="成果">成果<a href="#成果" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<p>完美运行：</p>
+
+<ul>
+<li>Continuity:
+
+<ul>
+<li>Handoff</li>
+<li>iMessage</li>
+<li>Continuity Camera</li>
+<li>Universal Clipboard</li>
+<li>Instant Hotspot</li>
+<li>Air Drop</li>
+<li>iPhone Cellular Calls</li>
+<li>Auto Unlock</li>
+</ul></li>
+<li>Sleep (fans and RGB LEDs included)</li>
+<li>Power Nap (sleep with background operations such as Time Machine)</li>
+<li>Wake</li>
+<li>CPU frequency tuning</li>
+<li>H264/HEVC hardware encoding and decoding</li>
+<li>Audio (select internal speakers)</li>
+<li>Ethernet</li>
+<li>Bluetooth</li>
+<li>WiFi</li>
+<li>All USB and USB 3.1 ports</li>
+<li>Nightshift (no kexts required)</li>
+</ul>
+
+<p>无效：</p>
+
+<ul>
+<li>Apple Pay​：无硬件</li>
+<li>Function keys(such as brightness or volume)：外接显示器无法调节，但我的IKBC G104按住fn键+F9-F11可以调节音量</li>
+</ul>
+
+<h2 id="windows安装">Windows安装<a href="#windows安装" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>使用另一个U盘刷入PE，装在另一块硬盘即可，Clover会自动检查到启动项。</p>
+
+<h2 id="参考">参考<a href="#参考" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/67807395">【2019年6月】6月份装机走向与推荐</a></li>
+<li><a href="http://bbs.pcbeta.com/viewthread-1799271-1-1.html">macOS Mojave 台式机黑苹果硬件选购指南-远景论坛-微软极客社区</a></li>
+<li><a href="https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/">The everything works Asus Z390-I Gaming * i7-8700K * Sapphire RX580 Pulse build| tonymacx86.com</a></li>
+<li><a href="http://icyleaf.com/2019/01/itx-coffee-lake-hackintosh-build-for-4k-video-editing/">攒了一台 4K 视频剪辑黑苹果 · icyleaf</a></li>
+<li><a href="http://icyleaf.com/2019/03/asrock-z390-gaming-itx-install-hackintosh-tutorial/">华擎 Z390 Gaming ITX 黑苹果安装教程 · icyleaf</a></li>
+<li><a href="https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojave/">Broadcom BCM4350 cards under High Sierra/Mojave - Wireless and Bluetooth - osxlatitude.com</a></li>
+<li><a href="https://www.tonymacx86.com/">tonymacx86</a></li>
+<li><a href="https://blog.daliansky.net/">黑果小兵的部落阁</a></li>
+</ul>
+
+			</div>
+			<hr class="post-end">
+			<footer class="post-info">
+				<p>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://ladit.me/tags/things">things</a></span><span class="tag"><a href="https://ladit.me/tags/mac">mac</a></span><span class="tag"><a href="https://ladit.me/tags/hackintosh">hackintosh</a></span><span class="tag"><a href="https://ladit.me/tags/pc">pc</a></span><span class="tag"><a href="https://ladit.me/tags/itx">itx</a></span>
+				</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg></p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2019-07-11 11:50 &#43;0800</p>
+			</footer>
+		</article>
+		<aside id="toc">
+			<div class="toc-title"></div>
+			<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#前言">前言</a></li>
+<li><a href="#需求">需求</a></li>
+<li><a href="#配置单">配置单</a></li>
+<li><a href="#为什么这么选">为什么这么选</a>
+<ul>
+<li><a href="#cpu">CPU</a></li>
+<li><a href="#主板">主板</a></li>
+<li><a href="#显卡">显卡</a></li>
+<li><a href="#内存">内存</a></li>
+<li><a href="#散热">散热</a></li>
+<li><a href="#电源">电源</a></li>
+<li><a href="#硬盘">硬盘</a></li>
+<li><a href="#机箱">机箱</a></li>
+<li><a href="#wi-fi和蓝牙卡">Wi-Fi和蓝牙卡</a></li>
+</ul></li>
+<li><a href="#组装">组装</a>
+<ul>
+<li><a href="#更换dw1560流程-来自帖子">更换DW1560流程（来自帖子）</a></li>
+<li><a href="#最终成果">最终成果</a></li>
+</ul></li>
+<li><a href="#hackintosh安装">Hackintosh安装</a>
+<ul>
+<li><a href="#前置准备">前置准备</a></li>
+<li><a href="#制作安装u盘">制作安装U盘</a></li>
+<li><a href="#bios设置">BIOS设置</a></li>
+<li><a href="#安装系统">安装系统</a></li>
+<li><a href="#成果">成果</a></li>
+</ul></li>
+<li><a href="#windows安装">Windows安装</a></li>
+<li><a href="#参考">参考</a></li>
+</ul></li>
+</ul>
+</nav>
+		</aside>
+		<div class="post-nav thin">
+			<a class="next-post" href="https://ladit.me/posts/macos-docker-vagrant-development-environment/">
+				<span class="post-nav-label"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-left"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>&nbsp;</span><br><span>macOS Docker/Vagrant 开发环境</span>
+			</a>
+			<a class="prev-post" href="https://ladit.me/posts/mac-app-auto-backup/">
+				<span class="post-nav-label">&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span><br><span>Mac App 列表定时备份脚本</span>
+			</a>
+		</div>
+		<div id="comments" class="thin">
+<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "ladit" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+	</main>
+
+	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+		<p>&copy; 2019 <a href="https://ladit.me">Ladit</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+		<p>
+			Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a> &#183; <a href="https://ladit.me/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
+		</p>
+	</footer>
+
+
+	<script src="https://ladit.me/js/main.min.35ccbf1cdceb91e4c64c06b5d009d6e2977fafe56beda7762febd4e67528d2ac.js" integrity="sha256-Ncy/HNzrkeTGTAa10AnW4pd/r+Vr7ad2L+vU5nUo0qw="></script>
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-143732051-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+</body>
+
+</html>
