@@ -4,7 +4,7 @@
 		<link>https://ladit.me/posts/</link>
 		<description>Recent content in Posts on 孤岛</description>
 		<generator>Hugo -- gohugo.io</generator>
-		<language>zh-cn</language>
+		<language>zh-hans</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Thu, 11 Jul 2019 18:00:00 +0800</lastBuildDate>
 		<atom:link href="https://ladit.me/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -22,7 +22,7 @@
 
 <p>以下分享一些我使用的 Chrome 拓展。</p>
 
-<h2 id="better-onetab-https-chrome-google-com-webstore-detail-better-onetab-eookhngofldnbnidjlbkeecljkfpmfpg"><a href="https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg">better-onetab</a></h2>
+<h2 id="better-onetab-https-chrome-google-com-webstore-detail-better-onetab-eookhngofldnbnidjlbkeecljkfpmfpg"><a href="https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg" target="_blank">better-onetab</a></h2>
 
 <p>拯救你挤得满满的 tab 列表和内存，OneTab 的功能增强版，<del>还在持续迭代开发中，有一些不舒服的地方但是已经挺好用的了</del>。更新迟滞但值得一用。我将这个工具作为书签和 tab 列表的一个缓存，既可以用来排序和筛选你打开的那么多 tab 中想要的那些，暂存剩下的，也可以对那些食之无味弃之可惜的网址先做缓存，后续再决定要不要放进书签/知识管理工具。</p>
 
@@ -35,75 +35,75 @@
 <li>所有窗口的 tab</li>
 </ul>
 
-<h2 id="cookies获取助手-https-chrome-google-com-webstore-detail-cookies-get-assistant-ljjpkibacifkfolehlgaolibbnlapkme"><a href="https://chrome.google.com/webstore/detail/cookies-get-assistant/ljjpkibacifkfolehlgaolibbnlapkme">Cookies获取助手</a></h2>
+<h2 id="cookies获取助手-https-chrome-google-com-webstore-detail-cookies-get-assistant-ljjpkibacifkfolehlgaolibbnlapkme"><a href="https://chrome.google.com/webstore/detail/cookies-get-assistant/ljjpkibacifkfolehlgaolibbnlapkme" target="_blank">Cookies获取助手</a></h2>
 
-<p>配合 <a href="http://qiandao.today">http://qiandao.today</a> （各种网站自动签到）使用的 cookie 获取工具。</p>
+<p>配合 <a href="http://qiandao.today" target="_blank">http://qiandao.today</a> （各种网站自动签到）使用的 cookie 获取工具。</p>
 
-<h2 id="enhanced-steam-https-chrome-google-com-webstore-detail-enhanced-steam-okadibdjfemgnhjiembecghcbfknbfhg"><a href="https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg">Enhanced Steam</a></h2>
+<h2 id="enhanced-steam-https-chrome-google-com-webstore-detail-enhanced-steam-okadibdjfemgnhjiembecghcbfknbfhg"><a href="https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg" target="_blank">Enhanced Steam</a></h2>
 
 <p>Steam web 增强，买的少就上的少，上的少这个拓展就用得少。</p>
 
-<h2 id="enpass-password-manager-https-chrome-google-com-webstore-detail-enpass-password-manager-kmcfomidfpdkfieipokbalgegidffkal"><a href="https://chrome.google.com/webstore/detail/enpass-password-manager/kmcfomidfpdkfieipokbalgegidffkal">Enpass Password Manager</a></h2>
+<h2 id="enpass-password-manager-https-chrome-google-com-webstore-detail-enpass-password-manager-kmcfomidfpdkfieipokbalgegidffkal"><a href="https://chrome.google.com/webstore/detail/enpass-password-manager/kmcfomidfpdkfieipokbalgegidffkal" target="_blank">Enpass Password Manager</a></h2>
 
 <p>配合 Enpass 的自动密码填充拓展。</p>
 
-<h2 id="google-keep-chrome-扩展程序-https-chrome-google-com-webstore-detail-google-keep-chrome-extens-lpcaedmchfhocbbapmcbpinfpgnhiddi"><a href="https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi">Google Keep Chrome 扩展程序</a></h2>
+<h2 id="google-keep-chrome-扩展程序-https-chrome-google-com-webstore-detail-google-keep-chrome-extens-lpcaedmchfhocbbapmcbpinfpgnhiddi"><a href="https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi" target="_blank">Google Keep Chrome 扩展程序</a></h2>
 
 <p>Google 出品的快捷跳转到 Google Keep 和新建 Keep 的工具。</p>
 
-<h2 id="history-master-https-chrome-google-com-webstore-detail-history-master-mkfgjjeggnmkbobjmelbjhdchcoadnin"><a href="https://chrome.google.com/webstore/detail/history-master/mkfgjjeggnmkbobjmelbjhdchcoadnin">History Master</a></h2>
+<h2 id="history-master-https-chrome-google-com-webstore-detail-history-master-mkfgjjeggnmkbobjmelbjhdchcoadnin"><a href="https://chrome.google.com/webstore/detail/history-master/mkfgjjeggnmkbobjmelbjhdchcoadnin" target="_blank">History Master</a></h2>
 
 <p>可视化你的浏览历史，掌握你的浏览习惯。</p>
 
-<h2 id="https-everywhere-https-chrome-google-com-webstore-detail-https-everywhere-gcbommkclmclpchllfjekcdonpmejbdp"><a href="https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp">HTTPS Everywhere</a></h2>
+<h2 id="https-everywhere-https-chrome-google-com-webstore-detail-https-everywhere-gcbommkclmclpchllfjekcdonpmejbdp"><a href="https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp" target="_blank">HTTPS Everywhere</a></h2>
 
 <p>对一切支持 https 却没有使用 https/自动跳转的资源，使用 https 来访问。可能导致一些 bug，例如某些网站 / 资源可以通过 https 访问，但事实上无法加载，丢失样式的状况可能是这个拓展导致的。</p>
 
-<h2 id="markdown-preview-plus-https-chrome-google-com-webstore-detail-markdown-preview-plus-febilkbfcbhebfnokafefeacimjdckgl"><a href="https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl">Markdown Preview Plus</a></h2>
+<h2 id="markdown-preview-plus-https-chrome-google-com-webstore-detail-markdown-preview-plus-febilkbfcbhebfnokafefeacimjdckgl"><a href="https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl" target="_blank">Markdown Preview Plus</a></h2>
 
-<p>格式化 Chrome 中打开的本地 Markdown 等文本文件，可以配合 Chrome 的导出 pdf 功能。推荐使用这个样式 <a href="https://github.com/zhangjikai/markdown-css/blob/master/markdown.min.css">https://github.com/zhangjikai/markdown-css/blob/master/markdown.min.css</a> 。</p>
+<p>格式化 Chrome 中打开的本地 Markdown 等文本文件，可以配合 Chrome 的导出 pdf 功能。推荐使用这个样式 <a href="https://github.com/zhangjikai/markdown-css/blob/master/markdown.min.css" target="_blank">https://github.com/zhangjikai/markdown-css/blob/master/markdown.min.css</a> 。</p>
 
-<h2 id="momentum-https-chrome-google-com-webstore-detail-momentum-laookkfknpbbblfpciffpaejjkokdgca"><a href="https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca">Momentum</a></h2>
+<h2 id="momentum-https-chrome-google-com-webstore-detail-momentum-laookkfknpbbblfpciffpaejjkokdgca"><a href="https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca" target="_blank">Momentum</a></h2>
 
 <p><img src="https://ladit-me-1251731554.cosgz.myqcloud.com/2016/03/3208928786.png" alt="Momentum.png" /></p>
 
 <p>Momentum 好像最初是在知乎上看到的吧，用优雅、美观、赏心悦目、轻量便携来形容它再适合不过。这款新标签页拓展每日自动更换壁纸，附带可自定义显示的 To-Do、天气、名言、快速访问、搜索、时间等插件。</p>
 
-<h2 id="pdf-viewer-https-chrome-google-com-webstore-detail-pdf-viewer-oemmndcbldboiebfnladdacbdfmadadm"><a href="https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm">PDF Viewer</a></h2>
+<h2 id="pdf-viewer-https-chrome-google-com-webstore-detail-pdf-viewer-oemmndcbldboiebfnladdacbdfmadadm"><a href="https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm" target="_blank">PDF Viewer</a></h2>
 
 <p>替代 Chrome 默认的 pdf 预览功能，提供 toc 跳转、旋转、查看属性等增强功能，效能很高，但 Chrome 默认的其实也够用。</p>
 
-<h2 id="proxy-switchyomega-https-chrome-google-com-webstore-detail-proxy-switchyomega-padekgcemlokbadohgkifijomclgjgif"><a href="https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif">Proxy SwitchyOmega</a></h2>
+<h2 id="proxy-switchyomega-https-chrome-google-com-webstore-detail-proxy-switchyomega-padekgcemlokbadohgkifijomclgjgif"><a href="https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif" target="_blank">Proxy SwitchyOmega</a></h2>
 
 <p>Proxy SwitchyOmega 原来叫 SwitchySharp ，在 Chrome 中管理你的网络连接。快速添加代理规则（支持通配符与正则等）是不可替代的功能，多种代理设置使 burp 代理和普通代理/直连切换更简便。我从 Goagent 时代开始使用它，可通过不同的代理和规则设置，达到较理想的上网体验。支持全局、PAC 或自动切换的 HTTP、HTTPS、SOCKS4、SOCKS5 代理。某个版本开始支持规则在线同步，这样一来所有的设备中的 Chrome 只要安装了这款拓展并登录 Google 账号便可享受一致的网络体验。</p>
 
-<h2 id="simpleundoclose-https-chrome-google-com-webstore-detail-simpleundoclose-emhohdghchmjepmigjojkehidlielknj"><a href="https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj">SimpleUndoClose</a></h2>
+<h2 id="simpleundoclose-https-chrome-google-com-webstore-detail-simpleundoclose-emhohdghchmjepmigjojkehidlielknj"><a href="https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj" target="_blank">SimpleUndoClose</a></h2>
 
 <p><img src="https://ladit-me-1251731554.cosgz.myqcloud.com/2016/03/1329613859.png" alt="SimpleUndoClose.png" /></p>
 
 <p>SimpleUndoClose 在哪里发现的已经不记得了。是一款简单便携的历史纪录保存/快速恢复的拓展，麻雀虽小五脏俱全，提供了丰富的自定义功能：保存标签数、宽度、行数等等。相比 Ctrl+H 调出 Chrome 的历史纪录并等待加载人性化得多。</p>
 
-<h2 id="stylus-https-chrome-google-com-webstore-detail-stylus-clngdbkpkpeebahjckkjfobafhncgmne"><a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">Stylus</a></h2>
+<h2 id="stylus-https-chrome-google-com-webstore-detail-stylus-clngdbkpkpeebahjckkjfobafhncgmne"><a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne" target="_blank">Stylus</a></h2>
 
 <p>Stylus 是被爆出隐私问题的 Stylish 的替代品，支持自定义所有网页的 CSS 样式，解决了 Stylish 的中文支持的问题。</p>
 
-<p>在 Windows 10 以前微软系统的字体惨不忍睹，替代字体 + Mactype + Cleartype 似乎都很难解决这个问题。而 Chrome 网页中的字体又是由它自己决定的，因而卡饭（ <a href="http://bbs.kafan.cn/thread-1681393-1-1.html">http://bbs.kafan.cn/thread-1681393-1-1.html</a> ）有人以冬青黑体、思源黑体、XHei 等字体替换显示，以提高美感，而在 Windows 10 以后，似乎改观许多，可以考虑使用替代字体（<a href="https://www.zhihu.com/question/33886879">https://www.zhihu.com/question/33886879</a> 下 @Belleve 的答案）+ Mactype + Cleartype 的方案。在 Mac 下就不用替换了。</p>
+<p>在 Windows 10 以前微软系统的字体惨不忍睹，替代字体 + Mactype + Cleartype 似乎都很难解决这个问题。而 Chrome 网页中的字体又是由它自己决定的，因而卡饭（ <a href="http://bbs.kafan.cn/thread-1681393-1-1.html" target="_blank">http://bbs.kafan.cn/thread-1681393-1-1.html</a> ）有人以冬青黑体、思源黑体、XHei 等字体替换显示，以提高美感，而在 Windows 10 以后，似乎改观许多，可以考虑使用替代字体（<a href="https://www.zhihu.com/question/33886879" target="_blank">https://www.zhihu.com/question/33886879</a> 下 @Belleve 的答案）+ Mactype + Cleartype 的方案。在 Mac 下就不用替换了。</p>
 
-<p>除了<a href="https://userstyles.org/styles/100473/004-forcemyfonts-chinese-firefoxchromeie-catcat520">字体替换</a>这个场景，我还使用了 <a href="https://userstyles.org">https://userstyles.org</a> 上许多其他样式：</p>
+<p>除了<a href="https://userstyles.org/styles/100473/004-forcemyfonts-chinese-firefoxchromeie-catcat520" target="_blank">字体替换</a>这个场景，我还使用了 <a href="https://userstyles.org" target="_blank">https://userstyles.org</a> 上许多其他样式：</p>
 
 <ul>
-<li><a href="http://userstyles.org/styles/123858">Baidu Lite 百度轻</a></li>
-<li><a href="http://userstyles.org/styles/124770">Tieba - Maverick 2018 [百度贴吧]</a></li>
-<li><a href="http://userstyles.org/styles/140593">w3school 简约样式</a></li>
-<li><a href="http://userstyles.org/styles/135468">百度文库-屏蔽</a></li>
-<li><a href="http://userstyles.org/styles/130739">百度百科-屏蔽和优化</a></li>
-<li><a href="http://userstyles.org/styles/130901">百度知道-屏蔽与排版</a></li>
-<li><a href="http://userstyles.org/styles/132605">百度经验-屏蔽和优化</a></li>
+<li><a href="http://userstyles.org/styles/123858" target="_blank">Baidu Lite 百度轻</a></li>
+<li><a href="http://userstyles.org/styles/124770" target="_blank">Tieba - Maverick 2018 [百度贴吧]</a></li>
+<li><a href="http://userstyles.org/styles/140593" target="_blank">w3school 简约样式</a></li>
+<li><a href="http://userstyles.org/styles/135468" target="_blank">百度文库-屏蔽</a></li>
+<li><a href="http://userstyles.org/styles/130739" target="_blank">百度百科-屏蔽和优化</a></li>
+<li><a href="http://userstyles.org/styles/130901" target="_blank">百度知道-屏蔽与排版</a></li>
+<li><a href="http://userstyles.org/styles/132605" target="_blank">百度经验-屏蔽和优化</a></li>
 </ul>
 
 <p>事实上，我现在把这些样式都作为 js 脚本，利用 Tampermonkey 注入，并禁用了 Stylus。</p>
 
-<h2 id="tampermonkey-https-chrome-google-com-webstore-detail-tampermonkey-dhdgffkkebhmkfjojejmpbldmpobfkfo"><a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a></h2>
+<h2 id="tampermonkey-https-chrome-google-com-webstore-detail-tampermonkey-dhdgffkkebhmkfjojejmpbldmpobfkfo"><a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank">Tampermonkey</a></h2>
 
 <p>用户脚本神器，使不可能变成可能。</p>
 
@@ -122,42 +122,42 @@
 <tbody>
 <tr>
 <td>Tieba - Maverick 2018 百度贴吧</td>
-<td><a href="https://userstyles.org/styles/124770">https://userstyles.org/styles/124770</a></td>
+<td><a href="https://userstyles.org/styles/124770" target="_blank">https://userstyles.org/styles/124770</a></td>
 </tr>
 
 <tr>
 <td>V2EX 扁平暗黑风主题</td>
-<td><a href="https://userstyles.org/styles/165969">https://userstyles.org/styles/165969</a></td>
+<td><a href="https://userstyles.org/styles/165969" target="_blank">https://userstyles.org/styles/165969</a></td>
 </tr>
 
 <tr>
 <td>Hacker News Readable</td>
-<td><a href="https://userstyles.org/styles/133201">https://userstyles.org/styles/133201</a></td>
+<td><a href="https://userstyles.org/styles/133201" target="_blank">https://userstyles.org/styles/133201</a></td>
 </tr>
 
 <tr>
 <td>w3school 简约样式</td>
-<td><a href="https://userstyles.org/styles/140593">https://userstyles.org/styles/140593</a></td>
+<td><a href="https://userstyles.org/styles/140593" target="_blank">https://userstyles.org/styles/140593</a></td>
 </tr>
 
 <tr>
 <td>百度文库-屏蔽</td>
-<td><a href="https://userstyles.org/styles/135468">https://userstyles.org/styles/135468</a></td>
+<td><a href="https://userstyles.org/styles/135468" target="_blank">https://userstyles.org/styles/135468</a></td>
 </tr>
 
 <tr>
 <td>百度百科-屏蔽和优化</td>
-<td><a href="https://userstyles.org/styles/130739">https://userstyles.org/styles/130739</a></td>
+<td><a href="https://userstyles.org/styles/130739" target="_blank">https://userstyles.org/styles/130739</a></td>
 </tr>
 
 <tr>
 <td>百度知道-屏蔽与排版</td>
-<td><a href="https://userstyles.org/styles/130901">https://userstyles.org/styles/130901</a></td>
+<td><a href="https://userstyles.org/styles/130901" target="_blank">https://userstyles.org/styles/130901</a></td>
 </tr>
 
 <tr>
 <td>百度经验-屏蔽和优化</td>
-<td><a href="https://userstyles.org/styles/132605">https://userstyles.org/styles/132605</a></td>
+<td><a href="https://userstyles.org/styles/132605" target="_blank">https://userstyles.org/styles/132605</a></td>
 </tr>
 </tbody>
 </table>
@@ -175,187 +175,187 @@
 <tbody>
 <tr>
 <td>回到顶部/底部</td>
-<td><a href="https://greasyfork.org/scripts/38899">https://greasyfork.org/scripts/38899</a></td>
+<td><a href="https://greasyfork.org/scripts/38899" target="_blank">https://greasyfork.org/scripts/38899</a></td>
 </tr>
 
 <tr>
 <td>Select like opera</td>
-<td><a href="https://github.com/lkytal/GM">https://github.com/lkytal/GM</a></td>
+<td><a href="https://github.com/lkytal/GM" target="_blank">https://github.com/lkytal/GM</a></td>
 </tr>
 
 <tr>
 <td>网页限制解除(改)</td>
-<td><a href="https://greasyfork.org/scripts/28497">https://greasyfork.org/scripts/28497</a></td>
+<td><a href="https://greasyfork.org/scripts/28497" target="_blank">https://greasyfork.org/scripts/28497</a></td>
 </tr>
 
 <tr>
 <td>跳过网站等待、验证码及登录</td>
-<td><a href="https://greasyfork.org/scripts/2600">https://greasyfork.org/scripts/2600</a></td>
+<td><a href="https://greasyfork.org/scripts/2600" target="_blank">https://greasyfork.org/scripts/2600</a></td>
 </tr>
 
 <tr>
 <td>anti-redirect</td>
-<td><a href="https://greasyfork.org/scripts/11915">https://greasyfork.org/scripts/11915</a></td>
+<td><a href="https://greasyfork.org/scripts/11915" target="_blank">https://greasyfork.org/scripts/11915</a></td>
 </tr>
 
 <tr>
 <td>Popup Search</td>
-<td><a href="https://github.com/lkytal/GM">https://github.com/lkytal/GM</a></td>
+<td><a href="https://github.com/lkytal/GM" target="_blank">https://github.com/lkytal/GM</a></td>
 </tr>
 
 <tr>
 <td>searchEngineJump 搜索引擎快捷跳转</td>
-<td><a href="https://greasyfork.org/scripts/27752">https://greasyfork.org/scripts/27752</a></td>
+<td><a href="https://greasyfork.org/scripts/27752" target="_blank">https://greasyfork.org/scripts/27752</a></td>
 </tr>
 
 <tr>
 <td>Userscript+ : 显示当前网站所有可用的UserJS脚本 Jaeger</td>
-<td><a href="https://greasyfork.org/scripts/24508">https://greasyfork.org/scripts/24508</a></td>
+<td><a href="https://greasyfork.org/scripts/24508" target="_blank">https://greasyfork.org/scripts/24508</a></td>
 </tr>
 
 <tr>
 <td>右键在新标签中打开图片时显示最优化图像质量</td>
-<td><a href="https://greasyfork.org/scripts/2312">https://greasyfork.org/scripts/2312</a></td>
+<td><a href="https://greasyfork.org/scripts/2312" target="_blank">https://greasyfork.org/scripts/2312</a></td>
 </tr>
 
 <tr>
 <td>视频网HTML5播放小工具</td>
-<td><a href="https://greasyfork.org/scripts/30545">https://greasyfork.org/scripts/30545</a></td>
+<td><a href="https://greasyfork.org/scripts/30545" target="_blank">https://greasyfork.org/scripts/30545</a></td>
 </tr>
 
 <tr>
 <td>博客阅读美化（去广告 自动全文 简洁）</td>
-<td><a href="https://greasyfork.org/scripts/38842">https://greasyfork.org/scripts/38842</a></td>
+<td><a href="https://greasyfork.org/scripts/38842" target="_blank">https://greasyfork.org/scripts/38842</a></td>
 </tr>
 
 <tr>
 <td>ScriptSource: The Leading Portal for Web Apps YouTube/Quora/Reddit/Discord/+More</td>
-<td><a href="https://greasyfork.org/scripts/38857">https://greasyfork.org/scripts/38857</a></td>
+<td><a href="https://greasyfork.org/scripts/38857" target="_blank">https://greasyfork.org/scripts/38857</a></td>
 </tr>
 
 <tr>
 <td>AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列</td>
-<td><a href="https://greasyfork.org/scripts/14178">https://greasyfork.org/scripts/14178</a></td>
+<td><a href="https://greasyfork.org/scripts/14178" target="_blank">https://greasyfork.org/scripts/14178</a></td>
 </tr>
 
 <tr>
 <td>Google Hit Hider by Domain (Search Filter / Block Sites)</td>
-<td><a href="https://greasyfork.org/scripts/1682">https://greasyfork.org/scripts/1682</a></td>
+<td><a href="https://greasyfork.org/scripts/1682" target="_blank">https://greasyfork.org/scripts/1682</a></td>
 </tr>
 
 <tr>
 <td>Endless Google</td>
-<td><a href="https://openuserjs.org/scripts/tumpio/Endless_Google">https://openuserjs.org/scripts/tumpio/Endless_Google</a></td>
+<td><a href="https://openuserjs.org/scripts/tumpio/Endless_Google" target="_blank">https://openuserjs.org/scripts/tumpio/Endless_Google</a></td>
 </tr>
 
 <tr>
 <td>Google View Image Button</td>
-<td><a href="https://greasyfork.org/scripts/38530">https://greasyfork.org/scripts/38530</a></td>
+<td><a href="https://greasyfork.org/scripts/38530" target="_blank">https://greasyfork.org/scripts/38530</a></td>
 </tr>
 
 <tr>
 <td>GithubDashboardEnhance</td>
-<td><a href="https://greasyfork.org/scripts/33511">https://greasyfork.org/scripts/33511</a></td>
+<td><a href="https://greasyfork.org/scripts/33511" target="_blank">https://greasyfork.org/scripts/33511</a></td>
 </tr>
 
 <tr>
 <td>GitHub file list beautifier</td>
-<td><a href="https://greasyfork.org/scripts/5982">https://greasyfork.org/scripts/5982</a></td>
+<td><a href="https://greasyfork.org/scripts/5982" target="_blank">https://greasyfork.org/scripts/5982</a></td>
 </tr>
 
 <tr>
 <td>GitHub Code Folding</td>
-<td><a href="https://greasyfork.org/scripts/26109">https://greasyfork.org/scripts/26109</a></td>
+<td><a href="https://greasyfork.org/scripts/26109" target="_blank">https://greasyfork.org/scripts/26109</a></td>
 </tr>
 
 <tr>
 <td>GitHub Table of Contents</td>
-<td><a href="https://greasyfork.org/scripts/18344">https://greasyfork.org/scripts/18344</a></td>
+<td><a href="https://greasyfork.org/scripts/18344" target="_blank">https://greasyfork.org/scripts/18344</a></td>
 </tr>
 
 <tr>
 <td>微软文档中英切换</td>
-<td><a href="https://greasyfork.org/scripts/33209">https://greasyfork.org/scripts/33209</a></td>
+<td><a href="https://greasyfork.org/scripts/33209" target="_blank">https://greasyfork.org/scripts/33209</a></td>
 </tr>
 
 <tr>
 <td>MDN 重定向到中文</td>
-<td><a href="https://greasyfork.org/scripts/28412">https://greasyfork.org/scripts/28412</a></td>
+<td><a href="https://greasyfork.org/scripts/28412" target="_blank">https://greasyfork.org/scripts/28412</a></td>
 </tr>
 
 <tr>
 <td>斗鱼熊猫工具箱</td>
-<td><a href="https://greasyfork.org/scripts/29026">https://greasyfork.org/scripts/29026</a></td>
+<td><a href="https://greasyfork.org/scripts/29026" target="_blank">https://greasyfork.org/scripts/29026</a></td>
 </tr>
 
 <tr>
 <td>斗鱼去火箭横幅(贵族弹幕样式&amp;&amp;聊天区域铭牌)</td>
-<td><a href="https://greasyfork.org/scripts/381934">https://greasyfork.org/scripts/381934</a></td>
+<td><a href="https://greasyfork.org/scripts/381934" target="_blank">https://greasyfork.org/scripts/381934</a></td>
 </tr>
 
 <tr>
 <td>豆瓣资源下载大师：1秒搞定豆瓣电影、音乐、图书下载</td>
-<td><a href="https://greasyfork.org/scripts/329484">https://greasyfork.org/scripts/329484</a></td>
+<td><a href="https://greasyfork.org/scripts/329484" target="_blank">https://greasyfork.org/scripts/329484</a></td>
 </tr>
 
 <tr>
 <td>Yet Another Weibo Filter 看真正想看的微博</td>
-<td><a href="https://tiansh.github.io/yawf/">https://tiansh.github.io/yawf/</a></td>
+<td><a href="https://tiansh.github.io/yawf/" target="_blank">https://tiansh.github.io/yawf/</a></td>
 </tr>
 
 <tr>
 <td>贴吧全能助手</td>
-<td><a href="https://greasyfork.org/scripts/26992">https://greasyfork.org/scripts/26992</a></td>
+<td><a href="https://greasyfork.org/scripts/26992" target="_blank">https://greasyfork.org/scripts/26992</a></td>
 </tr>
 
 <tr>
 <td>百度贴吧重定向2019</td>
-<td><a href="https://greasyfork.org/scripts/381995">https://greasyfork.org/scripts/381995</a></td>
+<td><a href="https://greasyfork.org/scripts/381995" target="_blank">https://greasyfork.org/scripts/381995</a></td>
 </tr>
 
 <tr>
 <td>城通网盘、皮皮盘、牛盘显示正确下载地址</td>
-<td><a href="https://greasyfork.org/scripts/25270">https://greasyfork.org/scripts/25270</a></td>
+<td><a href="https://greasyfork.org/scripts/25270" target="_blank">https://greasyfork.org/scripts/25270</a></td>
 </tr>
 
 <tr>
 <td>网盘提取工具</td>
-<td><a href="https://greasyfork.org/scripts/18733">https://greasyfork.org/scripts/18733</a></td>
+<td><a href="https://greasyfork.org/scripts/18733" target="_blank">https://greasyfork.org/scripts/18733</a></td>
 </tr>
 
 <tr>
 <td>闲鱼搜索框+去首图二维码</td>
-<td><a href="https://greasyfork.org/scripts/39161">https://greasyfork.org/scripts/39161</a></td>
+<td><a href="https://greasyfork.org/scripts/39161" target="_blank">https://greasyfork.org/scripts/39161</a></td>
 </tr>
 
 <tr>
 <td>京东自营过滤</td>
-<td><a href="https://greasyfork.org/scripts/33729">https://greasyfork.org/scripts/33729</a></td>
+<td><a href="https://greasyfork.org/scripts/33729" target="_blank">https://greasyfork.org/scripts/33729</a></td>
 </tr>
 
 <tr>
 <td>返利推广链接自动清洗</td>
-<td><a href="https://greasyfork.org/scripts/16772">https://greasyfork.org/scripts/16772</a></td>
+<td><a href="https://greasyfork.org/scripts/16772" target="_blank">https://greasyfork.org/scripts/16772</a></td>
 </tr>
 
 <tr>
 <td>Wallhaven 壁纸网站增强</td>
-<td><a href="https://greasyfork.org/scripts/29444">https://greasyfork.org/scripts/29444</a></td>
+<td><a href="https://greasyfork.org/scripts/29444" target="_blank">https://greasyfork.org/scripts/29444</a></td>
 </tr>
 
 <tr>
 <td>jump2Wikiwand</td>
-<td><a href="https://greasyfork.org/scripts/33223">https://greasyfork.org/scripts/33223</a></td>
+<td><a href="https://greasyfork.org/scripts/33223" target="_blank">https://greasyfork.org/scripts/33223</a></td>
 </tr>
 
 <tr>
 <td>NMacDirectDownload</td>
-<td><a href="https://greasyfork.org/scripts/369453">https://greasyfork.org/scripts/369453</a></td>
+<td><a href="https://greasyfork.org/scripts/369453" target="_blank">https://greasyfork.org/scripts/369453</a></td>
 </tr>
 
 <tr>
 <td>UserscloudDirectDownload</td>
-<td><a href="https://greasyfork.org/scripts/369454">https://greasyfork.org/scripts/369454</a></td>
+<td><a href="https://greasyfork.org/scripts/369454" target="_blank">https://greasyfork.org/scripts/369454</a></td>
 </tr>
 </tbody>
 </table>
@@ -373,62 +373,62 @@
 <tbody>
 <tr>
 <td>空格之王 自動為中英文之間添加一個空格</td>
-<td><a href="https://greasyfork.org/scripts/37950">https://greasyfork.org/scripts/37950</a></td>
+<td><a href="https://greasyfork.org/scripts/37950" target="_blank">https://greasyfork.org/scripts/37950</a></td>
 </tr>
 
 <tr>
 <td>Text To link</td>
-<td><a href="https://github.com/lkytal/GM">https://github.com/lkytal/GM</a></td>
+<td><a href="https://github.com/lkytal/GM" target="_blank">https://github.com/lkytal/GM</a></td>
 </tr>
 
 <tr>
 <td>Scroll with Mouse Plus</td>
-<td><a href="https://github.com/lkytal/GM">https://github.com/lkytal/GM</a></td>
+<td><a href="https://github.com/lkytal/GM" target="_blank">https://github.com/lkytal/GM</a></td>
 </tr>
 
 <tr>
 <td>一键离线下载</td>
-<td><a href="https://greasyfork.org/scripts/22590">https://greasyfork.org/scripts/22590</a></td>
+<td><a href="https://greasyfork.org/scripts/22590" target="_blank">https://greasyfork.org/scripts/22590</a></td>
 </tr>
 
 <tr>
 <td>破解VIP会员视频集合</td>
-<td><a href="https://greasyfork.org/scripts/27530">https://greasyfork.org/scripts/27530</a></td>
+<td><a href="https://greasyfork.org/scripts/27530" target="_blank">https://greasyfork.org/scripts/27530</a></td>
 </tr>
 
 <tr>
 <td>知网下载助手</td>
-<td><a href="https://greasyfork.org/scripts/371938">https://greasyfork.org/scripts/371938</a></td>
+<td><a href="https://greasyfork.org/scripts/371938" target="_blank">https://greasyfork.org/scripts/371938</a></td>
 </tr>
 
 <tr>
 <td>Sci-hub button</td>
-<td><a href="https://greasyfork.org/scripts/370246">https://greasyfork.org/scripts/370246</a></td>
+<td><a href="https://greasyfork.org/scripts/370246" target="_blank">https://greasyfork.org/scripts/370246</a></td>
 </tr>
 </tbody>
 </table>
 
-<h2 id="ublock-origin-https-chrome-google-com-webstore-detail-ublock-origin-cjpalhdlnbpafiamejdnhcphjbkeiagm"><a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin</a></h2>
+<h2 id="ublock-origin-https-chrome-google-com-webstore-detail-ublock-origin-cjpalhdlnbpafiamejdnhcphjbkeiagm"><a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm" target="_blank">uBlock Origin</a></h2>
 
 <p>据其 Github 页面称是占用比 Adblock Plus 少的一款广告拦截拓展，和这种类型的拓展相同，支持在线规则、自定义规则等。这款拓展让人上网清静，用久了就习惯了没有广告的页面，甚至我现在在 iOS 等平台上看到网页广告（屠龙宝刀点击就送那种）都觉得这网站是不是上个世纪的遗物。</p>
 
-<h2 id="v2ex-plus-https-chrome-google-com-webstore-detail-v2ex-plus-daeclijmnojoemooblcbfeeceopnkolo"><a href="https://chrome.google.com/webstore/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo">v2ex plus</a></h2>
+<h2 id="v2ex-plus-https-chrome-google-com-webstore-detail-v2ex-plus-daeclijmnojoemooblcbfeeceopnkolo"><a href="https://chrome.google.com/webstore/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo" target="_blank">v2ex plus</a></h2>
 
 <p>V2EX 增强拓展，很多的油猴脚本都被这一个拓展替代了。</p>
 
-<h2 id="wappalyzer-https-chrome-google-com-webstore-detail-wappalyzer-gppongmhjkpfnbhagpmjfkannfbllamg"><a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a></h2>
+<h2 id="wappalyzer-https-chrome-google-com-webstore-detail-wappalyzer-gppongmhjkpfnbhagpmjfkannfbllamg"><a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg" target="_blank">Wappalyzer</a></h2>
 
 <p>分析当前网页使用的技术栈，遇到精妙的页面往往能告诉你那是什么组件构成的。</p>
 
-<h2 id="web前端助手-fehelper-https-chrome-google-com-webstore-detail-web-e5-89-8d-e7-ab-af-e5-8a-a9-e6-89-8bfehelper-pkgccpejnmalmdinmhkkfafefagiiiad"><a href="https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad">WEB前端助手(FeHelper)</a></h2>
+<h2 id="web前端助手-fehelper-https-chrome-google-com-webstore-detail-web-e5-89-8d-e7-ab-af-e5-8a-a9-e6-89-8bfehelper-pkgccpejnmalmdinmhkkfafefagiiiad"><a href="https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad" target="_blank">WEB前端助手(FeHelper)</a></h2>
 
 <p>前端工具箱，代码格式化、二维码生成、正则表达式、编码规范检查、性能检测等等。</p>
 
-<h2 id="为什么你们就是不能加个空格呢-https-chrome-google-com-webstore-detail-e7-82-ba-e4-bb-80-e9-ba-bc-e4-bd-a0-e5-80-91-e5-b0-b1-e6-98-af-e4-b8-8d-e8-83-bd-e5-8a-a0-e5-80-8b-e7-a9-ba-e6-a0-bc-e5-91-a2-ef-bc-9f-paphcfdffjnbcgkokihcdjliihicmbpd"><a href="https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd">为什么你们就是不能加个空格呢？</a></h2>
+<h2 id="为什么你们就是不能加个空格呢-https-chrome-google-com-webstore-detail-e7-82-ba-e4-bb-80-e9-ba-bc-e4-bd-a0-e5-80-91-e5-b0-b1-e6-98-af-e4-b8-8d-e8-83-bd-e5-8a-a0-e5-80-8b-e7-a9-ba-e6-a0-bc-e5-91-a2-ef-bc-9f-paphcfdffjnbcgkokihcdjliihicmbpd"><a href="https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd" target="_blank">为什么你们就是不能加个空格呢？</a></h2>
 
-<p><a href="https://greasyfork.org/scripts/37950">空格之王 自動為中英文之間添加一個空格</a> JS 脚本中使用的 pangu.js 的官方 Chrome 拓展，提供一键针对某些网站禁用的功能。</p>
+<p><a href="https://greasyfork.org/scripts/37950" target="_blank">空格之王 自動為中英文之間添加一個空格</a> JS 脚本中使用的 pangu.js 的官方 Chrome 拓展，提供一键针对某些网站禁用的功能。</p>
 
-<h2 id="京价保-京东价保助手-https-chrome-google-com-webstore-detail-e4-ba-ac-e4-bb-b7-e4-bf-9d-e4-ba-ac-e4-b8-9c-e4-bb-b7-e4-bf-9d-e5-8a-a9-e6-89-8b-gfgkebiommjpiaomalcbfefimhhanlfd"><a href="https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%E4%BF%9D-%E4%BA%AC%E4%B8%9C%E4%BB%B7%E4%BF%9D%E5%8A%A9%E6%89%8B/gfgkebiommjpiaomalcbfefimhhanlfd">京价保 - 京东价保助手</a></h2>
+<h2 id="京价保-京东价保助手-https-chrome-google-com-webstore-detail-e4-ba-ac-e4-bb-b7-e4-bf-9d-e4-ba-ac-e4-b8-9c-e4-bb-b7-e4-bf-9d-e5-8a-a9-e6-89-8b-gfgkebiommjpiaomalcbfefimhhanlfd"><a href="https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%E4%BF%9D-%E4%BA%AC%E4%B8%9C%E4%BB%B7%E4%BF%9D%E5%8A%A9%E6%89%8B/gfgkebiommjpiaomalcbfefimhhanlfd" target="_blank">京价保 - 京东价保助手</a></h2>
 
 <ul>
 <li>自动监控最近订单商品的价格变化，在商品降价时自动申请价格保护</li>
@@ -443,7 +443,7 @@
 
 <p><del>自动恰烂钱</del></p>
 
-<h2 id="哔哩哔哩助手-bilibili-com-综合辅助扩展-https-chrome-google-com-webstore-detail-e5-93-94-e5-93-a9-e5-93-94-e5-93-a9-e5-8a-a9-e6-89-8b-ef-bc-9abilibilicom-e7-bb-bc-e5-90-88-e8-be-85-e5-8a-a9-e6-89-a9-e5-b1-95-kpbnombpnpcffllnianjibmpadjolanh"><a href="https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh">哔哩哔哩助手：bilibili.com 综合辅助扩展</a></h2>
+<h2 id="哔哩哔哩助手-bilibili-com-综合辅助扩展-https-chrome-google-com-webstore-detail-e5-93-94-e5-93-a9-e5-93-94-e5-93-a9-e5-8a-a9-e6-89-8b-ef-bc-9abilibilicom-e7-bb-bc-e5-90-88-e8-be-85-e5-8a-a9-e6-89-a9-e5-b1-95-kpbnombpnpcffllnianjibmpadjolanh"><a href="https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh" target="_blank">哔哩哔哩助手：bilibili.com 综合辅助扩展</a></h2>
 
 <p><del>哔哩哔哩助手是我新近添加的一款拓展，可以将 bilibili.com 的视频强行替换为 HTML5 播放器，极适合见到 Flash Player 就热的 OSX，同时提供快速跳转和关注的人新上传作品提醒的功能。</del></p>
 
@@ -451,17 +451,17 @@
 
 <p>现在提供弹幕查询与下载、视频下载、画中画、夜间模式、直播自动签到、领瓜子等功能。</p>
 
-<h2 id="有道云笔记网页剪报-https-chrome-google-com-webstore-detail-e6-9c-89-e9-81-93-e4-ba-91-e7-ac-94-e8-ae-b0-e7-bd-91-e9-a1-b5-e5-89-aa-e6-8a-a5-joinpgckiioeklibflapokicmndlcnef"><a href="https://chrome.google.com/webstore/detail/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0%E7%BD%91%E9%A1%B5%E5%89%AA%E6%8A%A5/joinpgckiioeklibflapokicmndlcnef">有道云笔记网页剪报</a></h2>
+<h2 id="有道云笔记网页剪报-https-chrome-google-com-webstore-detail-e6-9c-89-e9-81-93-e4-ba-91-e7-ac-94-e8-ae-b0-e7-bd-91-e9-a1-b5-e5-89-aa-e6-8a-a5-joinpgckiioeklibflapokicmndlcnef"><a href="https://chrome.google.com/webstore/detail/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0%E7%BD%91%E9%A1%B5%E5%89%AA%E6%8A%A5/joinpgckiioeklibflapokicmndlcnef" target="_blank">有道云笔记网页剪报</a></h2>
 
 <p>仓鼠党福音，有道云笔记一键剪藏和跳转。<del>我已经保存了为什么还要花时间去看</del></p>
 
 <p>久未更新，有小 bug。</p>
 
-<h2 id="简悦-simpread-https-chrome-google-com-webstore-detail-simpread-reader-view-ijllcpnolfcooahcekpamkbidhejabll"><a href="https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll">简悦 - SimpRead</a></h2>
+<h2 id="简悦-simpread-https-chrome-google-com-webstore-detail-simpread-reader-view-ijllcpnolfcooahcekpamkbidhejabll"><a href="https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll" target="_blank">简悦 - SimpRead</a></h2>
 
 <p>阅读模式工具，可以更专注内容，含有十分丰富的功能。但一直用不习惯，用的不多。</p>
 
-<h2 id="茶友会-淘宝查券助手-https-chrome-google-com-webstore-detail-e8-8c-b6-e5-8f-8b-e4-bc-9a-e6-b7-98-e5-ae-9d-e6-9f-a5-e5-88-b8-e5-8a-a9-e6-89-8b-igedhbjllcmgidlmhclmphmhlllkibkb"><a href="https://chrome.google.com/webstore/detail/%E8%8C%B6%E5%8F%8B%E4%BC%9A-%E6%B7%98%E5%AE%9D%E6%9F%A5%E5%88%B8%E5%8A%A9%E6%89%8B/igedhbjllcmgidlmhclmphmhlllkibkb">茶友会 - 淘宝查券助手</a></h2>
+<h2 id="茶友会-淘宝查券助手-https-chrome-google-com-webstore-detail-e8-8c-b6-e5-8f-8b-e4-bc-9a-e6-b7-98-e5-ae-9d-e6-9f-a5-e5-88-b8-e5-8a-a9-e6-89-8b-igedhbjllcmgidlmhclmphmhlllkibkb"><a href="https://chrome.google.com/webstore/detail/%E8%8C%B6%E5%8F%8B%E4%BC%9A-%E6%B7%98%E5%AE%9D%E6%9F%A5%E5%88%B8%E5%8A%A9%E6%89%8B/igedhbjllcmgidlmhclmphmhlllkibkb" target="_blank">茶友会 - 淘宝查券助手</a></h2>
 
 <p>茶友会是一个自动为你领取淘金币、自动签到领飞猪里程、自动查找渠道优惠券的浏览器插件。</p>
 ]]></content>
@@ -478,7 +478,7 @@
 
 <h2 id="前言">前言</h2>
 
-<p>Docker 相比虚拟机有很多优势，但在非 Linux 环境下运行会遇到文件系统同步的问题，IO 效率低下（使用 cached 或 delegated 标记也几乎无提升），在 Mac 下可以考虑使用 xhyve 虚拟机和 NFS/virtio-9p 加速 Mac 下的 Docker。但根据 <a href="https://github.com/kubernetes/minikube/issues/4291#issuecomment-494335628">https://github.com/kubernetes/minikube/issues/4291#issuecomment-494335628</a> ，0.4.0 版本的 docker-machine-driver-xhyve （Docker Machine 和 xhyve 之间的驱动）将导致 Docker 无法挂载 volume，可以选择安装 0.3.3-1 的旧版。<strong>但 0.3.3-1 版本的 docker-machine-driver-xhyve 在创建 docker machine 前的 precheck 中，仅接受 Virtualbox 5，导致在安装 Virtualbox 6 后 precheck 失败</strong>，可以考虑卸载 Virtualbox 或安装 5 的版本。另外，根据 <a href="https://github.com/machine-drivers/docker-machine-driver-xhyve#does-not-clean-up-the-vmnet-when-remove-a-vm">https://github.com/machine-drivers/docker-machine-driver-xhyve#does-not-clean-up-the-vmnet-when-remove-a-vm</a> ，删除 docker machine 将不会清理 vmnet，可能最多只能创建255个虚拟机，暂无解决方案。再者，docker-machine-driver-xhyve 这个项目有点 dead project 的意思，开发者更新不勤。因此，我折腾了挺久得到这样的结果觉得没有意思，决定选择传统的 Vagrant。以下介绍 Vagrant 开发环境和 0.3.3-1 版的 docker-machine-driver-xhyve 下的 Docker 开发环境（仅作备份）。</p>
+<p>Docker 相比虚拟机有很多优势，但在非 Linux 环境下运行会遇到文件系统同步的问题，IO 效率低下（使用 cached 或 delegated 标记也几乎无提升），在 Mac 下可以考虑使用 xhyve 虚拟机和 NFS/virtio-9p 加速 Mac 下的 Docker。但根据 <a href="https://github.com/kubernetes/minikube/issues/4291#issuecomment-494335628" target="_blank">https://github.com/kubernetes/minikube/issues/4291#issuecomment-494335628</a> ，0.4.0 版本的 docker-machine-driver-xhyve （Docker Machine 和 xhyve 之间的驱动）将导致 Docker 无法挂载 volume，可以选择安装 0.3.3-1 的旧版。<strong>但 0.3.3-1 版本的 docker-machine-driver-xhyve 在创建 docker machine 前的 precheck 中，仅接受 Virtualbox 5，导致在安装 Virtualbox 6 后 precheck 失败</strong>，可以考虑卸载 Virtualbox 或安装 5 的版本。另外，根据 <a href="https://github.com/machine-drivers/docker-machine-driver-xhyve#does-not-clean-up-the-vmnet-when-remove-a-vm" target="_blank">https://github.com/machine-drivers/docker-machine-driver-xhyve#does-not-clean-up-the-vmnet-when-remove-a-vm</a> ，删除 docker machine 将不会清理 vmnet，可能最多只能创建255个虚拟机，暂无解决方案。再者，docker-machine-driver-xhyve 这个项目有点 dead project 的意思，开发者更新不勤。因此，我折腾了挺久得到这样的结果觉得没有意思，决定选择传统的 Vagrant。以下介绍 Vagrant 开发环境和 0.3.3-1 版的 docker-machine-driver-xhyve 下的 Docker 开发环境（仅作备份）。</p>
 
 <h2 id="vagrant">Vagrant</h2>
 
@@ -538,7 +538,7 @@ docker-machine create --driver xhyve --xhyve-experimental-nfs-share --xhyve-cpu-
 <span class="nb">echo</span> <span class="s2">&#34;eval \&#34;\$(docker-machine env default)\&#34;&#34;</span> &gt;&gt; ~/.zshrc <span class="o">&amp;&amp;</span> <span class="nb">source</span> ~/.zshrc <span class="c1"># zsh</span></code></pre></div>
 <h3 id="运行与测试">运行与测试</h3>
 
-<p>根据<a href="https://github.com/codekitchen/dinghy/issues/166#issuecomment-409119346">这个</a>测试命令，我在我的电脑上得到的结果是：</p>
+<p>根据<a href="https://github.com/codekitchen/dinghy/issues/166#issuecomment-409119346" target="_blank">这个</a>测试命令，我在我的电脑上得到的结果是：</p>
 <div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">docker run --rm -it -v <span class="s2">&#34;</span><span class="k">$(</span>PWD<span class="k">)</span><span class="s2">:/pwd&#34;</span> -w /pwd alpine <span class="nb">time</span> dd <span class="k">if</span><span class="o">=</span>/dev/zero <span class="nv">of</span><span class="o">=</span>speedtest <span class="nv">bs</span><span class="o">=</span><span class="m">1024</span> <span class="nv">count</span><span class="o">=</span><span class="m">100000</span>
 <span class="m">100000</span>+0 records in
 <span class="m">100000</span>+0 records out
@@ -550,10 +550,10 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 <h2 id="参考">参考</h2>
 
 <ul>
-<li><a href="https://wongyouth.github.io/2019/04/28/xhyve-%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E4%B8%8B%E8%BD%BB%E9%87%8F%E7%BA%A7%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%96%B9%E6%A1%88/">xhyve, 苹果电脑下轻量级虚拟机方案</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/27282986">如何提升Docker for Mac性能</a></li>
-<li><a href="https://laradock.io/documentation/#improve-speed-on-macos">Improve speed on MacOS - Laradock</a></li>
-<li><a href="http://alitain.tech/2017/07/04/mac-with-dinghy-and-laradock/">Mac使用dinghy和laradock搭建php运行环境</a></li>
+<li><a href="https://wongyouth.github.io/2019/04/28/xhyve-%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E4%B8%8B%E8%BD%BB%E9%87%8F%E7%BA%A7%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%96%B9%E6%A1%88/" target="_blank">xhyve, 苹果电脑下轻量级虚拟机方案</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/27282986" target="_blank">如何提升Docker for Mac性能</a></li>
+<li><a href="https://laradock.io/documentation/#improve-speed-on-macos" target="_blank">Improve speed on MacOS - Laradock</a></li>
+<li><a href="http://alitain.tech/2017/07/04/mac-with-dinghy-and-laradock/" target="_blank">Mac使用dinghy和laradock搭建php运行环境</a></li>
 </ul>
 ]]></content>
 		</item>
@@ -701,7 +701,7 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 <li>少于2000元的预算，感觉超过2000元的产品价格和能耗都提升了一个档次</li>
 </ul>
 
-<p>本来选择的是i5-9600K，但是根据朋友建议和<a href="https://cpu.userbenchmark.com/Compare/Intel-Core-i7-8700-vs-Intel-Core-i5-9600K/3940vs4031">这个对比</a>，放弃10%左右的单核性能提升，选择无超频、低TDP、多核多线程更强的i7-8700。两者差别其实不是很大，可以根据价格决定。</p>
+<p>本来选择的是i5-9600K，但是根据朋友建议和<a href="https://cpu.userbenchmark.com/Compare/Intel-Core-i7-8700-vs-Intel-Core-i5-9600K/3940vs4031" target="_blank">这个对比</a>，放弃10%左右的单核性能提升，选择无超频、低TDP、多核多线程更强的i7-8700。两者差别其实不是很大，可以根据价格决定。</p>
 
 <h3 id="主板">主板</h3>
 
@@ -772,13 +772,13 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 
 <p>这样得出的结果大致是10升的A4机箱，需要显卡转接线，市面上有许多产品。</p>
 
-<p>国外论坛上的SFF Build帖子大多是用Ghost S1、Dan Case之类的A4机箱，但这些需要转运并且特别贵。也有老外在淘宝买然后转运出去的。然后自己在淘宝搜也是一头雾水。B站up主 @玩笑笑笑笑笑 的视频<a href="https://www.bilibili.com/video/av51769793">[B站最详细]ITX装机指南(收录25款散热器&amp;98款机箱)</a>使我对ITX机箱有了比较清晰的认识，大致对比了一下选择了SKTC S02这款，红色的颜值还是挺舒服的。</p>
+<p>国外论坛上的SFF Build帖子大多是用Ghost S1、Dan Case之类的A4机箱，但这些需要转运并且特别贵。也有老外在淘宝买然后转运出去的。然后自己在淘宝搜也是一头雾水。B站up主 @玩笑笑笑笑笑 的视频<a href="https://www.bilibili.com/video/av51769793" target="_blank">[B站最详细]ITX装机指南(收录25款散热器&amp;98款机箱)</a>使我对ITX机箱有了比较清晰的认识，大致对比了一下选择了SKTC S02这款，红色的颜值还是挺舒服的。</p>
 
 <p>另外一提，银河W1非常好看，适合经济宽裕动手能力强的人入手。</p>
 
 <h3 id="wi-fi和蓝牙卡">Wi-Fi和蓝牙卡</h3>
 
-<p>Wi-Fi、蓝牙、Handoff和Airdrop功能需要合适的无线网卡，根据<a href="https://osxlatitude.com/forums/topic/11138-inventory-of-supportedunsupported-wireless-cards-2-sierra-catalina/">这个列表</a>和<a href="https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/">这个帖子</a>，ROG STRIX Z390-I这块主板可以把M.2 Intel网卡替换成DW1560，但淘宝的DW1560溢价太严重，有的还断货，根据<a href="https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojave/">这个帖子</a>，DW1820A某些型号也是可以的，需要额外驱动，淘宝的售价是DW1560的五分之一。</p>
+<p>Wi-Fi、蓝牙、Handoff和Airdrop功能需要合适的无线网卡，根据<a href="https://osxlatitude.com/forums/topic/11138-inventory-of-supportedunsupported-wireless-cards-2-sierra-catalina/" target="_blank">这个列表</a>和<a href="https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/" target="_blank">这个帖子</a>，ROG STRIX Z390-I这块主板可以把M.2 Intel网卡替换成DW1560，但淘宝的DW1560溢价太严重，有的还断货，根据<a href="https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojave/" target="_blank">这个帖子</a>，DW1820A某些型号也是可以的，需要额外驱动，淘宝的售价是DW1560的五分之一。</p>
 
 <p>尝试DW1820A后发现此卡非常不稳定，会出现卡顿、无法连接的现象，尝试了多种驱动方式也无效。根据帖子的信息，贴纸上标记的料号似乎也不符合软件查看的<code>subsystem-id</code>，怀疑店家贴了标签，遂退货，入手278元的DW1560，十分稳定。</p>
 
@@ -848,7 +848,7 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 
 <h2 id="hackintosh安装">Hackintosh安装</h2>
 
-<p>主要参考了<a href="https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/">The everything works Asus Z390-I Gaming * i7-8700K * Sapphire RX580 Pulse build| tonymacx86.com</a>这个帖子。</p>
+<p>主要参考了<a href="https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/" target="_blank">The everything works Asus Z390-I Gaming * i7-8700K * Sapphire RX580 Pulse build| tonymacx86.com</a>这个帖子。</p>
 
 <h3 id="前置准备">前置准备</h3>
 
@@ -856,7 +856,7 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 <li>一台可用的Mac（使用Windows PC的话需要参考网上其他教程，配置iCloud的部分可能要在Hackintosh上做）</li>
 <li>一个8GB或更大的U盘</li>
 <li>待安装的Hackintosh机器</li>
-<li>下载，解压缩，安装<a href="https://mackie100projects.altervista.org/download/ccg/">Clover Configurator</a>。在制作安装U盘过程中用来配置iCloud等，在安装完成后用来在Hackintosh上挂载EFI分区，所以在Mac和待安装的Hackintosh机器上都要安装</li>
+<li>下载，解压缩，安装<a href="https://mackie100projects.altervista.org/download/ccg/" target="_blank">Clover Configurator</a>。在制作安装U盘过程中用来配置iCloud等，在安装完成后用来在Hackintosh上挂载EFI分区，所以在Mac和待安装的Hackintosh机器上都要安装</li>
 </ul>
 
 <h3 id="制作安装u盘">制作安装U盘</h3>
@@ -869,10 +869,10 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 <li>格式：选择OS X Extended（Journaled）</li>
 <li>Scheme：选择GUID Partition Map</li>
 <li>单击“擦除”然后“完成”</li>
-<li>下载<a href="https://www.tonymacx86.com/resources/unibeast-9-2-0-mojave.426/download">Unibast for Mojave</a>（tonymacx86当前可能不能上，我使用tw线路可以上，也可以找找镜像或选择手动命令行制作）</li>
+<li>下载<a href="https://www.tonymacx86.com/resources/unibeast-9-2-0-mojave.426/download" target="_blank">Unibast for Mojave</a>（tonymacx86当前可能不能上，我使用tw线路可以上，也可以找找镜像或选择手动命令行制作）</li>
 <li>从应用商店下载Mojave安装程序</li>
 <li>运行UniBeast并选择U盘，Mojave安装程序和UEFI。将其他所有内容留空，然后单击继续以创建安装程序。这可能需要很长时间，所以要耐心等待</li>
-<li>下载<a href="https://github.com/ladit/hackintosh/tree/master/EFI">提供的EFI</a>并替换U盘EFI分区中的EFI文件夹，双击使用Clover Configurator打开U盘EFI分区下的<code>/EFI/CLOVER/config.plist</code></li>
+<li>下载<a href="https://github.com/ladit/hackintosh/tree/master/EFI" target="_blank">提供的EFI</a>并替换U盘EFI分区中的EFI文件夹，双击使用Clover Configurator打开U盘EFI分区下的<code>/EFI/CLOVER/config.plist</code></li>
 <li>单击Clover Configurator 左侧的SMBIOS</li>
 <li>单击System下的Serial Number右侧的Generate New</li>
 <li>点击右侧iMac图片下的Check Coverage</li>
@@ -923,7 +923,7 @@ Tools &gt; Asus User Profile &gt; Save to Profile &gt; 1</p>
 
 <ul>
 <li>将安装U盘插入待安装的机器，从Clover菜单中启动并选择Installer作为启动盘，安装系统，过程中将多次重启，在Clover中选择从本地磁盘启动就可以继续。建议进入系统后再登录iCloud</li>
-<li>下载，解压缩，安装<a href="https://mackie100projects.altervista.org/download/ccg/">Clover Configurator</a></li>
+<li>下载，解压缩，安装<a href="https://mackie100projects.altervista.org/download/ccg/" target="_blank">Clover Configurator</a></li>
 <li>单击工具下的Mount EFI，挂载U盘和本地磁盘的EFI分区，用U盘的EFI文件夹替换本地磁盘的EFI文件夹</li>
 <li>重新启动进入BIOS，设置本地磁盘为第一引导顺序</li>
 
@@ -1014,14 +1014,14 @@ Tools &gt; Asus User Profile &gt; Save to Profile &gt; 1</p>
 <h2 id="参考">参考</h2>
 
 <ul>
-<li><a href="https://zhuanlan.zhihu.com/p/67807395">【2019年6月】6月份装机走向与推荐</a></li>
-<li><a href="http://bbs.pcbeta.com/viewthread-1799271-1-1.html">macOS Mojave 台式机黑苹果硬件选购指南-远景论坛-微软极客社区</a></li>
-<li><a href="https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/">The everything works Asus Z390-I Gaming * i7-8700K * Sapphire RX580 Pulse build| tonymacx86.com</a></li>
-<li><a href="http://icyleaf.com/2019/01/itx-coffee-lake-hackintosh-build-for-4k-video-editing/">攒了一台 4K 视频剪辑黑苹果 · icyleaf</a></li>
-<li><a href="http://icyleaf.com/2019/03/asrock-z390-gaming-itx-install-hackintosh-tutorial/">华擎 Z390 Gaming ITX 黑苹果安装教程 · icyleaf</a></li>
-<li><a href="https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojave/">Broadcom BCM4350 cards under High Sierra/Mojave - Wireless and Bluetooth - osxlatitude.com</a></li>
-<li><a href="https://www.tonymacx86.com/">tonymacx86</a></li>
-<li><a href="https://blog.daliansky.net/">黑果小兵的部落阁</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/67807395" target="_blank">【2019年6月】6月份装机走向与推荐</a></li>
+<li><a href="http://bbs.pcbeta.com/viewthread-1799271-1-1.html" target="_blank">macOS Mojave 台式机黑苹果硬件选购指南-远景论坛-微软极客社区</a></li>
+<li><a href="https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/" target="_blank">The everything works Asus Z390-I Gaming * i7-8700K * Sapphire RX580 Pulse build| tonymacx86.com</a></li>
+<li><a href="http://icyleaf.com/2019/01/itx-coffee-lake-hackintosh-build-for-4k-video-editing/" target="_blank">攒了一台 4K 视频剪辑黑苹果 · icyleaf</a></li>
+<li><a href="http://icyleaf.com/2019/03/asrock-z390-gaming-itx-install-hackintosh-tutorial/" target="_blank">华擎 Z390 Gaming ITX 黑苹果安装教程 · icyleaf</a></li>
+<li><a href="https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojave/" target="_blank">Broadcom BCM4350 cards under High Sierra/Mojave - Wireless and Bluetooth - osxlatitude.com</a></li>
+<li><a href="https://www.tonymacx86.com/" target="_blank">tonymacx86</a></li>
+<li><a href="https://blog.daliansky.net/" target="_blank">黑果小兵的部落阁</a></li>
 </ul>
 ]]></content>
 		</item>
@@ -1038,10 +1038,10 @@ Tools &gt; Asus User Profile &gt; Save to Profile &gt; 1</p>
 <h2 id="参考">参考</h2>
 
 <ul>
-<li><a href="https://sspai.com/post/43239">给 Mac 优雅地一键「装机」</a></li>
-<li><a href="https://sspai.com/post/43265">定期自动云备份 macOS 软件列表，维护一份属于自己的必备 App 清单</a></li>
-<li><a href="http://honglu.me/2014/09/20/OSX%E7%B3%BB%E7%BB%9F%E6%B7%BB%E5%8A%A0%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/">OSX 系统添加定时任务</a></li>
-<li><a href="https://my.oschina.net/aven92/blog/486037">crontab 中 PATH 的坑</a></li>
+<li><a href="https://sspai.com/post/43239" target="_blank">给 Mac 优雅地一键「装机」</a></li>
+<li><a href="https://sspai.com/post/43265" target="_blank">定期自动云备份 macOS 软件列表，维护一份属于自己的必备 App 清单</a></li>
+<li><a href="http://honglu.me/2014/09/20/OSX%E7%B3%BB%E7%BB%9F%E6%B7%BB%E5%8A%A0%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/" target="_blank">OSX 系统添加定时任务</a></li>
+<li><a href="https://my.oschina.net/aven92/blog/486037" target="_blank">crontab 中 PATH 的坑</a></li>
 </ul>
 
 <h2 id="概述">概述</h2>
@@ -1156,11 +1156,11 @@ cat <span class="nv">$MAS_List</span> <span class="p">|</span> sed <span class="
 
 <p>OpenCppCoverage 是一款好用方便的 C++ 代码覆盖率检测工具，可以独立在命令行运行也可以作为 Visual Studio 13/15/17 的插件。</p>
 
-<p>Github：<a href="https://github.com/OpenCppCoverage/OpenCppCoverage">https://github.com/OpenCppCoverage/OpenCppCoverage</a>
-命令行用法：<a href="https://github.com/OpenCppCoverage/OpenCppCoverage/wiki">https://github.com/OpenCppCoverage/OpenCppCoverage/wiki</a>
-插件 Github：<a href="https://github.com/OpenCppCoverage/OpenCppCoveragePlugin">https://github.com/OpenCppCoverage/OpenCppCoveragePlugin</a>
-插件用法：<a href="https://github.com/OpenCppCoverage/OpenCppCoveragePlugin/wiki">https://github.com/OpenCppCoverage/OpenCppCoveragePlugin/wiki</a>
-Visual Studio Marketplace 安装：<a href="https://marketplace.visualstudio.com/items?itemName=OpenCppCoverage.OpenCppCoveragePlugin">https://marketplace.visualstudio.com/items?itemName=OpenCppCoverage.OpenCppCoveragePlugin</a></p>
+<p>Github：<a href="https://github.com/OpenCppCoverage/OpenCppCoverage" target="_blank">https://github.com/OpenCppCoverage/OpenCppCoverage</a>
+命令行用法：<a href="https://github.com/OpenCppCoverage/OpenCppCoverage/wiki" target="_blank">https://github.com/OpenCppCoverage/OpenCppCoverage/wiki</a>
+插件 Github：<a href="https://github.com/OpenCppCoverage/OpenCppCoveragePlugin" target="_blank">https://github.com/OpenCppCoverage/OpenCppCoveragePlugin</a>
+插件用法：<a href="https://github.com/OpenCppCoverage/OpenCppCoveragePlugin/wiki" target="_blank">https://github.com/OpenCppCoverage/OpenCppCoveragePlugin/wiki</a>
+Visual Studio Marketplace 安装：<a href="https://marketplace.visualstudio.com/items?itemName=OpenCppCoverage.OpenCppCoveragePlugin" target="_blank">https://marketplace.visualstudio.com/items?itemName=OpenCppCoverage.OpenCppCoveragePlugin</a></p>
 
 <hr />
 
@@ -1184,7 +1184,7 @@ Visual Studio Marketplace 安装：<a href="https://marketplace.visualstudio.com
 
 <hr />
 
-<p>本文发布于 <a href="https://ladit.me/posts/opencppcoverage-usage/">ladit.me/posts/opencppcoverage-usage</a></p>
+<p>本文发布于 <a href="https://ladit.me/posts/opencppcoverage-usage/" target="_blank">ladit.me/posts/opencppcoverage-usage</a></p>
 ]]></content>
 		</item>
 		
@@ -1270,7 +1270,7 @@ iPod shuffle 下，写有「 Designed by Apple in California 」的字样，国�
 <li>Boot Camp 安装的 Windows 10 x64；</li>
 <li>VirtualBox 5.1.26 （我安装的是 <code>VirtualBox-5.1.26-117224-OSX</code>）；</li>
 <li>VirtualBox 对应版本的拓展包 （ <code>Oracle_VM_VirtualBox_Extension_Pack-5.1.26-117224.vbox-extpack</code> ），原作者说并不确定拓展包是否需要，我觉得应该是不需要，但装了可以在宿主机和虚拟机之间共享粘贴板、共享文件夹等，建议安装；</li>
-<li><a href="https://developer.apple.com/library/mac/documentation/Security/Conceptual/System_Integrity_Protection_Guide/ConfiguringSystemIntegrityProtection/ConfiguringSystemIntegrityProtection.html">关闭 SIP</a>，原作者说在 El Capitan (OS X 10.11) 上必须关闭 SIP 才能正常使用，更高的系统应该也是一样。</li>
+<li><a href="https://developer.apple.com/library/mac/documentation/Security/Conceptual/System_Integrity_Protection_Guide/ConfiguringSystemIntegrityProtection/ConfiguringSystemIntegrityProtection.html" target="_blank">关闭 SIP</a>，原作者说在 El Capitan (OS X 10.11) 上必须关闭 SIP 才能正常使用，更高的系统应该也是一样。</li>
 </ul>
 
 <h2 id="设置磁盘权限">设置磁盘权限</h2>
@@ -1318,7 +1318,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 
 <p>使用系统自带的 磁盘工具.app 可以方便地装载/卸载 Windows 分区，卸载时虚拟机才可以启动，装载时才可以在 Finder 浏览文件和利用 Boot Camp 启动 Windows。</p>
 
-<p>参考链接：<a href="http://danielphil.github.io/windows/virtualbox/osx/2015/08/25/virtualbox-boot-camp.html">http://danielphil.github.io/windows/virtualbox/osx/2015/08/25/virtualbox-boot-camp.html</a></p>
+<p>参考链接：<a href="http://danielphil.github.io/windows/virtualbox/osx/2015/08/25/virtualbox-boot-camp.html" target="_blank">http://danielphil.github.io/windows/virtualbox/osx/2015/08/25/virtualbox-boot-camp.html</a></p>
 ]]></content>
 		</item>
 		
@@ -1375,7 +1375,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 
 <h2 id="github-地址">Github 地址</h2>
 
-<p><a href="https://github.com/ladit/Sudoku">https://github.com/ladit/Sudoku</a></p>
+<p><a href="https://github.com/ladit/Sudoku" target="_blank">https://github.com/ladit/Sudoku</a></p>
 
 <hr />
 
@@ -1390,9 +1390,9 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 <p>这意味着算法需要改进，冥思苦想后没太大结果，在网上阅读了一些生成数独的算法的文章：</p>
 
 <ul>
-<li><a href="https://segmentfault.com/a/1190000004641936">[Java] 数独生成和求解</a>：使用深度优先搜索和回溯法填写数独；</li>
-<li><a href="https://my.oschina.net/wangmengjun/blog/781984">数独终盘生成的几种方法</a>：矩阵转换法和随机法；</li>
-<li><a href="http://blog.csdn.net/peng_wu01/article/details/6026103">数独 &ndash; 一个高效率生成数独的算法</a>：另一种随机法，评论中说规律性强；</li>
+<li><a href="https://segmentfault.com/a/1190000004641936" target="_blank">[Java] 数独生成和求解</a>：使用深度优先搜索和回溯法填写数独；</li>
+<li><a href="https://my.oschina.net/wangmengjun/blog/781984" target="_blank">数独终盘生成的几种方法</a>：矩阵转换法和随机法；</li>
+<li><a href="http://blog.csdn.net/peng_wu01/article/details/6026103" target="_blank">数独 &ndash; 一个高效率生成数独的算法</a>：另一种随机法，评论中说规律性强；</li>
 </ul>
 
 <p>其中第二种的矩阵转换法和第三种的“随机法”虽然效率都较高，但在其文章和评论中都提到不够随机，有规律可循，因此我决定参考第一篇文章中说的深度优先搜索和回溯法。</p>
@@ -1402,12 +1402,12 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 <p>后来看到网上讨论（如下），Dancing Links （DLX）应该是目前求解数独较快的算法，对于题目中的1000000个数独，可能这种算法比较好实现。但当时已经基本完成了深度优先搜索和回溯法，所以这种方法有待之后改进再实现。</p>
 
 <ul>
-<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689">【算法】Dancing Links (DLX) I</a></li>
-<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13168391">【算法】Dancing Links (DLX) II</a></li>
-<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689">DLX 算法介绍</a></li>
-<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689">Sudoku DLX 算法求解</a></li>
-<li><a href="http://blog.gssxgss.me/use-dlx-to-solve-sudoku-1/">用 DLX 解 sudoku(数独)</a></li>
-<li><a href="https://www.oschina.net/code/snippet_1159061_22803">数独 Sudoku DLX 算法</a></li>
+<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">【算法】Dancing Links (DLX) I</a></li>
+<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13168391" target="_blank">【算法】Dancing Links (DLX) II</a></li>
+<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">DLX 算法介绍</a></li>
+<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">Sudoku DLX 算法求解</a></li>
+<li><a href="http://blog.gssxgss.me/use-dlx-to-solve-sudoku-1/" target="_blank">用 DLX 解 sudoku(数独)</a></li>
+<li><a href="https://www.oschina.net/code/snippet_1159061_22803" target="_blank">数独 Sudoku DLX 算法</a></li>
 </ul>
 
 <h3 id="文件输出">文件输出</h3>
@@ -1417,10 +1417,10 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 <p>在网上找了一些文件输出效率对比的文章（以下列出），似乎它们都一致认为 C 标准的函数效率更高，但这些文章都较为老旧，不知道是否都使用  Visual Studio，有使用  Visual Studio 的版本又较低，新的  Visual Studio 使用 MSBuild 作为编译器，据说 C++ 标准的函数效率有所改进，同时重要的是，为了统一代码标准，应当先使用 C++ 标准的 <code>fstream</code>。</p>
 
 <ul>
-<li><a href="http://blog.csdn.net/shudaxia123/article/details/50491451">C/C++ 文件操作效率比较——FILE/fstream</a></li>
-<li><a href="http://blog.csdn.net/kevin_ut/article/details/6088489">fstream 与 C 风格（例如 fread 和 fwrite ）两种读写文件方法的效率比较</a></li>
-<li><a href="https://www.byvoid.com/zhs/blog/fast-readfile">探寻 C++ 最快的读取文件的方案</a></li>
-<li><a href="http://dantvt.is-programmer.com/posts/12701.html">File I/O 效率 C vs C++ (一)</a></li>
+<li><a href="http://blog.csdn.net/shudaxia123/article/details/50491451" target="_blank">C/C++ 文件操作效率比较——FILE/fstream</a></li>
+<li><a href="http://blog.csdn.net/kevin_ut/article/details/6088489" target="_blank">fstream 与 C 风格（例如 fread 和 fwrite ）两种读写文件方法的效率比较</a></li>
+<li><a href="https://www.byvoid.com/zhs/blog/fast-readfile" target="_blank">探寻 C++ 最快的读取文件的方案</a></li>
+<li><a href="http://dantvt.is-programmer.com/posts/12701.html" target="_blank">File I/O 效率 C vs C++ (一)</a></li>
 </ul>
 
 <p>然而看到同学们的博客中有的使用了 C 标准的函数很大地提高了效率，这我就陷入纠结：是应该遵守统一标准，还是追求效率？或者其实两者本来就被允许通用？</p>
@@ -1652,7 +1652,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 
 <p>助教在群里推荐的 C++ Coverage Validator，我没办法配置成功，这款工具的教程网上少、旧。所以我去找了一下其他替代的工具。</p>
 
-<p>OpenCppCoverage（<a href="https://ladit.me/opencppcoverage-usage/">使用教程</a>）是一款好用方便的 C++ 代码覆盖率检测工具，可以独立在命令行运行也可以作为 Visual Studio 13/15/17 的插件。</p>
+<p>OpenCppCoverage（<a href="https://ladit.me/opencppcoverage-usage/" target="_blank">使用教程</a>）是一款好用方便的 C++ 代码覆盖率检测工具，可以独立在命令行运行也可以作为 Visual Studio 13/15/17 的插件。</p>
 
 <p>我使用 OpenCppCoverage 测试代码覆盖率的结果如下：</p>
 
@@ -1799,7 +1799,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 
 <hr />
 
-<p>本文发布于 <a href="https://ladit.me/posts/use-dfs-and-backtracking-algorithm-to-generate-sudoku/">ladit.me/posts/use-dfs-and-backtracking-algorithm-to-generate-sudoku</a></p>
+<p>本文发布于 <a href="https://ladit.me/posts/use-dfs-and-backtracking-algorithm-to-generate-sudoku/" target="_blank">ladit.me/posts/use-dfs-and-backtracking-algorithm-to-generate-sudoku</a></p>
 ]]></content>
 		</item>
 		
@@ -1840,7 +1840,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 			<description>软件工程实践 2017 第一次作业 今年又重拾 cnblogs，上一次也是张栋老师教的面向对象程序设计，在我所经历过的教学方式中，这样的可以说是较为独特的</description>
 			<content type="html"><![CDATA[
 
-<h2 id="软件工程实践-2017-第一次作业-https-www-cnblogs-com-easteast-p-7403491-html"><a href="https://www.cnblogs.com/easteast/p/7403491.html">软件工程实践 2017 第一次作业</a></h2>
+<h2 id="软件工程实践-2017-第一次作业-https-www-cnblogs-com-easteast-p-7403491-html"><a href="https://www.cnblogs.com/easteast/p/7403491.html" target="_blank">软件工程实践 2017 第一次作业</a></h2>
 
 <p><audio src="http://ladit-me-1251731554.file.myqcloud.com/%E4%BB%99%E5%89%91%E9%97%AE%E6%83%85_%E9%92%A2%E7%90%B4%E6%BC%94%E5%A5%8F_cut.mp3" controls="controls" autoplay playsinline="" webkit-playsinline=""></audio></p>
 
@@ -1858,7 +1858,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 </blockquote>
 
 <p>哈哈，看到作业里给出的引用里说 「不要轻易在简历上写我热爱编程，我热爱学习（你对计算机的热情是怎样的？）」（这里似乎编写者粗心忘了添加链接了），但是其实我当初就是抱着一腔热情啊。
-从小学的时候开始，有宝贵的玩哥哥/姐姐家的电脑（当时比较穷家里买不起）的机会时，除了领略4399的魅力，最大的热情（游戏打得不好剩下的乐趣？）就是折腾电脑上形形色色的软件。例如杀毒软件、Office、<a href="http://www.youhua.com/">Windows 优化大师</a>、压缩软件、浏览器以及 XP 时代的各种垃圾软件等等，那个时候就觉得电脑软件这东西真神奇，它是如何变出来的呢？以后有机会我也想了解一下。后来的小学、初中、高中，通过不断革新的电脑，做了许多作业，打了许多游戏，也学习（折腾）了各种各样的电脑技术，但一直对编程这种较为高深和专业性强的事物没有接触和了解，大部分依靠当时网上热心网友现成的 exe 和其他解决方案。
+从小学的时候开始，有宝贵的玩哥哥/姐姐家的电脑（当时比较穷家里买不起）的机会时，除了领略4399的魅力，最大的热情（游戏打得不好剩下的乐趣？）就是折腾电脑上形形色色的软件。例如杀毒软件、Office、<a href="http://www.youhua.com/" target="_blank">Windows 优化大师</a>、压缩软件、浏览器以及 XP 时代的各种垃圾软件等等，那个时候就觉得电脑软件这东西真神奇，它是如何变出来的呢？以后有机会我也想了解一下。后来的小学、初中、高中，通过不断革新的电脑，做了许多作业，打了许多游戏，也学习（折腾）了各种各样的电脑技术，但一直对编程这种较为高深和专业性强的事物没有接触和了解，大部分依靠当时网上热心网友现成的 exe 和其他解决方案。
 所以我一直怀抱着希望学习计算机技术的心情，高考结束后，我的分数报考福大是较为恰当的，而福大的其他专业我又提不太起兴趣，所以计算机专业是我的首选。</p>
 
 <blockquote>
@@ -1970,7 +1970,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 <li>可能的话找一份实习，进一步实践；</li>
 </ul>
 
-<p>参考<a href="https://github.com/geekcompany/ResumeSample/blob/master/ios.md">这份简历模板</a>，我觉得我最需要做的就是努力增加自己的技能清单上的项目。</p>
+<p>参考<a href="https://github.com/geekcompany/ResumeSample/blob/master/ios.md" target="_blank">这份简历模板</a>，我觉得我最需要做的就是努力增加自己的技能清单上的项目。</p>
 
 <p>以上是大三的一些笼统规划，在软件工程这门课中，可以略微管中窥豹一番。希望自己能学好软工，并触及与掌握想要的能力。</p>
 
@@ -1999,18 +1999,18 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 
 <p>一些题外话：</p>
 
-<p>关于 Markdown 写作，我建议在线使用 <a href="http://dillinger.io/">dillinger.io</a>，客户端使用 <a href="https://ivarptr.github.io/yu-writer.site/">Yu Writer</a>，它目前支持 Windows 和 macOS，有良好的体验和界面：
+<p>关于 Markdown 写作，我建议在线使用 <a href="http://dillinger.io/" target="_blank">dillinger.io</a>，客户端使用 <a href="https://ivarptr.github.io/yu-writer.site/" target="_blank">Yu Writer</a>，它目前支持 Windows 和 macOS，有良好的体验和界面：
 <img src="https://ivarptr.github.io/yu-writer.site/resources/images/screenshot/optimize/theme4@2x.png" alt="Yu Writer" /></p>
 
 <p>文章的中文和英文、数字间请手动使用空格分离开，以达到较好的排版效果，例如
 <code>iOS 11 让 iPhone 变得更为智能</code>
 而不是
 <code>iOS 11让iPhone变得更为智能</code>
-事实上，这应该由排版系统来完成，但这是一个暂时的做法。使用 Chrome 的拓展程序 <a href="https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd">为什么你们就是不能加个空格呢？</a> 可以自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白。</p>
+事实上，这应该由排版系统来完成，但这是一个暂时的做法。使用 Chrome 的拓展程序 <a href="https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd" target="_blank">为什么你们就是不能加个空格呢？</a> 可以自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白。</p>
 
 <hr />
 
-<p>本文发布于 <a href="https://ladit.me/posts/moving-forward-2017/">ladit.me/posts/moving-forward-2017</a></p>
+<p>本文发布于 <a href="https://ladit.me/posts/moving-forward-2017/" target="_blank">ladit.me/posts/moving-forward-2017</a></p>
 ]]></content>
 		</item>
 		
@@ -2031,7 +2031,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 
 <h2 id="参考资料">参考资料</h2>
 
-<p>基于 Token 的 WEB 后台认证机制：<a href="https://www.cnblogs.com/xiekeli/p/5607107.html">https://www.cnblogs.com/xiekeli/p/5607107.html</a></p>
+<p>基于 Token 的 WEB 后台认证机制：<a href="https://www.cnblogs.com/xiekeli/p/5607107.html" target="_blank">https://www.cnblogs.com/xiekeli/p/5607107.html</a></p>
 
 <h2 id="token-设计">Token 设计</h2>
 
@@ -2322,7 +2322,7 @@ public function login(Request $request)
 
 <p>移动端方面，这学期的接触就只是在 Alpha 开始阶段的时候用让我电脑疯狂蓝屏的 Android Studio 做了一个小组要求的小练手，然后觉得 Java 这门语言不够简洁，对 Android 兴趣渐失（可以说是个偏执狂了）。而 iOS 没有任何接触，但网上的风声和讨论都显示这条道路在当下异常困难，看来只能是保留选项了。</p>
 
-<p>这学期主要专注的后端方面，我认为无论是 PHP、Java、Python 或者其他，停留在会使用框架，精于使用框架实现业务逻辑都是不行的，要往前走，更关注那些底层的、繁复的、真正衡量一个项目效率和价值问题，例如：<a href="https://www.biaodianfu.com/mysql-best-practices.html">MySQL 命名、设计及使用规范</a>、<a href="https://tech.meituan.com/mysql-index.html">MySQL 索引原理及慢查询优化</a>。当时在建立 Gravel（我们项目后端的名字）的数据库的时候，虽然已经学过数据库这门课，但是面对 MySQL 的字段类型、长度、索引等等的设计，还是十分心虚——怎么做才是最好的呢？经历一番搜索后，上述文章使我受益匪浅（后来发现有 MongoDB 这样适合快速迭代开发的数据库，希望下次有机会能实践一下）。再例如，当时一个项的 id 设计也有一点问题，我找到了这篇文章：<a href="https://tech.meituan.com/MT_Leaf.html">Leaf——美团点评分布式 ID 生成系统</a>，虽然我们杀鸡不需要用到这么大的牛刀，但同样拓宽了我的视野，促使我思考。往更深了说，一个厉害的后端工程师，应当对分布式、数据挖掘、安全性、可用性等等比较玄学的名词有一些自己的理解，而我还只是停留在皮毛而已。</p>
+<p>这学期主要专注的后端方面，我认为无论是 PHP、Java、Python 或者其他，停留在会使用框架，精于使用框架实现业务逻辑都是不行的，要往前走，更关注那些底层的、繁复的、真正衡量一个项目效率和价值问题，例如：<a href="https://www.biaodianfu.com/mysql-best-practices.html" target="_blank">MySQL 命名、设计及使用规范</a>、<a href="https://tech.meituan.com/mysql-index.html" target="_blank">MySQL 索引原理及慢查询优化</a>。当时在建立 Gravel（我们项目后端的名字）的数据库的时候，虽然已经学过数据库这门课，但是面对 MySQL 的字段类型、长度、索引等等的设计，还是十分心虚——怎么做才是最好的呢？经历一番搜索后，上述文章使我受益匪浅（后来发现有 MongoDB 这样适合快速迭代开发的数据库，希望下次有机会能实践一下）。再例如，当时一个项的 id 设计也有一点问题，我找到了这篇文章：<a href="https://tech.meituan.com/MT_Leaf.html" target="_blank">Leaf——美团点评分布式 ID 生成系统</a>，虽然我们杀鸡不需要用到这么大的牛刀，但同样拓宽了我的视野，促使我思考。往更深了说，一个厉害的后端工程师，应当对分布式、数据挖掘、安全性、可用性等等比较玄学的名词有一些自己的理解，而我还只是停留在皮毛而已。</p>
 
 <p>基于上述讨论，我不敢说能够「确立前端 / 后端 / 移动端方向并专精一门语言」。</p>
 
@@ -2416,24 +2416,24 @@ public function login(Request $request)
 
 <h4 id="5-学习和使用的新软件-6-学习和使用的新工具">5、学习和使用的新软件；6、学习和使用的新工具</h4>
 
-<p>Markdown：Yu Writer、Typora、Visual Studio Code with <a href="https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced">Markdown Preview Enhanced</a> and <a href="https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint">markdownlint</a>
+<p>Markdown：Yu Writer、Typora、Visual Studio Code with <a href="https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced" target="_blank">Markdown Preview Enhanced</a> and <a href="https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint" target="_blank">markdownlint</a>
 Markdown 导出 PDF：PhantomJS
 协作：Teambition
 原型设计：Mockplus
 绘图：ProcessOn
 文档协作：石墨文档
-接口文档：DOClever、<a href="https://www.showdoc.cc">ShowDoc</a>、<a href="http://apidocjs.com/">apiDoc</a></p>
+接口文档：DOClever、<a href="https://www.showdoc.cc" target="_blank">ShowDoc</a>、<a href="http://apidocjs.com/" target="_blank">apiDoc</a></p>
 
 <p>IDE：Visual Studio 2017、PhpStorm
 编辑器：Visual Studio Code
 Git GUI：GitKraken
 虚拟机：Virtualbox、Vagrant
 数据库管理：Navicat Premium
-MySQL 数据库设计：<a href="http://ondras.zarovi.cz/sql/demo/">WWW SQL Designer</a>
+MySQL 数据库设计：<a href="http://ondras.zarovi.cz/sql/demo/" target="_blank">WWW SQL Designer</a>
 测试：OpenCppCoverage、PHPUnit、Apache ab、Postman、Apizza</p>
 
 <p>终端：iTerm
-快速命令：<a href="https://fitztrev.github.io/shuttle/">Shuttle</a>
+快速命令：<a href="https://fitztrev.github.io/shuttle/" target="_blank">Shuttle</a>
 SFTP 工具：Transmit
 文件比较与同步：FreeFileSync</p>
 
@@ -2534,7 +2534,7 @@ SFTP 工具：Transmit
 
 <h3 id="1-研发出符合用户需求的软件">1. 研发出符合用户需求的软件</h3>
 
-<p>当然，我们的 <a href="https://github.com/StardustProject/Stardust">Stardust</a> 是公开发布的、现有 339 个用户（包括测试）、1245 条日记的软件。</p>
+<p>当然，我们的 <a href="https://github.com/StardustProject/Stardust" target="_blank">Stardust</a> 是公开发布的、现有 339 个用户（包括测试）、1245 条日记的软件。</p>
 
 <h3 id="2-通过一系列工具-流程-团队合作-能够在预计的时间内发布-足够好-的软件">2. 通过一系列工具，流程，团队合作，能够在预计的时间内发布 “足够好” 的软件</h3>
 
@@ -2550,7 +2550,7 @@ SFTP 工具：Transmit
 
 <hr />
 
-<p>本文发布于 <a href="https://ladit.me/posts/final-chapter-of-software-engineering-lesson/">ladit.me/posts/final-chapter-of-software-engineering-lesson</a></p>
+<p>本文发布于 <a href="https://ladit.me/posts/final-chapter-of-software-engineering-lesson/" target="_blank">ladit.me/posts/final-chapter-of-software-engineering-lesson</a></p>
 ]]></content>
 		</item>
 		
@@ -2572,8 +2572,8 @@ SFTP 工具：Transmit
 <p>来源：</p>
 
 <ul>
-<li><a href="http://blog.fooleap.org/clean-up-quick-access.html">http://blog.fooleap.org/clean-up-quick-access.html</a></li>
-<li><a href="http://answers.microsoft.com/zh-hans/windows/forum/windows_10-files/win10/7786725e-09af-4c97-8340-1bee9fb246bd">http://answers.microsoft.com/zh-hans/windows/forum/windows_10-files/win10/7786725e-09af-4c97-8340-1bee9fb246bd</a></li>
+<li><a href="http://blog.fooleap.org/clean-up-quick-access.html" target="_blank">http://blog.fooleap.org/clean-up-quick-access.html</a></li>
+<li><a href="http://answers.microsoft.com/zh-hans/windows/forum/windows_10-files/win10/7786725e-09af-4c97-8340-1bee9fb246bd" target="_blank">http://answers.microsoft.com/zh-hans/windows/forum/windows_10-files/win10/7786725e-09af-4c97-8340-1bee9fb246bd</a></li>
 </ul>
 ]]></content>
 		</item>
