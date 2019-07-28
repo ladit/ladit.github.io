@@ -37,7 +37,7 @@
 
 <h2 id="cookies获取助手-https-chrome-google-com-webstore-detail-cookies-get-assistant-ljjpkibacifkfolehlgaolibbnlapkme"><a href="https://chrome.google.com/webstore/detail/cookies-get-assistant/ljjpkibacifkfolehlgaolibbnlapkme" target="_blank">Cookies获取助手</a></h2>
 
-<p>配合 <a href="http://qiandao.today" target="_blank">http://qiandao.today</a> （各种网站自动签到）使用的 cookie 获取工具。</p>
+<p>配合 <a href="https://qiandao.today" target="_blank">https://qiandao.today</a> （各种网站自动签到）使用的 cookie 获取工具。</p>
 
 <h2 id="enhanced-steam-https-chrome-google-com-webstore-detail-enhanced-steam-okadibdjfemgnhjiembecghcbfknbfhg"><a href="https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg" target="_blank">Enhanced Steam</a></h2>
 
@@ -65,7 +65,7 @@
 
 <h2 id="momentum-https-chrome-google-com-webstore-detail-momentum-laookkfknpbbblfpciffpaejjkokdgca"><a href="https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca" target="_blank">Momentum</a></h2>
 
-<p><img src="https://ladit-me-1251731554.cosgz.myqcloud.com/2016/03/3208928786.png" alt="Momentum.png" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2016/03/3208928786.png" alt="Momentum.png" /></p>
 
 <p>Momentum 好像最初是在知乎上看到的吧，用优雅、美观、赏心悦目、轻量便携来形容它再适合不过。这款新标签页拓展每日自动更换壁纸，附带可自定义显示的 To-Do、天气、名言、快速访问、搜索、时间等插件。</p>
 
@@ -79,7 +79,7 @@
 
 <h2 id="simpleundoclose-https-chrome-google-com-webstore-detail-simpleundoclose-emhohdghchmjepmigjojkehidlielknj"><a href="https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj" target="_blank">SimpleUndoClose</a></h2>
 
-<p><img src="https://ladit-me-1251731554.cosgz.myqcloud.com/2016/03/1329613859.png" alt="SimpleUndoClose.png" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2016/03/1329613859.png" alt="SimpleUndoClose.png" /></p>
 
 <p>SimpleUndoClose 在哪里发现的已经不记得了。是一款简单便携的历史纪录保存/快速恢复的拓展，麻雀虽小五脏俱全，提供了丰富的自定义功能：保存标签数、宽度、行数等等。相比 Ctrl+H 调出 Chrome 的历史纪录并等待加载人性化得多。</p>
 
@@ -87,18 +87,18 @@
 
 <p>Stylus 是被爆出隐私问题的 Stylish 的替代品，支持自定义所有网页的 CSS 样式，解决了 Stylish 的中文支持的问题。</p>
 
-<p>在 Windows 10 以前微软系统的字体惨不忍睹，替代字体 + Mactype + Cleartype 似乎都很难解决这个问题。而 Chrome 网页中的字体又是由它自己决定的，因而卡饭（ <a href="http://bbs.kafan.cn/thread-1681393-1-1.html" target="_blank">http://bbs.kafan.cn/thread-1681393-1-1.html</a> ）有人以冬青黑体、思源黑体、XHei 等字体替换显示，以提高美感，而在 Windows 10 以后，似乎改观许多，可以考虑使用替代字体（<a href="https://www.zhihu.com/question/33886879" target="_blank">https://www.zhihu.com/question/33886879</a> 下 @Belleve 的答案）+ Mactype + Cleartype 的方案。在 Mac 下就不用替换了。</p>
+<p>在 Windows 10 以前微软系统的字体惨不忍睹，替代字体 + Mactype + Cleartype 似乎都很难解决这个问题。而 Chrome 网页中的字体又是由它自己决定的，因而卡饭（ <a href="https://bbs.kafan.cn/thread-1681393-1-1.html" target="_blank">https://bbs.kafan.cn/thread-1681393-1-1.html</a> ）有人以冬青黑体、思源黑体、XHei 等字体替换显示，以提高美感，而在 Windows 10 以后，似乎改观许多，可以考虑使用替代字体（<a href="https://www.zhihu.com/question/33886879" target="_blank">https://www.zhihu.com/question/33886879</a> 下 @Belleve 的答案）+ Mactype + Cleartype 的方案。在 Mac 下就不用替换了。</p>
 
 <p>除了<a href="https://userstyles.org/styles/100473/004-forcemyfonts-chinese-firefoxchromeie-catcat520" target="_blank">字体替换</a>这个场景，我还使用了 <a href="https://userstyles.org" target="_blank">https://userstyles.org</a> 上许多其他样式：</p>
 
 <ul>
-<li><a href="http://userstyles.org/styles/123858" target="_blank">Baidu Lite 百度轻</a></li>
-<li><a href="http://userstyles.org/styles/124770" target="_blank">Tieba - Maverick 2018 [百度贴吧]</a></li>
-<li><a href="http://userstyles.org/styles/140593" target="_blank">w3school 简约样式</a></li>
-<li><a href="http://userstyles.org/styles/135468" target="_blank">百度文库-屏蔽</a></li>
-<li><a href="http://userstyles.org/styles/130739" target="_blank">百度百科-屏蔽和优化</a></li>
-<li><a href="http://userstyles.org/styles/130901" target="_blank">百度知道-屏蔽与排版</a></li>
-<li><a href="http://userstyles.org/styles/132605" target="_blank">百度经验-屏蔽和优化</a></li>
+<li><a href="https://userstyles.org/styles/123858" target="_blank">Baidu Lite 百度轻</a></li>
+<li><a href="https://userstyles.org/styles/124770" target="_blank">Tieba - Maverick 2018 [百度贴吧]</a></li>
+<li><a href="https://userstyles.org/styles/140593" target="_blank">w3school 简约样式</a></li>
+<li><a href="https://userstyles.org/styles/135468" target="_blank">百度文库-屏蔽</a></li>
+<li><a href="https://userstyles.org/styles/130739" target="_blank">百度百科-屏蔽和优化</a></li>
+<li><a href="https://userstyles.org/styles/130901" target="_blank">百度知道-屏蔽与排版</a></li>
+<li><a href="https://userstyles.org/styles/132605" target="_blank">百度经验-屏蔽和优化</a></li>
 </ul>
 
 <p>事实上，我现在把这些样式都作为 js 脚本，利用 Tampermonkey 注入，并禁用了 Stylus。</p>
@@ -553,7 +553,7 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 <li><a href="https://wongyouth.github.io/2019/04/28/xhyve-%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E4%B8%8B%E8%BD%BB%E9%87%8F%E7%BA%A7%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%96%B9%E6%A1%88/" target="_blank">xhyve, 苹果电脑下轻量级虚拟机方案</a></li>
 <li><a href="https://zhuanlan.zhihu.com/p/27282986" target="_blank">如何提升Docker for Mac性能</a></li>
 <li><a href="https://laradock.io/documentation/#improve-speed-on-macos" target="_blank">Improve speed on MacOS - Laradock</a></li>
-<li><a href="http://alitain.tech/2017/07/04/mac-with-dinghy-and-laradock/" target="_blank">Mac使用dinghy和laradock搭建php运行环境</a></li>
+<li><a href="https://alitain.tech/2017/07/04/mac-with-dinghy-and-laradock/" target="_blank">Mac使用dinghy和laradock搭建php运行环境</a></li>
 </ul>
 ]]></content>
 		</item>
@@ -689,6 +689,12 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 </tbody>
 </table>
 
+<blockquote>
+<blockquote>
+<p>趁着618入手的，表格实际总计是9300左右（退货的DW1820A是70左右）</p>
+</blockquote>
+</blockquote>
+
 <h2 id="为什么这么选">为什么这么选</h2>
 
 <h3 id="cpu">CPU</h3>
@@ -716,6 +722,12 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 
 <p>缺点是性价比低，海淘性价比较高，但无保修。</p>
 
+<blockquote>
+<blockquote>
+<p>主板周围灯光可以在BIOS中关闭</p>
+</blockquote>
+</blockquote>
+
 <h3 id="显卡">显卡</h3>
 
 <ul>
@@ -724,6 +736,12 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 <li>不那么高的性能需求</li>
 <li>Vega56价格、能耗高，ITX机箱限制</li>
 </ul>
+
+<blockquote>
+<blockquote>
+<p>蓝宝石的软件支持较差，蓝色风扇灯光无法关闭</p>
+</blockquote>
+</blockquote>
 
 <h3 id="内存">内存</h3>
 
@@ -737,6 +755,12 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 <h3 id="散热">散热</h3>
 
 <p>ITX机箱对风冷限高比较严格，找来找去没有发现特别适合的方案，又发现SKTC S02这款机箱支持240一体式水冷，于是考虑使用水冷。不需要光，京东按销量排序，选中了这款，虽然有点贵，但有5年质保和2400RPM的风扇转速和75CFM的风量，压制i5-9600K或i7-8700应该都可以。</p>
+
+<blockquote>
+<blockquote>
+<p>灯光在Windows下可以完全关闭，在macOS下会是默认的循环渐变色</p>
+</blockquote>
+</blockquote>
 
 <h3 id="电源">电源</h3>
 
@@ -757,7 +781,7 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 
 <p>根据下图和Hackintosh硬件推荐，SN750应该是近期性价比最高（淘宝）的NVMe SSD。</p>
 
-<p><img src="http://spider.ws.126.net/5c1b0b595fff3e8a61bf0fc454bde3d1.jpeg" alt="SSD对比" /></p>
+<p><img src="https://spider.ws.126.net/5c1b0b595fff3e8a61bf0fc454bde3d1.jpeg" alt="SSD对比" /></p>
 
 <h3 id="机箱">机箱</h3>
 
@@ -773,6 +797,8 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 <p>这样得出的结果大致是10升的A4机箱，需要显卡转接线，市面上有许多产品。</p>
 
 <p>国外论坛上的SFF Build帖子大多是用Ghost S1、Dan Case之类的A4机箱，但这些需要转运并且特别贵。也有老外在淘宝买然后转运出去的。然后自己在淘宝搜也是一头雾水。B站up主 @玩笑笑笑笑笑 的视频<a href="https://www.bilibili.com/video/av51769793" target="_blank">[B站最详细]ITX装机指南(收录25款散热器&amp;98款机箱)</a>使我对ITX机箱有了比较清晰的认识，大致对比了一下选择了SKTC S02这款，红色的颜值还是挺舒服的。</p>
+
+<p>没有选择比较热门的水冷快乐盒、小方糖等A4机箱是因为这些款式加上显卡转接线价格也不低，有的要写文章发帖子才能减免。另外看描述SKTC S02的金属壳体是比较厚的。</p>
 
 <p>另外一提，银河W1非常好看，适合经济宽裕动手能力强的人入手。</p>
 
@@ -791,60 +817,60 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 <p>对于这些零件（机箱、主板、水冷、电源、显卡）的配合，我建议的安装顺序是：</p>
 
 <ul>
-<li>打开机箱前后上外壳</li>
+<li>打开机箱侧面和上面外壳</li>
 <li>安装主板背部水冷支架</li>
 <li>插入内存</li>
 <li>更换DW1560</li>
-<li>安装电源</li>
-<li>安装显卡：显卡延长线从显卡底部连接，180度弯折绕到显卡背部和中板之间，伸到顶部，180度弯折绕过中板顶部以连接到主板，插入8+6pin电源，注意电源线和第二次弯折的显卡延长线不能太高，防止碰到冷排</li>
+<li>安装电源，我使用的是风扇向里，插头朝下的方式</li>
+<li>安装显卡：显卡延长线从显卡底部连接，180度弯折绕到显卡背部和中板之间，伸到顶部，180度弯折绕过中板顶部以连接到主板，插入8+6pin电源，注意电源线和第二次弯折的显卡延长线不能太高，否则可能碰到冷排风扇</li>
 <li>合上显卡侧机箱外壳</li>
 <li>安装风扇到冷排，安装冷排到机箱，合上机箱上外壳</li>
 <li>安装主板、水冷头、剩余接线。此时要注意走线，我的做法是把风扇线、水冷管、机箱USB3线、电源按钮跳线等需要绕的线都塞在电源、主板、中板间的区域；把电源按钮跳线、水冷头USB2线穿过显卡延长线再接</li>
 <li>合上主板侧机箱外壳</li>
 </ul>
 
-<h3 id="更换dw1560流程-来自帖子">更换DW1560流程（来自帖子）</h3>
+<h3 id="更换dw1560流程-来自tonymacx86帖子">更换DW1560流程（来自tonymacx86帖子）</h3>
 
 <p>卸下主板背部固定灰色马甲的4个黑色螺丝。取下散热器并放在一边</p>
 
-<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-MB%20Screws.jpg" alt="MB Screws.jpg" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/DW1560-MB%20Screws.jpg" alt="MB Screws.jpg" /></p>
 
 <p>卸下主板背部固定WiFi模块的2个银色螺丝
 将固定IO挡板的弹簧夹掰开取下，别担心，它的铰链结构不会弯曲</p>
 
-<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-Clip.jpg" alt="Clip.jpg" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/DW1560-Clip.jpg" alt="Clip.jpg" /></p>
 
 <p>将IO挡板取下，小心地将M.2 Wi-Fi模块向上拉出</p>
 
-<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-Module.jpg" alt="Module.jpg" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/DW1560-Module.jpg" alt="Module.jpg" /></p>
 
 <p>卸下模块侧面固定螺丝</p>
 
-<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-Sidescrew.jpg" alt="Sidescrew.jpg" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/DW1560-Sidescrew.jpg" alt="Sidescrew.jpg" /></p>
 
 <p>向上滑动前盖并将其完全取下，您可能需要稍微拆下后贴纸</p>
 
-<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-Cover.jpg" alt="Cover.jpg" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/DW1560-Cover.jpg" alt="Cover.jpg" /></p>
 
 <p>小心卸下两条天线，上面的天线连接的是左边的接口</p>
 
-<p><img src="http://images-1251731554.file.myqcloud.com/DW1560-board.jpg" alt="board.jpg" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/DW1560-board.jpg" alt="board.jpg" /></p>
 
 <p>拧开固定螺丝，取下旧模块，小心不要撕破小海绵垫片，换上新模块并装上螺丝
-小心连接天线，连接头不好安装，确保它们咔哒一声到位，不要太大力，防止压碎它们
+小心连接天线，连接头不好安装，确保它们咔哒一声到位，不要太大力，以免压碎它们
 反向重复该过程，装回主板。</p>
 
 <h3 id="最终成果">最终成果</h3>
 
-<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0177.jpg" alt="IMG_0177.jpg" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/IMG_0177.jpg" alt="IMG_0177.jpg" /></p>
 
-<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0178.jpg" alt="IMG_0178.jpg" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/IMG_0178.jpg" alt="IMG_0178.jpg" /></p>
 
-<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0179.jpg" alt="IMG_0179.jpg" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/IMG_0179.jpg" alt="IMG_0179.jpg" /></p>
 
-<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0180.jpg" alt="IMG_0180.jpg" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/IMG_0180.jpg" alt="IMG_0180.jpg" /></p>
 
-<p><img src="http://images-1251731554.file.myqcloud.com/IMG_0181.jpg" alt="IMG_0181.jpg" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/IMG_0181.jpg" alt="IMG_0181.jpg" /></p>
 
 <h2 id="hackintosh安装">Hackintosh安装</h2>
 
@@ -872,7 +898,7 @@ sys     0m <span class="m">0</span>.45s</code></pre></div>
 <li>下载<a href="https://www.tonymacx86.com/resources/unibeast-9-2-0-mojave.426/download" target="_blank">Unibast for Mojave</a>（tonymacx86当前可能不能上，我使用tw线路可以上，也可以找找镜像或选择手动命令行制作）</li>
 <li>从应用商店下载Mojave安装程序</li>
 <li>运行UniBeast并选择U盘，Mojave安装程序和UEFI。将其他所有内容留空，然后单击继续以创建安装程序。这可能需要很长时间，所以要耐心等待</li>
-<li>下载<a href="https://github.com/ladit/hackintosh/tree/master/EFI" target="_blank">提供的EFI</a>并替换U盘EFI分区中的EFI文件夹，双击使用Clover Configurator打开U盘EFI分区下的<code>/EFI/CLOVER/config.plist</code></li>
+<li>下载<a href="https://github.com/ladit/hackintosh/tree/master/EFI" target="_blank">我的EFI</a>并替换U盘EFI分区中的EFI文件夹，双击使用Clover Configurator打开U盘EFI分区下的<code>/EFI/CLOVER/config.plist</code></li>
 <li>单击Clover Configurator 左侧的SMBIOS</li>
 <li>单击System下的Serial Number右侧的Generate New</li>
 <li>点击右侧iMac图片下的Check Coverage</li>
@@ -924,7 +950,7 @@ Tools &gt; Asus User Profile &gt; Save to Profile &gt; 1</p>
 <ul>
 <li>将安装U盘插入待安装的机器，从Clover菜单中启动并选择Installer作为启动盘，安装系统，过程中将多次重启，在Clover中选择从本地磁盘启动就可以继续。建议进入系统后再登录iCloud</li>
 <li>下载，解压缩，安装<a href="https://mackie100projects.altervista.org/download/ccg/" target="_blank">Clover Configurator</a></li>
-<li>单击工具下的Mount EFI，挂载U盘和本地磁盘的EFI分区，用U盘的EFI文件夹替换本地磁盘的EFI文件夹</li>
+<li>单击工具下的Mount EFI，挂载U盘和本地磁盘的EFI分区，用U盘的EFI文件夹替换本地磁盘的EFI文件夹（若制作启动U盘时没有生成SMBIOS等操作，在此时对本地磁盘下的clover.plist生成）</li>
 <li>重新启动进入BIOS，设置本地磁盘为第一引导顺序</li>
 
 <li><p>启动并检查以下项目是否正常运行：</p></li>
@@ -980,15 +1006,9 @@ Tools &gt; Asus User Profile &gt; Save to Profile &gt; 1</p>
 <ul>
 <li>Handoff</li>
 <li>iMessage</li>
-<li>Continuity Camera</li>
-<li>Universal Clipboard</li>
-<li>Instant Hotspot</li>
 <li>Air Drop</li>
 <li>iPhone Cellular Calls</li>
-<li>Auto Unlock</li>
 </ul></li>
-<li>Sleep (fans and RGB LEDs included)</li>
-<li>Power Nap (sleep with background operations such as Time Machine)</li>
 <li>Wake</li>
 <li>CPU frequency tuning</li>
 <li>H264/HEVC hardware encoding and decoding</li>
@@ -996,8 +1016,17 @@ Tools &gt; Asus User Profile &gt; Save to Profile &gt; 1</p>
 <li>Ethernet</li>
 <li>Bluetooth</li>
 <li>WiFi</li>
-<li>All USB and USB 3.1 ports</li>
-<li>Nightshift (no kexts required)</li>
+<li>All USB ports</li>
+</ul>
+
+<p>存在问题：</p>
+
+<ul>
+<li>Universal Clipboard：似乎并没怎么出现</li>
+<li>Instant Hotspot：似乎出现后会消失</li>
+<li>Sleep (fans and RGB LEDs included)：显卡风扇灯、水冷灯、键盘number lock、鼠标灯会关掉一下再打开，但睡眠唤醒完全正常</li>
+<li>Power Nap (sleep with background operations such as Time Machine)：随机断电重启后我关闭了此项，不知道是不是无法使用</li>
+<li>开机进度条到中间时屏幕上半部分会出现紫色条纹，过一会儿闪烁后正常进入系统，据黑果小兵的帖子，1.3.1版本的WhateverGreen修复了这个问题，但Release目前只有1.3.0</li>
 </ul>
 
 <p>无效：</p>
@@ -1007,9 +1036,24 @@ Tools &gt; Asus User Profile &gt; Save to Profile &gt; 1</p>
 <li>Function keys(such as brightness or volume)：外接显示器无法调节，但我的IKBC G104按住fn键+F9-F11可以调节音量</li>
 </ul>
 
+<p>未测试：</p>
+
+<ul>
+<li>Continuity Camera</li>
+<li>Auto Unlock</li>
+<li>USB 3.1 Gen 2 port</li>
+<li>Nightshift (no kexts required)</li>
+</ul>
+
 <h2 id="windows安装">Windows安装</h2>
 
 <p>使用另一个U盘刷入PE，装在另一块硬盘即可，Clover会自动检查到启动项。</p>
+
+<h2 id="后记">后记</h2>
+
+<p>使用了一段时间，从个人需求来看，CPU、显卡、散热、电源都有点性能过剩，打LOL画质拉满风扇不怎么动的。SF600的原装线也不怎么硬。</p>
+
+<p>Hackintosh的使用遇到了很大的阻碍，先是DW1820A很不稳定，时不时断网，换了DW1560后稳定许多，但在10.14.5下总是出现随机自动断电重启的现象（参考的帖子应该是旧的BIOS和macOS版本，但帖子里的回复也没有提到这个问题的），找遍Google没有结果，tonymacx86也难以访问。有的说要定制USB，但我不熟悉也没有去操作，只好每天在Windows下快乐云顶之弈。这两天10.14.6发布，我直接可以更新，过程中会重启几次，选择正确的启动磁盘即可。同时，更新之前我的设置-&gt;节能中只选择了<code>如果可能，使硬盘进入睡眠</code>，更新后macOS已经持续好几个小时没有断电重启了，有待继续观察。</p>
 
 <h2 id="参考">参考</h2>
 
@@ -1040,7 +1084,7 @@ Tools &gt; Asus User Profile &gt; Save to Profile &gt; 1</p>
 <ul>
 <li><a href="https://sspai.com/post/43239" target="_blank">给 Mac 优雅地一键「装机」</a></li>
 <li><a href="https://sspai.com/post/43265" target="_blank">定期自动云备份 macOS 软件列表，维护一份属于自己的必备 App 清单</a></li>
-<li><a href="http://honglu.me/2014/09/20/OSX%E7%B3%BB%E7%BB%9F%E6%B7%BB%E5%8A%A0%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/" target="_blank">OSX 系统添加定时任务</a></li>
+<li><a href="https://honglu.me/2014/09/20/OSX%E7%B3%BB%E7%BB%9F%E6%B7%BB%E5%8A%A0%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/" target="_blank">OSX 系统添加定时任务</a></li>
 <li><a href="https://my.oschina.net/aven92/blog/486037" target="_blank">crontab 中 PATH 的坑</a></li>
 </ul>
 
@@ -1180,7 +1224,7 @@ Visual Studio Marketplace 安装：<a href="https://marketplace.visualstudio.com
 
 <p>结果会以绿色（覆盖）和红色（未覆盖）的样式直接在你的代码上显示，也有一个 Coverage 窗口显示详细信息，点击其中的 Display coverage  复选框可以隐藏覆盖显示，或者重启 Visual Studio。</p>
 
-<p><img src="http://ouk4b9x96.bkt.clouddn.com/openCppCoverage-20170911174602.png" alt="OpenCppCoverage" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/openCppCoverage-20170911174602.png" alt="OpenCppCoverage" /></p>
 
 <hr />
 
@@ -1197,49 +1241,49 @@ Visual Studio Marketplace 安装：<a href="https://marketplace.visualstudio.com
 			<description>iPod 作为 Apple 在推出 iPhone 之前的主打产品， 承载了许多令人叹服的设计。例如 iPod touch 6.1毫米的惊人厚度，甚至第一次拿起同学的 iPod touch 时，我怀疑再薄一些就变成了一</description>
 			<content type="html"><![CDATA[<p>iPod 作为 Apple 在推出 iPhone 之前的主打产品， 承载了许多令人叹服的设计。例如 iPod touch 6.1毫米的惊人厚度，甚至第一次拿起同学的 iPod touch 时，我怀疑再薄一些就变成了一柄刀刃；例如最新的 iPod nano 沿袭了 iPod 的弧形边缘，传承了 iPhone 的音量键、Home 键、睡眠/唤醒键设计，易于使用；例如你掂量起来和 EarPods 差不多重量的iPod shuffle，竟然可以是一个音乐播放器——</p>
 
-<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/1217229147.jpg" alt="IMG_0153.jpg" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2015/12/1217229147.jpg" alt="IMG_0153.jpg" /></p>
 
-<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/1489154707.jpg" alt="IMG_0154.jpg" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2015/12/1489154707.jpg" alt="IMG_0154.jpg" /></p>
 
 <h5 align="center">礼品盒式的包装给 Apple 产品平日的高傲添一丝人情味</h5>
 
-<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/2641643030.jpg" alt="IMG_0152.jpg" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2015/12/2641643030.jpg" alt="IMG_0152.jpg" /></p>
 
 <p>展开上盖，iPod shuffle 便直接映入眼帘，这样的设计在 Apple 当今几乎所有的产品都可以看到，想必为的是给消费者带去第一眼的惊喜。</p>
 
-<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/1215189000.jpg" alt="IMG_0151.jpg" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2015/12/1215189000.jpg" alt="IMG_0151.jpg" /></p>
 
 <p>去掉纸盒，透明塑料外壳包装的 iPod shuffle 完整地展示在我们面前，现今的 iPod 系列产品皆采用了透明塑料外壳，私以为难免有些廉价和过时。</p>
 
-<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/4133764078.jpg" alt="IMG_0150.jpg" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2015/12/4133764078.jpg" alt="IMG_0150.jpg" /></p>
 
 <p>打开塑料上盖，取下 iPod shuffle ，仅仅 29×31.6×8.7 mm 的尺寸，使你可以轻易将其握在手心。
 iPod shuffle 下，写有「 Designed by Apple in California 」的字样，国内诸多厂商吹嘘所谓情怀、工匠精神，我想，这样才是一种不动声色的工匠精神。</p>
 
-<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/640815427.jpg" alt="IMG_0149.jpg" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2015/12/640815427.jpg" alt="IMG_0149.jpg" /></p>
 
 <p>打开所有包装，包括：iPod shuffle、写有「 iPod shuffle 」的塑料外壳、iPod shuffle USB 连接线、一页保修单、一册写着「从这里开始」的使用指南，和一条 iPhone 4 时代的 Apple 耳机。是的，iPod shuffle 并不提供 EarPods 耳机，而是过时的 iPhone 4 耳机，但联想到 iPod shuffle、EarPods 和 Apple 大部分产品的售价，也就令人释然了。另外，使用最新的1.0.3版本固件可以出色地支持 EarPods 的线控，包括音量加减，切换歌曲，暂停/继续。</p>
 
-<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/4043381667.jpg" alt="IMG_0148.jpg" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2015/12/4043381667.jpg" alt="IMG_0148.jpg" /></p>
 
 <p>那一册使用指南中，只是一些有害化学品的含量声明，使用条款，但喜人的是有一张 Apple logo 的贴纸，这在 iPhone、Macbook 中都可以找到。</p>
 
-<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/4106443561.jpg" alt="IMG_0147.jpg" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2015/12/4106443561.jpg" alt="IMG_0147.jpg" /></p>
 
 <p>「从这里开始」的使用指南介绍了如何快速上手你的 iPod shuffle。</p>
 
-<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/4234393552.jpg" alt="IMG_0158.jpg" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2015/12/4234393552.jpg" alt="IMG_0158.jpg" /></p>
 
 <p>近距离观察 iPod shuffle，铝合金的机身虽然在 iPhone、Macbook 上已经领略过了，但再次注视，你不能不被它透出的坚实、冰冷、艺术的质感所吸引。
 圆形的控制盘不仅在 iPod 系列各个产品中经常可见，而且在 iOS 的 UI 上同样曾经融合。</p>
 
-<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/1294785160.jpg" alt="IMG_0156.jpg" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2015/12/1294785160.jpg" alt="IMG_0156.jpg" /></p>
 
 <p>iPod shuffle 的上部，是 3.5 mm 的标准耳机接口、电量/播放指示灯、VoiceOver 按键和 关闭/顺序/随机 模式切换拨片。拨片设计与 iPhone 的 静音/响铃 拨片有同样的设计语言，VoiceOver 更是十分神奇——按一下说出当前曲目，按两下播报电量，按住念出播放列表——一个按键的充分利用，这是 iPhone Home 键的天才设计，但再加上全语音回应，我第一次使用的时候，就感到十分惊奇。</p>
 
-<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/3721118512.jpg" alt="IMG_0155.jpg" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2015/12/3721118512.jpg" alt="IMG_0155.jpg" /></p>
 
-<p><img src="http://7xp5ra.com1.z0.glb.clouddn.com/2015/12/3839813957.jpg" alt="IMG_0157.jpg" /></p>
+<p><img src="https://ladit-me-1251731554.file.myqcloud.com/2015/12/3839813957.jpg" alt="IMG_0157.jpg" /></p>
 
 <p>iPod shuffle 背面，是同样的铝合金材质背夹， Apple 标志性 logo，和 Apple 镌刻服务刻下的 slogan：
 「踏歌长行 梦想永在」</p>
@@ -1318,7 +1362,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 
 <p>使用系统自带的 磁盘工具.app 可以方便地装载/卸载 Windows 分区，卸载时虚拟机才可以启动，装载时才可以在 Finder 浏览文件和利用 Boot Camp 启动 Windows。</p>
 
-<p>参考链接：<a href="http://danielphil.github.io/windows/virtualbox/osx/2015/08/25/virtualbox-boot-camp.html" target="_blank">http://danielphil.github.io/windows/virtualbox/osx/2015/08/25/virtualbox-boot-camp.html</a></p>
+<p>参考链接：<a href="https://danielphil.github.io/windows/virtualbox/osx/2015/08/25/virtualbox-boot-camp.html" target="_blank">https://danielphil.github.io/windows/virtualbox/osx/2015/08/25/virtualbox-boot-camp.html</a></p>
 ]]></content>
 		</item>
 		
@@ -1392,7 +1436,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 <ul>
 <li><a href="https://segmentfault.com/a/1190000004641936" target="_blank">[Java] 数独生成和求解</a>：使用深度优先搜索和回溯法填写数独；</li>
 <li><a href="https://my.oschina.net/wangmengjun/blog/781984" target="_blank">数独终盘生成的几种方法</a>：矩阵转换法和随机法；</li>
-<li><a href="http://blog.csdn.net/peng_wu01/article/details/6026103" target="_blank">数独 &ndash; 一个高效率生成数独的算法</a>：另一种随机法，评论中说规律性强；</li>
+<li><a href="https://blog.csdn.net/peng_wu01/article/details/6026103" target="_blank">数独 &ndash; 一个高效率生成数独的算法</a>：另一种随机法，评论中说规律性强；</li>
 </ul>
 
 <p>其中第二种的矩阵转换法和第三种的“随机法”虽然效率都较高，但在其文章和评论中都提到不够随机，有规律可循，因此我决定参考第一篇文章中说的深度优先搜索和回溯法。</p>
@@ -1402,10 +1446,10 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 <p>后来看到网上讨论（如下），Dancing Links （DLX）应该是目前求解数独较快的算法，对于题目中的1000000个数独，可能这种算法比较好实现。但当时已经基本完成了深度优先搜索和回溯法，所以这种方法有待之后改进再实现。</p>
 
 <ul>
-<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">【算法】Dancing Links (DLX) I</a></li>
-<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13168391" target="_blank">【算法】Dancing Links (DLX) II</a></li>
-<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">DLX 算法介绍</a></li>
-<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">Sudoku DLX 算法求解</a></li>
+<li><a href="https://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">【算法】Dancing Links (DLX) I</a></li>
+<li><a href="https://blog.csdn.net/keyboardlabourer/article/details/13168391" target="_blank">【算法】Dancing Links (DLX) II</a></li>
+<li><a href="https://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">DLX 算法介绍</a></li>
+<li><a href="https://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">Sudoku DLX 算法求解</a></li>
 <li><a href="http://blog.gssxgss.me/use-dlx-to-solve-sudoku-1/" target="_blank">用 DLX 解 sudoku(数独)</a></li>
 <li><a href="https://www.oschina.net/code/snippet_1159061_22803" target="_blank">数独 Sudoku DLX 算法</a></li>
 </ul>
@@ -1417,8 +1461,8 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 <p>在网上找了一些文件输出效率对比的文章（以下列出），似乎它们都一致认为 C 标准的函数效率更高，但这些文章都较为老旧，不知道是否都使用  Visual Studio，有使用  Visual Studio 的版本又较低，新的  Visual Studio 使用 MSBuild 作为编译器，据说 C++ 标准的函数效率有所改进，同时重要的是，为了统一代码标准，应当先使用 C++ 标准的 <code>fstream</code>。</p>
 
 <ul>
-<li><a href="http://blog.csdn.net/shudaxia123/article/details/50491451" target="_blank">C/C++ 文件操作效率比较——FILE/fstream</a></li>
-<li><a href="http://blog.csdn.net/kevin_ut/article/details/6088489" target="_blank">fstream 与 C 风格（例如 fread 和 fwrite ）两种读写文件方法的效率比较</a></li>
+<li><a href="https://blog.csdn.net/shudaxia123/article/details/50491451" target="_blank">C/C++ 文件操作效率比较——FILE/fstream</a></li>
+<li><a href="https://blog.csdn.net/kevin_ut/article/details/6088489" target="_blank">fstream 与 C 风格（例如 fread 和 fwrite ）两种读写文件方法的效率比较</a></li>
 <li><a href="https://www.byvoid.com/zhs/blog/fast-readfile" target="_blank">探寻 C++ 最快的读取文件的方案</a></li>
 <li><a href="http://dantvt.is-programmer.com/posts/12701.html" target="_blank">File I/O 效率 C vs C++ (一)</a></li>
 </ul>
@@ -1618,7 +1662,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 
 <h2 id="测试运行">测试运行</h2>
 
-<p><img src="http://ouk4b9x96.bkt.clouddn.com/sudoku-running-20170910202010.png" alt="运行测试" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/sudoku-running-20170910202010.png" alt="运行测试" /></p>
 
 <hr />
 
@@ -1638,13 +1682,13 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 
 <p>文件写入改进前：</p>
 
-<p><img src="http://ouk4b9x96.bkt.clouddn.com/performance-before-20170910211012.png" alt="文件写入改进前" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/performance-before-20170910211012.png" alt="文件写入改进前" /></p>
 
 <p>文件写入改进后：</p>
 
-<p><img src="http://ouk4b9x96.bkt.clouddn.com/performance-after-20170910210953.png" alt="文件写入改进后" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/performance-after-20170910210953.png" alt="文件写入改进后" /></p>
 
-<p><img src="http://ouk4b9x96.bkt.clouddn.com/cpu-usage-20170910212844.png" alt="CPU 占用" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/cpu-usage-20170910212844.png" alt="CPU 占用" /></p>
 
 <p>可以看到，在改进前 <code>fileController::write()</code> 消耗很大，改进后 <code>sudokuMaker::validNumbersQuantity()</code> 是最大消耗的函数。如果想要进一步改进的话，应该需要使用上面说的 DLX 算法。</p>
 
@@ -1656,7 +1700,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 
 <p>我使用 OpenCppCoverage 测试代码覆盖率的结果如下：</p>
 
-<p><img src="http://ouk4b9x96.bkt.clouddn.com/coverage-20170911175949.png" alt="代码覆盖率" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/coverage-20170911175949.png" alt="代码覆盖率" /></p>
 
 <h3 id="单元测试">单元测试</h3>
 
@@ -1842,7 +1886,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 
 <h2 id="软件工程实践-2017-第一次作业-https-www-cnblogs-com-easteast-p-7403491-html"><a href="https://www.cnblogs.com/easteast/p/7403491.html" target="_blank">软件工程实践 2017 第一次作业</a></h2>
 
-<p><audio src="http://ladit-me-1251731554.file.myqcloud.com/%E4%BB%99%E5%89%91%E9%97%AE%E6%83%85_%E9%92%A2%E7%90%B4%E6%BC%94%E5%A5%8F_cut.mp3" controls="controls" autoplay playsinline="" webkit-playsinline=""></audio></p>
+<p><audio src="https://ladit-me-1251731554.file.myqcloud.com/%E4%BB%99%E5%89%91%E9%97%AE%E6%83%85_%E9%92%A2%E7%90%B4%E6%BC%94%E5%A5%8F_cut.mp3" controls="controls" autoplay playsinline="" webkit-playsinline=""></audio></p>
 
 <hr />
 
@@ -1999,7 +2043,7 @@ sudo chown your_username_here *.vmdk</code></pre></div>
 
 <p>一些题外话：</p>
 
-<p>关于 Markdown 写作，我建议在线使用 <a href="http://dillinger.io/" target="_blank">dillinger.io</a>，客户端使用 <a href="https://ivarptr.github.io/yu-writer.site/" target="_blank">Yu Writer</a>，它目前支持 Windows 和 macOS，有良好的体验和界面：
+<p>关于 Markdown 写作，我建议在线使用 <a href="https://dillinger.io/" target="_blank">dillinger.io</a>，客户端使用 <a href="https://ivarptr.github.io/yu-writer.site/" target="_blank">Yu Writer</a>，它目前支持 Windows 和 macOS，有良好的体验和界面：
 <img src="https://ivarptr.github.io/yu-writer.site/resources/images/screenshot/optimize/theme4@2x.png" alt="Yu Writer" /></p>
 
 <p>文章的中文和英文、数字间请手动使用空格分离开，以达到较好的排版效果，例如
@@ -2292,7 +2336,7 @@ public function login(Request $request)
 			<description>一、请回望暑假时的第一次作业，你对于软件工程课程的想象 当时正值酷暑，快开学了，在家里也是无所事事，就花费了一些心思写下了那份第一次作业。现</description>
 			<content type="html"><![CDATA[
 
-<p><audio src="http://ladit-me-1251731554.file.myqcloud.com/%E7%8E%8B%E5%9B%BD%E6%B2%A3%20-%20%E5%A4%A7%E5%9C%A3.mp3" controls="controls" autoplay playsinline="" webkit-playsinline=""></audio></p>
+<p><audio src="https://ladit-me-1251731554.file.myqcloud.com/%E7%8E%8B%E5%9B%BD%E6%B2%A3%20-%20%E5%A4%A7%E5%9C%A3.mp3" controls="controls" autoplay playsinline="" webkit-playsinline=""></audio></p>
 
 <h2 id="一-请回望暑假时的第一次作业-你对于软件工程课程的想象">一、请回望暑假时的第一次作业，你对于软件工程课程的想象</h2>
 
@@ -2572,8 +2616,8 @@ SFTP 工具：Transmit
 <p>来源：</p>
 
 <ul>
-<li><a href="http://blog.fooleap.org/clean-up-quick-access.html" target="_blank">http://blog.fooleap.org/clean-up-quick-access.html</a></li>
-<li><a href="http://answers.microsoft.com/zh-hans/windows/forum/windows_10-files/win10/7786725e-09af-4c97-8340-1bee9fb246bd" target="_blank">http://answers.microsoft.com/zh-hans/windows/forum/windows_10-files/win10/7786725e-09af-4c97-8340-1bee9fb246bd</a></li>
+<li><a href="https://blog.fooleap.org/clean-up-quick-access.html" target="_blank">https://blog.fooleap.org/clean-up-quick-access.html</a></li>
+<li><a href="https://answers.microsoft.com/zh-hans/windows/forum/windows_10-files/win10/7786725e-09af-4c97-8340-1bee9fb246bd" target="_blank">https://answers.microsoft.com/zh-hans/windows/forum/windows_10-files/win10/7786725e-09af-4c97-8340-1bee9fb246bd</a></li>
 </ul>
 ]]></content>
 		</item>
@@ -2587,7 +2631,7 @@ SFTP 工具：Transmit
 			<description>沙龙 作曲：陈奕迅 作词：黄伟文 编曲：C.Y. Kong / Gary Tong / Davy Chan 监制：陈奕迅 / Stanley Leung / C.Y. Kong / Davy Chan 对焦 她的爱 对慢了 爱人会失去可爱 记低 这感慨 世事变 有没有将</description>
 			<content type="html"><![CDATA[
 
-<p><audio src="http://ladit-me-1251731554.file.myqcloud.com/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%B2%99%E9%BE%99.mp3" controls="controls" autoplay playsinline="" webkit-playsinline=""></audio></p>
+<p><audio src="https://ladit-me-1251731554.file.myqcloud.com/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%B2%99%E9%BE%99.mp3" controls="controls" autoplay playsinline="" webkit-playsinline=""></audio></p>
 
 <h2 id="沙龙">沙龙</h2>
 

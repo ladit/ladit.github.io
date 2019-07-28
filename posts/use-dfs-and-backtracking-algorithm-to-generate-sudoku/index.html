@@ -7,7 +7,6 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="theme-color" content="#494f5c">
 	<meta name="msapplication-TileColor" content="#494f5c">
-
 <meta itemprop="name" content="数独 - 软件工程实践 2017 第二次作业">
 <meta itemprop="description" content="Github 地址 https://github.com/ladit/Sudoku 解题思路 数独生成 我算法方面差一些，数独以前也是没有玩过的。了解了数独的规则后，想到的方法也只是暴力计算——也就是随机法——循环生成一">
 
@@ -97,7 +96,7 @@
 <ul>
 <li><a href="https://segmentfault.com/a/1190000004641936" target="_blank">[Java] 数独生成和求解</a>：使用深度优先搜索和回溯法填写数独；</li>
 <li><a href="https://my.oschina.net/wangmengjun/blog/781984" target="_blank">数独终盘生成的几种方法</a>：矩阵转换法和随机法；</li>
-<li><a href="http://blog.csdn.net/peng_wu01/article/details/6026103" target="_blank">数独 &ndash; 一个高效率生成数独的算法</a>：另一种随机法，评论中说规律性强；</li>
+<li><a href="https://blog.csdn.net/peng_wu01/article/details/6026103" target="_blank">数独 &ndash; 一个高效率生成数独的算法</a>：另一种随机法，评论中说规律性强；</li>
 </ul>
 
 <p>其中第二种的矩阵转换法和第三种的“随机法”虽然效率都较高，但在其文章和评论中都提到不够随机，有规律可循，因此我决定参考第一篇文章中说的深度优先搜索和回溯法。</p>
@@ -107,10 +106,10 @@
 <p>后来看到网上讨论（如下），Dancing Links （DLX）应该是目前求解数独较快的算法，对于题目中的1000000个数独，可能这种算法比较好实现。但当时已经基本完成了深度优先搜索和回溯法，所以这种方法有待之后改进再实现。</p>
 
 <ul>
-<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">【算法】Dancing Links (DLX) I</a></li>
-<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13168391" target="_blank">【算法】Dancing Links (DLX) II</a></li>
-<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">DLX 算法介绍</a></li>
-<li><a href="http://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">Sudoku DLX 算法求解</a></li>
+<li><a href="https://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">【算法】Dancing Links (DLX) I</a></li>
+<li><a href="https://blog.csdn.net/keyboardlabourer/article/details/13168391" target="_blank">【算法】Dancing Links (DLX) II</a></li>
+<li><a href="https://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">DLX 算法介绍</a></li>
+<li><a href="https://blog.csdn.net/keyboardlabourer/article/details/13015689" target="_blank">Sudoku DLX 算法求解</a></li>
 <li><a href="http://blog.gssxgss.me/use-dlx-to-solve-sudoku-1/" target="_blank">用 DLX 解 sudoku(数独)</a></li>
 <li><a href="https://www.oschina.net/code/snippet_1159061_22803" target="_blank">数独 Sudoku DLX 算法</a></li>
 </ul>
@@ -122,8 +121,8 @@
 <p>在网上找了一些文件输出效率对比的文章（以下列出），似乎它们都一致认为 C 标准的函数效率更高，但这些文章都较为老旧，不知道是否都使用  Visual Studio，有使用  Visual Studio 的版本又较低，新的  Visual Studio 使用 MSBuild 作为编译器，据说 C++ 标准的函数效率有所改进，同时重要的是，为了统一代码标准，应当先使用 C++ 标准的 <code>fstream</code>。</p>
 
 <ul>
-<li><a href="http://blog.csdn.net/shudaxia123/article/details/50491451" target="_blank">C/C++ 文件操作效率比较——FILE/fstream</a></li>
-<li><a href="http://blog.csdn.net/kevin_ut/article/details/6088489" target="_blank">fstream 与 C 风格（例如 fread 和 fwrite ）两种读写文件方法的效率比较</a></li>
+<li><a href="https://blog.csdn.net/shudaxia123/article/details/50491451" target="_blank">C/C++ 文件操作效率比较——FILE/fstream</a></li>
+<li><a href="https://blog.csdn.net/kevin_ut/article/details/6088489" target="_blank">fstream 与 C 风格（例如 fread 和 fwrite ）两种读写文件方法的效率比较</a></li>
 <li><a href="https://www.byvoid.com/zhs/blog/fast-readfile" target="_blank">探寻 C++ 最快的读取文件的方案</a></li>
 <li><a href="http://dantvt.is-programmer.com/posts/12701.html" target="_blank">File I/O 效率 C vs C++ (一)</a></li>
 </ul>
@@ -323,7 +322,7 @@
 
 <h2 id="测试运行">测试运行<a href="#测试运行" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
 
-<p><img src="http://ouk4b9x96.bkt.clouddn.com/sudoku-running-20170910202010.png" alt="运行测试" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/sudoku-running-20170910202010.png" alt="运行测试" /></p>
 
 <hr />
 
@@ -343,13 +342,13 @@
 
 <p>文件写入改进前：</p>
 
-<p><img src="http://ouk4b9x96.bkt.clouddn.com/performance-before-20170910211012.png" alt="文件写入改进前" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/performance-before-20170910211012.png" alt="文件写入改进前" /></p>
 
 <p>文件写入改进后：</p>
 
-<p><img src="http://ouk4b9x96.bkt.clouddn.com/performance-after-20170910210953.png" alt="文件写入改进后" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/performance-after-20170910210953.png" alt="文件写入改进后" /></p>
 
-<p><img src="http://ouk4b9x96.bkt.clouddn.com/cpu-usage-20170910212844.png" alt="CPU 占用" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/cpu-usage-20170910212844.png" alt="CPU 占用" /></p>
 
 <p>可以看到，在改进前 <code>fileController::write()</code> 消耗很大，改进后 <code>sudokuMaker::validNumbersQuantity()</code> 是最大消耗的函数。如果想要进一步改进的话，应该需要使用上面说的 DLX 算法。</p>
 
@@ -361,7 +360,7 @@
 
 <p>我使用 OpenCppCoverage 测试代码覆盖率的结果如下：</p>
 
-<p><img src="http://ouk4b9x96.bkt.clouddn.com/coverage-20170911175949.png" alt="代码覆盖率" /></p>
+<p><img src="https://images-1251731554.file.myqcloud.com/coverage-20170911175949.png" alt="代码覆盖率" /></p>
 
 <h3 id="单元测试">单元测试<a href="#单元测试" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
 
